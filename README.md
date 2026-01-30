@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977ffdc88e2b47213bc0b9a?utm_campaign=1063&utm_source=git)** | Ann Arbor | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977fd1d52f3c27ec64436c7?utm_campaign=1063&utm_source=git)** | Grand Rapids | Hybrid | Jan 26 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69781310fdeb8243a27b092d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6977c78388e2b47213bbbd13?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 | **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977b538fdeb8243a27a9f14?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | ↳ | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977a1de88e2b47213bb888b?utm_campaign=1063&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 26 |
@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a82a49a885af9a308a9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Strategy and Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69799fbbca92cf0d6a82e690?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6978573452f3c27ec644aee5?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
