@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697ce50c3f57a33569668dfb?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Jan 30 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
