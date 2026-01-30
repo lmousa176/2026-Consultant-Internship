@@ -63,8 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697bce5c0b88cc7d64229ba6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697be3aa1423772304ec262f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697be2d10b88cc7d6422c5f8?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697bbf331136d179eeef434f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 29 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697bcd720b88cc7d64229b16?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
+| ↳ | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697bcd720b88cc7d64229b16?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697baffa1136d179eeef349e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697b9a371136d179eeef2771?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 29 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697b97a61423772304ebb576?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 29 |
@@ -94,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697835fb39f7f96cc6d07fc1?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977ffdc88e2b47213bc0b9a?utm_campaign=1063&utm_source=git)** | Ann Arbor | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977fd1d52f3c27ec64436c7?utm_campaign=1063&utm_source=git)** | Grand Rapids | Hybrid | Jan 26 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69781310fdeb8243a27b092d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6977c78388e2b47213bbbd13?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 | **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977b538fdeb8243a27a9f14?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | ↳ | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977a1de88e2b47213bb888b?utm_campaign=1063&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 26 |
