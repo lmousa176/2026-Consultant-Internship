@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/696048a27ebc25398eb64ce7?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/697bcf981423772304ebfc48?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697bcf4c1136d179eeef53b4?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697bce5c0b88cc7d64229ba6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697bcd720b88cc7d64229b16?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697baffa1136d179eeef349e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697b9a371136d179eeef2771?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 29 |
-| **[Clyvra](clyvra.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697b9b531423772304ebb878?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 29 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697b97a61423772304ebb576?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 29 |
 | **[Blue Ventis](blueventis.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697b833e1423772304eba66c?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Jan 29 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Intern - Digital Consulting](https://jobright.ai/jobs/info/697b7bba1423772304eba2dc?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 29 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Compliance Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6905a670ff462851fefff25f?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Clarios](https://www.clarios.com/)** | **[Procurement - Global IT Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d608ff462851fefef8ca?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697b7d571136d179eeeefe33?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f71dd3f782d2f1afbc3db?utm_campaign=1063&utm_source=git)** | Richfield, OH | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f73b509cc522e877416fe?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[RSM Canada](https://rsmcanada.com/)** | **[Strategy and Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69799fbbca92cf0d6a82e690?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6978573452f3c27ec644aee5?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976d663bc8e722e7b1b4a14?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
-| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742d5937785856350e2759?utm_campaign=1063&utm_source=git)** | Canada Corporate | Remote | Jan 23 |
+| ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742ec8206da320f49e5133?utm_campaign=1063&utm_source=git)** | CA-ON-Toronto | On Site | Jan 23 |
 | ↳ | **[Partnerships & Brand Consulting Intern - Summer 2026 / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/69742f44bc8e722e7b1925c9?utm_campaign=1063&utm_source=git)** | Toronto, ON, CA | On Site | Jan 23 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - Consulting Intern (St. Louis)](https://jobright.ai/jobs/info/6973f952206da320f49e0522?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri | On Site | Jan 23 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
@@ -135,6 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 23 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 23 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
