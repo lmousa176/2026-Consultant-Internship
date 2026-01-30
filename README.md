@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 30 |
+| **[Meridien Labs](meridienlabs.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697cf5be3f57a3356966b0d8?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697ce50c3f57a33569668dfb?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697cfab3727747250d57b5d3?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jan 30 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9e8378a7359609b8c79ec?utm_campaign=1063&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Jan 30 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/691abc5115b415636718a46e?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
@@ -133,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Strategy and Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69799fbbca92cf0d6a82e690?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Finance Automation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6978573452f3c27ec644aee5?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6976d663bc8e722e7b1b4a14?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
