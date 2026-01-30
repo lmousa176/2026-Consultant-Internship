@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Elfonze Technologies](https://www.elfonze.com/)** | **[Intern 2026 — Technology & Consulting](https://jobright.ai/jobs/info/6974d29937785856350ee013?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 24 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f7a82a49a885af9a308a9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | ↳ | **[Security Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/691f80dc09cc522e877422eb?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Jan 24 |
-| **[RSM Canada](https://rsmcanada.com/)** | **[Strategy and Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69799fbbca92cf0d6a82e690?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
