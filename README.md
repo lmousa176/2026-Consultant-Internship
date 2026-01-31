@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Consulting-Digital Risk-Intern-Summer 2026](https://jobright.ai/jobs/info/697e23f9abff4c399a9ce917?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/697e18dc7f40342e15d6f6ea?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 31 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697be3aa1423772304ec262f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697be2d10b88cc7d6422c5f8?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
 | ↳ | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697bcd720b88cc7d64229b16?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/697baffa1136d179eeef349e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/69745766bc8e722e7b196374?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 29 |
