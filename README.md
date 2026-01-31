@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697dac037f40342e15d692c8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/697d5584137a0510256675f0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/697d2b3a137a051025662de2?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -88,7 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant Intern](https://jobright.ai/jobs/info/69745766bc8e722e7b196374?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Jan 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697aeb5bc532c4768fe0b245?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Jan 28 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/697db050ce48107c0541fdf6?utm_campaign=1063&utm_source=git)** | Irvine, CA | Hybrid | Jan 28 |
+| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/697aeb5bc532c4768fe0b245?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | On Site | Jan 28 |
 | **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/697ae60217b11b1c2e41b934?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Sage Intacct Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ae208c532c4768fe09a33?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ab6cef6fc293b0a2cad8b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 28 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977ffdc88e2b47213bc0b9a?utm_campaign=1063&utm_source=git)** | Ann Arbor | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977fd1d52f3c27ec64436c7?utm_campaign=1063&utm_source=git)** | Grand Rapids | Hybrid | Jan 26 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69781310fdeb8243a27b092d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697809bbfdeb8243a27b05e4?utm_campaign=1063&utm_source=git)** | Chicago | Hybrid | Jan 26 |
+| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/69780763fdeb8243a27b04b4?utm_campaign=1063&utm_source=git)** | Kalamazoo | Hybrid | Jan 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6977c78388e2b47213bbbd13?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 | **[TriNet](http://trinet.com)** | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977b538fdeb8243a27a9f14?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | ↳ | **[Intern, Client HR Consulting](https://jobright.ai/jobs/info/6977a1de88e2b47213bb888b?utm_campaign=1063&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | On Site | Jan 26 |
