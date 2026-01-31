@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697e3362abff4c399a9d058b?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Consulting-Digital Risk-Intern-Summer 2026](https://jobright.ai/jobs/info/697e23f9abff4c399a9ce917?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Intern](https://jobright.ai/jobs/info/697e18dc7f40342e15d6f6ea?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
