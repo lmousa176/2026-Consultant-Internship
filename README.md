@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea0467f40342e15d74c21?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 31 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea11cce48107c0542b105?utm_campaign=1063&utm_source=git)** | Asheville, NC | Hybrid | Jan 31 |
+| ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea0467f40342e15d74c21?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea013abff4c399a9d3b15?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea000abff4c399a9d3b11?utm_campaign=1063&utm_source=git)** | Springfield, MO | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e9fd5abff4c399a9d3b09?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
