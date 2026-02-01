@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697f7b287f40342e15d82633?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Digital Risk Consulting Internship](https://jobright.ai/jobs/info/697f5a88ce48107c0543800f?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/697ec799abff4c399a9d69db?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 31 |
