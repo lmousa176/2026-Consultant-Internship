@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698098307f40342e15d95b7a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
+| ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698001eb7f40342e15d8c9a3?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Feb 01 |
 | **[VertoTech](vertotech.us)** | **[Digital Risk Consulting Internship](https://jobright.ai/jobs/info/697faea27f40342e15d84b2b?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697f7b287f40342e15d82633?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
