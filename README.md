@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/6980c094abff4c399a9f822f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
+| **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6980a96549964d25b5e37491?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698098307f40342e15d95b7a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
@@ -73,9 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8d777f40342e15d74ad0?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e87ddce48107c0542af2d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8771ce48107c0542aefa?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
-| **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 31 |
-| **[Horizon Lane](horizonlane.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697dac037f40342e15d692c8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/697d5584137a0510256675f0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 2)](https://jobright.ai/jobs/info/697d2b3a137a051025662de2?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -113,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ab6cef6fc293b0a2cad8b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 28 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2026)](https://jobright.ai/jobs/info/695ed3ea0badca5763af498c?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Jan 28 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/697d9565abff4c399a9c6672?utm_campaign=1063&utm_source=git)** | East Los Angeles, CA | Hybrid | Jan 27 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/697d81a6abff4c399a9c395c?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
 | ↳ | **[Advisory Intern, Strategy - People Strategy / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979b6b7ca92cf0d6a82fd2d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
