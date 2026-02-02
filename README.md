@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/698103197f40342e15d9dc8d?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6981030a49964d25b5e3d032?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980ffb97f40342e15d9d851?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980ffad7f40342e15d9d844?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698110e87f40342e15d9eb85?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/6980e2317f40342e15d9ab03?utm_campaign=1063&utm_source=git)** | US-VA Richmond | On Site | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/6980c094abff4c399a9f822f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
@@ -117,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Jan 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/697d81a6abff4c399a9c395c?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697972f90791bc1d72301b52?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/695d83c2f1f8465b79f3b6aa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697457fbbc8e722e7b19666e?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Jan 27 |
@@ -125,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/6978fa7739f7f96cc6d14e8e?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Jan 27 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69786d8452f3c27ec644bd5b?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jan 26 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
