@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8d777f40342e15d74ad0?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e87ddce48107c0542af2d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8771ce48107c0542aefa?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
-| **[VeraLogics, Inc.](https://www.veralogics.com)** | **[SAP Security and GRC (Intern) Consultant](https://jobright.ai/jobs/info/697e4f2f7f40342e15d71bf4?utm_campaign=1063&utm_source=git)** | Honolulu, HI | Remote | Jan 31 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 31 |
 | **[Horizon Lane](horizonlane.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697dac037f40342e15d692c8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
