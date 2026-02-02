@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
+| **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/6980e2317f40342e15d9ab03?utm_campaign=1063&utm_source=git)** | US-VA Richmond | On Site | Feb 02 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/6980c094abff4c399a9f822f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6980a96549964d25b5e37491?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 02 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698098307f40342e15d95b7a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
-| **[VertoTech](vertotech.us)** | **[Digital Risk Consulting Internship](https://jobright.ai/jobs/info/697faea27f40342e15d84b2b?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697f7b287f40342e15d82633?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697ea11cce48107c0542b105?utm_campaign=1063&utm_source=git)** | Asheville, NC | Hybrid | Jan 31 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Jan 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/697d81a6abff4c399a9c395c?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
-| ↳ | **[Advisory Intern, Strategy - People Strategy / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979b6b7ca92cf0d6a82fd2d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697972f90791bc1d72301b52?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/695d83c2f1f8465b79f3b6aa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 27 |
@@ -125,7 +127,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69786d8452f3c27ec644bd5b?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jan 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697835fb39f7f96cc6d07fc1?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | Hybrid | Jan 26 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
