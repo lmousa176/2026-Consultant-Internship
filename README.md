@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/6980c094abff4c399a9f822f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
+| **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6980a96549964d25b5e37491?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698098307f40342e15d95b7a?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8d777f40342e15d74ad0?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e87ddce48107c0542af2d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 31 |
 | ↳ | **[National Consulting Marketing Intern / Multiple Locations](https://jobright.ai/jobs/info/697e8771ce48107c0542aefa?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
+| **[VeraLogics, Inc.](https://www.veralogics.com)** | **[SAP Security and GRC (Intern) Consultant](https://jobright.ai/jobs/info/697e4f2f7f40342e15d71bf4?utm_campaign=1063&utm_source=git)** | Honolulu, HI | Remote | Jan 31 |
 | **[MNP](http://www.mnp.ca)** | **[MBA Intern, Consulting Services](https://jobright.ai/jobs/info/6945b65d63141d188455459b?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 31 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jan 31 |
 | **[Horizon Lane](horizonlane.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/697dac037f40342e15d692c8?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jan 30 |
@@ -128,7 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697835fb39f7f96cc6d07fc1?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | Hybrid | Jan 26 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977ffdc88e2b47213bc0b9a?utm_campaign=1063&utm_source=git)** | Ann Arbor | Hybrid | Jan 26 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6977fd1d52f3c27ec64436c7?utm_campaign=1063&utm_source=git)** | Grand Rapids | Hybrid | Jan 26 |
-| **[SullivanCotter](https://sullivancotter.com/)** | **[Compensation Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69781310fdeb8243a27b092d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
