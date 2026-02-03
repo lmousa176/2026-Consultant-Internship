@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum](valorantum.us)** | **[Consulting Digital Risk Intern.](https://jobright.ai/jobs/info/6981dc230f6f7e7a2cdb0219?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6968bf59639b452fb57e8590?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Feb 03 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69819584abff4c399aa0b204?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 02 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Technical Consulting Internship](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69818904abff4c399aa0a9e9?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Feb 02 |
