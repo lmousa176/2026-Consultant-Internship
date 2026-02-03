@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69815025abff4c399aa048ea?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 02 |
+| **[HDR](http://www.hdrinc.com)** | **[USC Internship Expo](https://jobright.ai/jobs/info/6981482149964d25b5e42b4b?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
+| **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/698143bd7f40342e15da3518?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/6981203d7f40342e15d9fcf4?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Feb 02 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69811c3749964d25b5e3ea0a?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 02 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69811b89abff4c399a9fec22?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Feb 02 |
