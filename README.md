@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/6959f573aa05c26e7ab3a3f0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Health Consulting Summer Intern- Washington DC- Campus Program 2026](https://jobright.ai/jobs/info/6981e2a7c3101f1400c38dfb?utm_campaign=1063&utm_source=git)** | Washington - Conn Ave NW | On Site | Feb 03 |
 | **[Valorantum](valorantum.us)** | **[Consulting Digital Risk Intern.](https://jobright.ai/jobs/info/6981dc230f6f7e7a2cdb0219?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
-| **[Orvanta](orvanta.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/6980c094abff4c399a9f822f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/6980a96549964d25b5e37491?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
