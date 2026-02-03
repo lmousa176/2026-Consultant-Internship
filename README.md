@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/6981203d7f40342e15d9fcf4?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Feb 02 |
+| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69811c3749964d25b5e3ea0a?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 02 |
+| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69811b89abff4c399a9fec22?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Feb 02 |
+| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698117dbabff4c399a9fe69e?utm_campaign=1063&utm_source=git)** | US - MI, Detroit | On Site | Feb 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69812eb87f40342e15da1b4c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/698103197f40342e15d9dc8d?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6981030a49964d25b5e3d032?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980ffb97f40342e15d9d851?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
@@ -131,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Jan 27 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/6978fa7739f7f96cc6d14e8e?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Jan 27 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69786d8452f3c27ec644bd5b?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
