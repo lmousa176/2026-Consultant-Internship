@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698223adc3101f1400c3c6bb?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/6960ae4ba1bbea1d9a7b6c7d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6982156fa314e76369057180?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698110e87f40342e15d9eb85?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
@@ -148,6 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6979336039f7f96cc6d1992b?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 27 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Tampa Summer 2026](https://jobright.ai/jobs/info/697d81a6abff4c399a9c395c?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Jan 27 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2026 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/695d83c2f1f8465b79f3b6aa?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
-| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
