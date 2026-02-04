@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/6982ce80348f733a5c35d647?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 03 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Summer Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69829ff6348f733a5c35998d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69826c6e348f733a5c35416b?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827a350a9e07331f8d8f4f?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
-| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69824e8a348f733a5c351b5c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/698242300f6f7e7a2cdb6b57?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Feb 03 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/698242080f6f7e7a2cdb6b35?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Feb 03 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
@@ -151,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/697ae60217b11b1c2e41b934?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Sage Intacct Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ae208c532c4768fe09a33?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Corporate Performance Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697ab6cef6fc293b0a2cad8b?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Jan 28 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
