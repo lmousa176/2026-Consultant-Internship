@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
+| ↳ | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69826c6e348f733a5c35416b?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827a350a9e07331f8d8f4f?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69824e8a348f733a5c351b5c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/698242300f6f7e7a2cdb6b57?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Feb 03 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/698242080f6f7e7a2cdb6b35?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Feb 03 |
