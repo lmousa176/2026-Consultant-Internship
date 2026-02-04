@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/698397eb01214b4cdacb4f05?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
+| ↳ | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69837877348f733a5c367e55?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| ↳ | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69769beabc8e722e7b1b221a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6983817a01214b4cdacb2a4f?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern - 2026](https://jobright.ai/jobs/info/69838011348f733a5c3684f3?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Feb 04 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6968bf59639b452fb57e8590?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Feb 03 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69819584abff4c399aa0b204?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 02 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Technical Consulting Internship](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Consulting / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69818edfabff4c399aa0af94?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/698156af49964d25b5e44a1b?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/698143bd7f40342e15da3518?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69812eb87f40342e15da1b4c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 02 |
