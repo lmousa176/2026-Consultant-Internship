@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/6985071f0f6f7e7a2cdf80b5?utm_campaign=1063&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6984bf2a8da7a612045f0113?utm_campaign=1063&utm_source=git)** | St. Louis County, MN | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/6984b8718da7a612045ef85d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984b35a8da7a612045ef53a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
-| ↳ | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| ↳ | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69769beabc8e722e7b1b221a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/68cd6c8f1ad6b16f02899553?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 04 |
