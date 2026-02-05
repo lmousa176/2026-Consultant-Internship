@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6983fb760f6f7e7a2cddfe4b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 04 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/6983f67b0f6f7e7a2cddf35f?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 04 |
+| ↳ | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69840ccc348f733a5c37cb33?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Feb 04 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/698397eb01214b4cdacb4f05?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 04 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Summer Consultrepreneurship (Internship)](https://jobright.ai/jobs/info/6983ac4501214b4cdacb791d?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
@@ -106,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/696048a27ebc25398eb64ce7?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Jan 29 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697bcf4c1136d179eeef53b4?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | ↳ | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697bce5c0b88cc7d64229ba6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/698404e40f6f7e7a2cde1492?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Jan 29 |
 | **[Belmar Consulting](https://www.belmarcloud.com)** | **[Associate Salesforce Consultant (Intern)](https://jobright.ai/jobs/info/697c5adb727747250d570b16?utm_campaign=1063&utm_source=git)** | British Columbia, Canada | On Site | Jan 29 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Supply Chain Consulting Intern](https://jobright.ai/jobs/info/697be3aa1423772304ec262f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697be2d10b88cc7d6422c5f8?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
