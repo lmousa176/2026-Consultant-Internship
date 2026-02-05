@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/6984b8718da7a612045ef85d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984b35a8da7a612045ef53a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6984adf48da7a612045ef1d0?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6984ab250f6f7e7a2cdf222a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69849b15348f733a5c38b325?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 05 |
@@ -100,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Internship Program - Technical Consulting Track](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/6959f573aa05c26e7ab3a3f0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6968bf59639b452fb57e8590?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Feb 03 |
-| **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Safety and Flight Operations Consulting](https://jobright.ai/jobs/info/69819584abff4c399aa0b204?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69844ac88da7a612045e69d9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/698143bd7f40342e15da3518?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69812eb87f40342e15da1b4c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 02 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
