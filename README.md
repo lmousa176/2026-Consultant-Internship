@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce & GTM Consulting Intern (May 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69731bfe1790715e866c1a6e?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6973112a694e99351d146ba0?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 05 |
 | ↳ | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/69683b45f25a38006696a1a7?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 05 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
-| ↳ | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| ↳ | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69769beabc8e722e7b1b221a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 04 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 03 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69851a2f8da7a612045f73ac?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827a350a9e07331f8d8f4f?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
-| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69824e8a348f733a5c351b5c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/698242300f6f7e7a2cdb6b57?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Feb 03 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/698242080f6f7e7a2cdb6b35?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Feb 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - US Operations Consulting (Multiple Positions)](https://jobright.ai/jobs/info/697f7b287f40342e15d82633?utm_campaign=1063&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
