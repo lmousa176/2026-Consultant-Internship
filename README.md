@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6984496c0f6f7e7a2cdea02d?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698535bb8da7a612045f9cc9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/698534e98da7a612045f9b42?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6985335e8da7a612045f984d?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698531300f6f7e7a2cdfc1bb?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852c5e0f6f7e7a2cdfb964?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852b4a348f733a5c395b77?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852adf0f6f7e7a2cdfb885?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6985293e0f6f7e7a2cdfb62c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
+| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6985251a348f733a5c39533f?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/69851ed50f6f7e7a2cdfa820?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
@@ -68,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6984bf2a8da7a612045f0113?utm_campaign=1063&utm_source=git)** | St. Louis County, MN | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/6984b8718da7a612045ef85d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984b35a8da7a612045ef53a?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6984adf48da7a612045ef1d0?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69853e878da7a612045fae1d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6984ab250f6f7e7a2cdf222a?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 05 |
@@ -117,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
+| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Program Consultant - Remote](https://jobright.ai/jobs/info/6981040d7f40342e15d9ddb2?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/6980f77cabff4c399a9fc414?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 02 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/6980d8bfabff4c399a9f94da?utm_campaign=1063&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
@@ -147,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6984976b0f6f7e7a2cdf0b10?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/690ed3bf221b890c27811f1b?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
-| **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | On Site | Jan 30 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
-| ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
