@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69850ea80f6f7e7a2cdf88a3?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861ff38da7a6120460c93d?utm_campaign=1063&utm_source=git)** | Boston, MA, US | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861ee28da7a6120460c710?utm_campaign=1063&utm_source=git)** | Baltimore, MD, US | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69860e7e8da7a6120460bcc7?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/69860c038da7a6120460bb72?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 06 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69860bbe8da7a6120460bb37?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Feb 06 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698604df0f6f7e7a2ce0e696?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698600d28ca8121a3a683222?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | Feb 06 |
 | **[VertoTech](vertotech.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6985fd6b8da7a6120460afe6?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698619f90f6f7e7a2ce0f3d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861a3a8ca8121a3a6840af?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6972f3e2206da320f49ce988?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6977039288e2b47213baea3f?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697458f5bc8e722e7b196cd5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
@@ -121,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
-| ↳ | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838e3f348f733a5c36a597?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
+| ↳ | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69839363348f733a5c36ab21?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69769beabc8e722e7b1b221a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 04 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/6985a6dc0f6f7e7a2ce08709?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69844ac88da7a612045e69d9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 02 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69856a6e0f6f7e7a2ce0290c?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/698143bd7f40342e15da3518?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69812eb87f40342e15da1b4c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/698103197f40342e15d9dc8d?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6981030a49964d25b5e3d032?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980ffb97f40342e15d9d851?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980ffad7f40342e15d9d844?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
