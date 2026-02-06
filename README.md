@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698604df0f6f7e7a2ce0e696?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698600d28ca8121a3a683222?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | Feb 06 |
+| **[VertoTech](vertotech.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6985fd6b8da7a6120460afe6?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6972f3e2206da320f49ce988?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6977039288e2b47213baea3f?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
 | ↳ | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697458f5bc8e722e7b196cd5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
@@ -133,19 +136,18 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69851a2f8da7a612045f73ac?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827a350a9e07331f8d8f4f?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
-| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
 | ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://jobright.ai/jobs/info/69824e8a348f733a5c351b5c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/698242300f6f7e7a2cdb6b57?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Feb 03 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/698242080f6f7e7a2cdb6b35?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/6960ae4ba1bbea1d9a7b6c7d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 03 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Digital Risk Consulting Internship](https://jobright.ai/jobs/info/6982346fc3101f1400c3e6ce?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
+| **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Internship Program - Technical Consulting Track](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/6959f573aa05c26e7ab3a3f0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6968bf59639b452fb57e8590?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69844ac88da7a612045e69d9?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 02 |
-| **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Technical Consulting Internship](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69856a6e0f6f7e7a2ce0290c?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69856a6e0f6f7e7a2ce0290c?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst - May 2026](https://jobright.ai/jobs/info/698143bd7f40342e15da3518?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69812eb87f40342e15da1b4c?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/698103197f40342e15d9dc8d?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980fcb149964d25b5e3c82e?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/6980f8ed49964d25b5e3c3e8?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
 | ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6980f89c49964d25b5e3c38d?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Business Development Intern](https://jobright.ai/jobs/info/6981048aabff4c399a9fd2d2?utm_campaign=1063&utm_source=git)** | North Carolina | On Site | Feb 02 |
-| ↳ | **[Summer 2026 - Consulting Project Management Intern](https://jobright.ai/jobs/info/69810774abff4c399a9fd67f?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
