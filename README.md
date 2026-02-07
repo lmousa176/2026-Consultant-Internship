@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986fdc78da7a61204620dcb?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69730480694e99351d144b5f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Marketing Research & Consulting](https://jobright.ai/jobs/info/69869c158ca8121a3a68ea07?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d8d00ce48107c0541d6b6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Valorantum](valorantum.us)** | **[Consulting Digital Risk Interns](https://jobright.ai/jobs/info/698642980f6f7e7a2ce1250e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 06 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698648078da7a6120460fa3c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Insurance Consulting Intern](https://jobright.ai/jobs/info/698639230f6f7e7a2ce11b4c?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Feb 06 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
-| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69860e7e8da7a6120460bcc7?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Consulting Digital Risk Intern Business Graduates](https://jobright.ai/jobs/info/69862d260f6f7e7a2ce10e09?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 06 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/69860c038da7a6120460bb72?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
