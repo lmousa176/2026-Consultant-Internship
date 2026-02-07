@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697daf2c7f40342e15d696d6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/698690988ca8121a3a68deca?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
+| **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69730480694e99351d144b5f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d95f8abff4c399a9c6ba2?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697daf2c7f40342e15d696d6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d96967f40342e15d6762e?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e212cda45e6953580f7a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/696aa53a350cf4380311941c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d76ba3f57a33569675b5e?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698430be8da7a612045e3d18?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69724b969b83b424830e35c6?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69868ea40f6f7e7a2ce190ab?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514d?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 06 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/69867e768ca8121a3a68cb52?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Feb 06 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Management Consulting - New Grad (2026)](https://jobright.ai/jobs/info/698670338da7a61204613841?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 04 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/6985a6dc0f6f7e7a2ce08709?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 03 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69829c15348f733a5c35952a?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/6982adf8348f733a5c35a6ab?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 03 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6982b442348f733a5c35ad51?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
