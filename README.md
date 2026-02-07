@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697059f151f72647718299f6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/698758f08da7a61204627186?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6986f0c08ca8121a3a697803?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697046c5333b6343a14cb6aa?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 07 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697059f151f72647718299f6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/691f58e1a49a885af9a2e7e7?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/698741bd8ca8121a3a69d3d5?utm_campaign=1063&utm_source=git)** | United States-California-Irvine | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/698424b90f6f7e7a2cde5870?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 07 |
@@ -94,11 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Valorantum](valorantum.us)** | **[Consulting Digital Risk Interns](https://jobright.ai/jobs/info/698642980f6f7e7a2ce1250e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 06 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698648078da7a6120460fa3c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Insurance Consulting Intern](https://jobright.ai/jobs/info/698639230f6f7e7a2ce11b4c?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Feb 06 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
-| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69860e7e8da7a6120460bcc7?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Consulting Digital Risk Intern Business Graduates](https://jobright.ai/jobs/info/69862d260f6f7e7a2ce10e09?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 06 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/69860c038da7a6120460bb72?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69860bbe8da7a6120460bb37?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Feb 06 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698604df0f6f7e7a2ce0e696?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698600d28ca8121a3a683222?utm_campaign=1063&utm_source=git)** | Wayne, PA | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 05 |
 | **[Simple, a Netsmart solution](https://www.simpleltc.com/)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6985af2f8da7a61204605fee?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
-| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
