@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting, Government Projects Internship (Summer 2026 Start)](https://jobright.ai/jobs/info/69871e148ca8121a3a69ac87?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698714ab8da7a61204622c51?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 07 |
 | **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986fdc78da7a61204620dcb?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69730480694e99351d144b5f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Marketing Research & Consulting](https://jobright.ai/jobs/info/69869c158ca8121a3a68ea07?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861a3a8ca8121a3a6840af?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6972f3e2206da320f49ce988?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697458f5bc8e722e7b196cd5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) –Intern – Summer 2026](https://jobright.ai/jobs/info/6985cad80f6f7e7a2ce0ad04?utm_campaign=1063&utm_source=git)** | Minnesota, United States | On Site | Feb 06 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[IBM Payments Centre Data Intern (May 2026 - 8 months - Toronto)](https://jobright.ai/jobs/info/69682878639b452fb57dbae3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/6986c3588da7a6120461b1d0?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
