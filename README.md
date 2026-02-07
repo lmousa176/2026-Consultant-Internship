@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/698424b90f6f7e7a2cde5870?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 07 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697068dd587dfa0bb55e0bbc?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 07 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting, Government Projects Internship (Summer 2026 Start)](https://jobright.ai/jobs/info/69871e148ca8121a3a69ac87?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698714ab8da7a61204622c51?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 07 |
 | **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986fdc78da7a61204620dcb?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/696aa6725fc8624185399e74?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d76ba3f57a33569675b5e?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69724b969b83b424830e35c6?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698430be8da7a612045e3d18?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship, Client US-Market Entry Support (August/September 2026 Start)](https://jobright.ai/jobs/info/698697948ca8121a3a68e765?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514d?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 06 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/69867e768ca8121a3a68cb52?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69840ccc348f733a5c37cb33?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Feb 04 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
