@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6987805f8ca8121a3a6a0f06?utm_campaign=1063&utm_source=git)** | Downey, CA | Hybrid | Feb 07 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Strategy Summer Consultant (MBA)](https://jobright.ai/jobs/info/69875dce0f6f7e7a2ce2a13a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/698758f08da7a61204627186?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6986f0c08ca8121a3a697803?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
@@ -98,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861ff38da7a6120460c93d?utm_campaign=1063&utm_source=git)** | Boston, MA, US | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861ee28da7a6120460c710?utm_campaign=1063&utm_source=git)** | Baltimore, MD, US | On Site | Feb 06 |
 | **[Valorantum](valorantum.us)** | **[Consulting Digital Risk Interns](https://jobright.ai/jobs/info/698642980f6f7e7a2ce1250e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 06 |
-| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
-| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
+| **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698637b10f6f7e7a2ce119aa?utm_campaign=1063&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
+| ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698642bc8ca8121a3a687386?utm_campaign=1063&utm_source=git)** | Wayne, PA, US | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69860e7e8da7a6120460bcc7?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69860bbe8da7a6120460bb37?utm_campaign=1063&utm_source=git)** | Mount Laurel, NJ | On Site | Feb 06 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698604df0f6f7e7a2ce0e696?utm_campaign=1063&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/698619f90f6f7e7a2ce0f3d4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861a3a8ca8121a3a6840af?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/6972f3e2206da320f49ce988?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/697458f5bc8e722e7b196cd5?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6969b925639b452fb57fa66a?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[IBM Payments Centre Data Intern (May 2026 - 8 months - Toronto)](https://jobright.ai/jobs/info/69682878639b452fb57dbae3?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | ↳ | **[IBM Payments Centre Consulting Intern (May 2026 - 8 months - Toronto or Montreal)](https://jobright.ai/jobs/info/6986c3588da7a6120461b1d0?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 05 |
 | **[Simple, a Netsmart solution](https://www.simpleltc.com/)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6985af2f8da7a61204605fee?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/6983f67b0f6f7e7a2cddf35f?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
