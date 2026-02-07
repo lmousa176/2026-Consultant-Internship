@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514d?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6984122b0f6f7e7a2cde3316?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[Bala Consulting Engineers](http://bala.com)** | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69862ac80f6f7e7a2ce10c8c?utm_campaign=1063&utm_source=git)** | Arlington, VA, US | On Site | Feb 06 |
 | ↳ | **[Internship Opportunity with Bala Consulting (future)](https://jobright.ai/jobs/info/69861ff38da7a6120460c93d?utm_campaign=1063&utm_source=git)** | Boston, MA, US | On Site | Feb 06 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 03 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69851a2f8da7a612045f73ac?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Customer Data Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827a350a9e07331f8d8f4f?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
-| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698278110f6f7e7a2cdbb23d?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 03 |
+| ↳ | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698272ce0a9e07331f8d7f55?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/698242300f6f7e7a2cdb6b57?utm_campaign=1063&utm_source=git)** | Minneapolis | Hybrid | Feb 03 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Impact Thought Leadership - Summer Internship 2026](https://jobright.ai/jobs/info/698242080f6f7e7a2cdb6b35?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts | On Site | Feb 03 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/6960ae4ba1bbea1d9a7b6c7d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Internship Program - Technical Consulting Track](https://jobright.ai/jobs/info/69818eb17f40342e15dab794?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 03 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/6959f573aa05c26e7ab3a3f0?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
