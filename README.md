@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Strategy Summer Consultant Intern](https://jobright.ai/jobs/info/69886ee48ca8121a3a6afec3?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 08 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e1998ca8121a3a6a4bc2?utm_campaign=1063&utm_source=git)** | Downey, CA | Hybrid | Feb 07 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/6987e16e8ca8121a3a6a4bb5?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6987805f8ca8121a3a6a0f06?utm_campaign=1063&utm_source=git)** | Downey, CA | Hybrid | Feb 07 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 05 |
 | **[Simple, a Netsmart solution](https://www.simpleltc.com/)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6985af2f8da7a61204605fee?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69880d910f6f7e7a2ce34004?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 04 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
