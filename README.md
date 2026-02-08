@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697daf2c7f40342e15d696d6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d96967f40342e15d6762e?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6971e212cda45e6953580f7a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/696aa53a350cf4380311941c?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698438fb348f733a5c382799?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/697d7ad8137a051025669b13?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6984122b0f6f7e7a2cde3316?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Simple, a Netsmart solution](https://www.simpleltc.com/)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6985af2f8da7a61204605fee?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69880d910f6f7e7a2ce34004?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 04 |
+| **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
