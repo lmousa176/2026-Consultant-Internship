@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratify Edge](stratifyedge.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/698a29e54db8972cecff6e4e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989f59947434001cc682d3f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989ef9e47434001cc682b7b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Dynareon](dynareon.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6989e96b4db8972cecff2fa7?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6989dadb0f6f7e7a2ce4dd68?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Insurance Consulting Intern](https://jobright.ai/jobs/info/6988c0340f6f7e7a2ce3f25b?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69892d620f6f7e7a2ce437f5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6987805f8ca8121a3a6a0f06?utm_campaign=1063&utm_source=git)** | Downey, CA | Hybrid | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 07 |
@@ -87,8 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6989625447434001cc67813e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69895e8c0f6f7e7a2ce45c3e?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69895ea18ca8121a3a6ba4ca?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/6989578f0f6f7e7a2ce457ad?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/698950e847434001cc677228?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/698950e847434001cc677228?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698950270f6f7e7a2ce45109?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69894ff40f6f7e7a2ce44ed6?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Marketing Research & Consulting](https://jobright.ai/jobs/info/69869c158ca8121a3a68ea07?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
