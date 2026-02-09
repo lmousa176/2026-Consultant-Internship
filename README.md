@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989f59947434001cc682d3f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989ef9e47434001cc682b7b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Dynareon](dynareon.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6989e96b4db8972cecff2fa7?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/6989dadb0f6f7e7a2ce4dd68?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69840ccc348f733a5c37cb33?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Feb 04 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
