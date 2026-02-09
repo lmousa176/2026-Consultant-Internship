@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Insurance Consulting Intern](https://jobright.ai/jobs/info/6988dfc58da7a6120463d6fb?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Insurance Consulting Intern](https://jobright.ai/jobs/info/6988c0340f6f7e7a2ce3f25b?utm_campaign=1063&utm_source=git)** | Illinois, United States | On Site | Feb 08 |
 | **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/6988a4ae0f6f7e7a2ce3de0b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
