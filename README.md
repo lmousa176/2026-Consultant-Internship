@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Stratify Edge](stratifyedge.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/698a29e54db8972cecff6e4e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/698a43954db8972cecff833e?utm_campaign=1063&utm_source=git)** | Madison, WI, US | On Site | Feb 09 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
-| ↳ | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989f59947434001cc682d3f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989ef9e47434001cc682b7b?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Dynareon](dynareon.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/6989e96b4db8972cecff2fa7?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
