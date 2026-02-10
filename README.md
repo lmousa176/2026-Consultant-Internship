@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69896cde8ca8121a3a6bc541?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 10 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b62e1c5761b521a9adaba?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
+| **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
+| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/6989769b47434001cc67a913?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69896cde8ca8121a3a6bc541?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 10 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69894fea8ca8121a3a6b91ad?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69731c91206da320f49d2307?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 10 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/698957400f6f7e7a2ce454a3?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 10 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984232e8da7a612045e23cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Stratagem One](stratagemone.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698b2dc50f6f7e7a2ce6804b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 10 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a95eec5761b521a99dac1?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Dallas](https://jobright.ai/jobs/info/698a7de84db8972cecffd0c8?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/698a43954db8972cecff833e?utm_campaign=1063&utm_source=git)** | Madison, WI, US | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/69851ed50f6f7e7a2cdfa820?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/69851d14348f733a5c3949d7?utm_campaign=1063&utm_source=git)** | Newton, MA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
