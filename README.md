@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
-| **[Stratify Edge](stratifyedge.us)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/698a29e54db8972cecff6e4e?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/698a43954db8972cecff833e?utm_campaign=1063&utm_source=git)** | Madison, WI, US | On Site | Feb 09 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/6989f59947434001cc682d3f?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/6983ee8c348f733a5c378cc3?utm_campaign=1063&utm_source=git)** | Overland Park, KS | On Site | Feb 04 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69838675348f733a5c369d46?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6967cdd8639b452fb57d5b34?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 04 |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/698382ba01214b4cdacb3072?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
