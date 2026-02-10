@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Torq](https://torqpeoplesolutions.com)** | **[Consulting Project Management Intern](https://jobright.ai/jobs/info/698b78ce06d9b062249592cd?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b62e1c5761b521a9adaba?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/6989769b47434001cc67a913?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b3468c5761b521a9a9c3e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Dynareon](dynareon.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/698b32d24db8972cec00ae32?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984232e8da7a612045e23cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
-| **[Stratagem One](stratagemone.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698b2dc50f6f7e7a2ce6804b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 10 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Dallas](https://jobright.ai/jobs/info/698a7de84db8972cecffd0c8?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
