@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69896cde8ca8121a3a6bc541?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 10 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69894fea8ca8121a3a6b91ad?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
+| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69731c91206da320f49d2307?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 10 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/698957400f6f7e7a2ce454a3?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/698b49520f6f7e7a2ce69c3b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Feb 10 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
@@ -66,10 +70,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984232e8da7a612045e23cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Stratagem One](stratagemone.us)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698b2dc50f6f7e7a2ce6804b?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 10 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698aacac4db8972cec000928?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 09 |
-| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a8d1b0f6f7e7a2ce5bf6b?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Feb 09 |
-| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a95eec5761b521a99dac1?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 09 |
-| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a9f604db8972cecfff8e9?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Feb 09 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a95eec5761b521a99dac1?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Dallas](https://jobright.ai/jobs/info/698a7de84db8972cecffd0c8?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Financial Strategy & Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/698276f2348f733a5c3557a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 09 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/698a43954db8972cecff833e?utm_campaign=1063&utm_source=git)** | Madison, WI, US | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/69851ed50f6f7e7a2cdfa820?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/69851d14348f733a5c3949d7?utm_campaign=1063&utm_source=git)** | Newton, MA | On Site | Feb 05 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Consulting Internship, Healthcare: Advanced Degree Students, Class of 2027](https://jobright.ai/jobs/info/68f9fc468a7359609b8c85b1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
