@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a8d1b0f6f7e7a2ce5bf6b?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Feb 09 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698aacac4db8972cec000928?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 09 |
+| ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a8d1b0f6f7e7a2ce5bf6b?utm_campaign=1063&utm_source=git)** | US - MA, Boston | On Site | Feb 09 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a95eec5761b521a99dac1?utm_campaign=1063&utm_source=git)** | US - NY, New York | On Site | Feb 09 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/698a9f604db8972cecfff8e9?utm_campaign=1063&utm_source=git)** | US - IL, Chicago | On Site | Feb 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Summer 2026 / Dallas](https://jobright.ai/jobs/info/698a7de84db8972cecffd0c8?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/698424a08da7a612045e26b8?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 04 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern(Summer 2026 Internship)](https://jobright.ai/jobs/info/69840c05348f733a5c37c965?utm_campaign=1063&utm_source=git)** | Overland Park, KS | Hybrid | Feb 04 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/6983f67b0f6f7e7a2cddf35f?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 04 |
-| ↳ | **[2026 Assurance Summer Intern – Assurance and Technology Control Services (ATCS)](https://jobright.ai/jobs/info/69840ccc348f733a5c37cb33?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
