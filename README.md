@@ -63,13 +63,13 @@ For a complete list, click the following sortable link below:
 | **[Arvento A](arventoa.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/698cd7c078b4502f12a35337?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting - Risk - Digital Risk - Intern - Summer 2026](https://jobright.ai/jobs/info/698c9a8b78b4502f12a3199e?utm_campaign=1063&utm_source=git)** | Virginia, United States | Hybrid | Feb 11 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Feb 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb5ff78b4502f12a330d0?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 11 |
-| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cad110f6f7e7a2ce8628a?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb568f64d441a164e9a8c?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb5ff78b4502f12a330d0?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 11 |
 | ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698caf64f64d441a164e95aa?utm_campaign=1063&utm_source=git)** | Miami | On Site | Feb 11 |
-| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb568f64d441a164e9a8c?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cad110f6f7e7a2ce8628a?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 11 |
 | ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb97378b4502f12a3337e?utm_campaign=1063&utm_source=git)** | San Francisco | On Site | Feb 11 |
-| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb94af64d441a164e9dce?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 11 |
 | ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb7ff78b4502f12a33267?utm_campaign=1063&utm_source=git)** | Tampa | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb94af64d441a164e9dce?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698c2aac0f6f7e7a2ce7d8fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | ↳ | **[Actuarial Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698abd900f6f7e7a2ce60787?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 10 |
 | ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698bf5a4e4f6572f0e43e0c2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
