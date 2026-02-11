@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Actuarial Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698abd900f6f7e7a2ce60787?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 10 |
+| ↳ | **[Financial Services Risk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698bf5a4e4f6572f0e43e0c2?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
+| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/697aea811423772304eadd33?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Feb 10 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Consulting Internship](https://jobright.ai/jobs/info/698bdf5e06d9b062249608f3?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
 | **[HOK](http://www.hok.com/)** | **[Consulting - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698bdc4a06d9b06224960317?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 10 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6989777f0f6f7e7a2ce48b34?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69896d138ca8121a3a6bc746?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/698abd3bc5761b521a9a1a34?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69896cd58ca8121a3a6bc4fc?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698abf424db8972cec0033bc?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6989625447434001cc67813e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/69851ed50f6f7e7a2cdfa820?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/69851d14348f733a5c3949d7?utm_campaign=1063&utm_source=git)** | Newton, MA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
