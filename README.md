@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69896cd58ca8121a3a6bc4fc?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698abf424db8972cec0033bc?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6989625447434001cc67813e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69895e8c0f6f7e7a2ce45c3e?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69895ea18ca8121a3a6ba4ca?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/698950e847434001cc677228?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698950270f6f7e7a2ce45109?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6985251a348f733a5c39533f?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
