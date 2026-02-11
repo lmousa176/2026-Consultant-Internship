@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/698c7c6778b4502f12a300d9?utm_campaign=1063&utm_source=git)** | Greenville, VA | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/698c544ff64d441a164e44d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698c2aac0f6f7e7a2ce7d8fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | ↳ | **[Actuarial Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698abd900f6f7e7a2ce60787?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852b4a348f733a5c395b77?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6985484b8da7a612045fbc51?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Feb 05 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852adf0f6f7e7a2cdfb885?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
-| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6985293e0f6f7e7a2cdfb62c?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
