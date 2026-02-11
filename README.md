@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698ba11d0f6f7e7a2ce71a31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 10 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698bb947c5761b521a9b49a4?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
+| ↳ | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698ba11d0f6f7e7a2ce71a31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Torq](https://torqpeoplesolutions.com)** | **[Consulting Project Management Intern](https://jobright.ai/jobs/info/698b78ce06d9b062249592cd?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b62e1c5761b521a9adaba?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6985251a348f733a5c39533f?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
