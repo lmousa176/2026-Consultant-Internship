@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting - Risk - Digital Risk - Intern - Summer 2026](https://jobright.ai/jobs/info/698c9a8b78b4502f12a3199e?utm_campaign=1063&utm_source=git)** | Virginia, United States | Hybrid | Feb 11 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Feb 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2027 (IT Audit/ Internal Audit) – Pathways Experience Candidates](https://jobright.ai/jobs/info/698c888d78b4502f12a30967?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698c8c5df64d441a164e7789?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 11 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/698c7c6778b4502f12a300d9?utm_campaign=1063&utm_source=git)** | Greenville, VA | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/698c544ff64d441a164e44d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Deal Analytics Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698c2aac0f6f7e7a2ce7d8fc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[Allianz Consulting US 2026 Summer Intern](https://jobright.ai/jobs/info/698c187ae4f6572f0e44142b?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
 | **[HOK](http://www.hok.com/)** | **[Consulting - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698bdc4a06d9b06224960317?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 10 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698ba11d0f6f7e7a2ce71a31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Torq](https://torqpeoplesolutions.com)** | **[Consulting Project Management Intern](https://jobright.ai/jobs/info/698b78ce06d9b062249592cd?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b62e1c5761b521a9adaba?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/698957400f6f7e7a2ce454a3?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| **[Dynareon](dynareon.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/698b32d24db8972cec00ae32?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984232e8da7a612045e23cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 10 |
 | **[State of Florida](http://www.myflorida.com)** | **[OPS GOVERNMENT OPERATIONS CONSULTANT II - 64853414](https://jobright.ai/jobs/info/698c40190f6f7e7a2ce7f947?utm_campaign=1063&utm_source=git)** | Lecanto, FL | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698531300f6f7e7a2cdfc1bb?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852c5e0f6f7e7a2cdfb964?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Feb 05 |
 | ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852b4a348f733a5c395b77?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/6985484b8da7a612045fbc51?utm_campaign=1063&utm_source=git)** | London, Ontario, Canada | On Site | Feb 05 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852adf0f6f7e7a2cdfb885?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
