@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698ca8280f6f7e7a2ce85dea?utm_campaign=1063&utm_source=git)** | Philadelphia | On Site | Feb 11 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting - Risk - Digital Risk - Intern - Summer 2026](https://jobright.ai/jobs/info/698c9a8b78b4502f12a3199e?utm_campaign=1063&utm_source=git)** | Virginia, United States | Hybrid | Feb 11 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/68dc1d1697329f2f77322aea?utm_campaign=1063&utm_source=git)** | Golden, CO | On Site | Feb 11 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[US Consulting Intern Summer 2027 (IT Audit/ Internal Audit) – Pathways Experience Candidates](https://jobright.ai/jobs/info/698c888d78b4502f12a30967?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb7ff78b4502f12a33267?utm_campaign=1063&utm_source=git)** | Tampa | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb5ff78b4502f12a330d0?utm_campaign=1063&utm_source=git)** | Boston | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698caf64f64d441a164e95aa?utm_campaign=1063&utm_source=git)** | Miami | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb94af64d441a164e9dce?utm_campaign=1063&utm_source=git)** | Dallas | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb97378b4502f12a3337e?utm_campaign=1063&utm_source=git)** | San Francisco | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cad110f6f7e7a2ce8628a?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 11 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027](https://jobright.ai/jobs/info/698cb568f64d441a164e9a8c?utm_campaign=1063&utm_source=git)** | Chicago | On Site | Feb 11 |
+| ↳ | **[US Consulting Intern Summer 2027 (IT Audit/ Internal Audit) – Pathways Experience Candidates](https://jobright.ai/jobs/info/698c888d78b4502f12a30967?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698c8c5df64d441a164e7789?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 11 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/698c7c6778b4502f12a300d9?utm_campaign=1063&utm_source=git)** | Greenville, VA | On Site | Feb 11 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/698c544ff64d441a164e44d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
@@ -93,7 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/698c56360f6f7e7a2ce81162?utm_campaign=1063&utm_source=git)** | Blacksburg, VA | On Site | Feb 08 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69892d620f6f7e7a2ce437f5?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6987805f8ca8121a3a6a0f06?utm_campaign=1063&utm_source=git)** | Downey, CA | Hybrid | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/698cb5bd0f6f7e7a2ce868bc?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 07 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6970583a51f7264771828af5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6986f0c08ca8121a3a697803?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697046c5333b6343a14cb6aa?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/697059f151f72647718299f6?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Consulting Intern (May 2026 - 4 month term - Toronto)](https://jobright.ai/jobs/info/696829c51703f05405a9cd37?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | ↳ | **[Oracle Consulting Intern (May 2026 - 4 months - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69839b5b0f6f7e7a2cdd0961?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 05 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Summer Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69829ff6348f733a5c35998d?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[IBM](http://www.ibm.com)** | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/69724af29b83b424830e3350?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
-| ↳ | **[SAP Consulting Intern (May 2026 - 4 months - Toronto, Ottawa, Calgary or Montreal)](https://jobright.ai/jobs/info/696854eef25a38006696badc?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 05 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698535bb8da7a612045f9cc9?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/698534e98da7a612045f9b42?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 05 |
-| **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Civil Engineering Intern](https://jobright.ai/jobs/info/69855ce1348f733a5c39b441?utm_campaign=1063&utm_source=git)** | Kingston, Ontario, Canada | On Site | Feb 05 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/6985335e8da7a612045f984d?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 05 |
-| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698531300f6f7e7a2cdfc1bb?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852c5e0f6f7e7a2cdfb964?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Feb 05 |
-| ↳ | **[Intern Federal Tax Consulting Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/69852b4a348f733a5c395b77?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
