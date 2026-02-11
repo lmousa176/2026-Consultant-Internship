@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698bb947c5761b521a9b49a4?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
-| ↳ | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698ba11d0f6f7e7a2ce71a31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 10 |
+| **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Consulting Internship](https://jobright.ai/jobs/info/698bdf5e06d9b062249608f3?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
+| **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
+| **[HOK](http://www.hok.com/)** | **[Consulting - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698bdc4a06d9b06224960317?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 10 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Insurance Consulting Summer Intern](https://jobright.ai/jobs/info/698ba11d0f6f7e7a2ce71a31?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 10 |
 | **[Torq](https://torqpeoplesolutions.com)** | **[Consulting Project Management Intern](https://jobright.ai/jobs/info/698b78ce06d9b062249592cd?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Consulting – Insurance and Actuarial Advisory Services (IAAS) – Intern – Summer 2026](https://jobright.ai/jobs/info/698b62e1c5761b521a9adaba?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/696e9979350cf43803155687?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f2d9a0dde7020e2fdf2c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/698b49520f6f7e7a2ce69c3b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Feb 10 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2026 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6936f431aabec14a727c315b?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 10 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/698b37690f6f7e7a2ce686c8?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Feb 10 |
 | **[Dynareon](dynareon.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/698b32d24db8972cec00ae32?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6984232e8da7a612045e23cb?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 10 |
@@ -93,11 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/698b03ea4db8972cec007f46?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Feb 07 |
 | **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986fdc78da7a61204620dcb?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6989838e0f6f7e7a2ce4933d?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6989778c0f6f7e7a2ce48ba6?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6989772c47434001cc67ae0d?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/698977950f6f7e7a2ce48c34?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6989777f0f6f7e7a2ce48b34?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/698976cd47434001cc67ab13?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69896d138ca8121a3a6bc746?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/698abd3bc5761b521a9a1a34?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 06 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 05 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/6985143e348f733a5c39394c?utm_campaign=1063&utm_source=git)** | Wallingford, CT | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69850d288da7a612045f59c1?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/69851ed50f6f7e7a2cdfa820?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 05 |
+| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/69851d14348f733a5c3949d7?utm_campaign=1063&utm_source=git)** | Newton, MA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
