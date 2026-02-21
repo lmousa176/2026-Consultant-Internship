@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
 | **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Solution Consultant Intern (Summer 2026)](https://jobright.ai/jobs/info/6997f410e0bddb6acac6e1b5?utm_campaign=1063&utm_source=git)** | Troy, MI | Hybrid | Feb 19 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Environmental Consulting Services Intern](https://jobright.ai/jobs/info/6997e244ce78e77b4fdc5a04?utm_campaign=1063&utm_source=git)** | US-NC-Cary | On Site | Feb 19 |
-| ↳ | **[Environmental Consulting Services Intern](https://jobright.ai/jobs/info/6997ca67ce78e77b4fdc32c8?utm_campaign=1063&utm_source=git)** | Cary, NC, US | On Site | Feb 19 |
+| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Environmental Consulting Services Intern](https://jobright.ai/jobs/info/6997ca67ce78e77b4fdc32c8?utm_campaign=1063&utm_source=git)** | Cary, NC, US | On Site | Feb 19 |
+| ↳ | **[Environmental Consulting Services Intern](https://jobright.ai/jobs/info/6997e244ce78e77b4fdc5a04?utm_campaign=1063&utm_source=git)** | US-NC-Cary | On Site | Feb 19 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Consulting Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/6997d13281476f6176b002c4?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69979bba81476f6176afb64b?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Industries Automation Internship Program - Technical Consulting Track](https://jobright.ai/jobs/info/6997b89381476f6176afdabb?utm_campaign=1063&utm_source=git)** | Alpharetta, GA | On Site | Feb 19 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6997ff0c81476f6176b069ac?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6997fcdb81476f6176b06645?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6997ff31ce78e77b4fdca4b4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/699805c5e0bddb6acac70cde?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6996aa27ce78e77b4fdad95a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Sustainability Assurance & Consulting Summer 2026 / Denver, CO](https://jobright.ai/jobs/info/699661afce78e77b4fda6b45?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Feb 18 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Transformation & Value Creation Intern](https://jobright.ai/jobs/info/69966e1681476f6176ae3ff7?utm_campaign=1063&utm_source=git)** | White Plains, NY | On Site | Feb 18 |
@@ -105,16 +104,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996490581476f6176ae0ab9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69964d1681476f6176ae116b?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964ae3ce78e77b4fda48e5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6996511181476f6176ae17b9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996484fce78e77b4fda4517?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/6996511181476f6176ae17b9?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69964ac981476f6176ae0d82?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996598ace78e77b4fda6050?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69965117e0bddb6acac4be55?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/699648a1ce78e77b4fda458b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963655e0bddb6acac49833?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964cc381476f6176ae10c5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69964ef481476f6176ae1496?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/699652e7ce78e77b4fda55de?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963986ce78e77b4fda2f51?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
@@ -138,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994de9c81476f6176acb265?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern- Remote](https://jobright.ai/jobs/info/6978fa7739f7f96cc6d14e8e?utm_campaign=1063&utm_source=git)** | Bannockburn, IL | Remote | Feb 17 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994d94081476f6176acac8b?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994f004e0bddb6acac3727e?utm_campaign=1063&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994dad4ce78e77b4fd8eae6?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
-| ↳ | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994f004e0bddb6acac3727e?utm_campaign=1063&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994d94081476f6176acac8b?utm_campaign=1063&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | **[Nokia](http://www.nokia.com)** | **[Automation Consulting Co-op/Intern](https://jobright.ai/jobs/info/6994a6c481476f6176ac6a01?utm_campaign=1063&utm_source=git)** | Not in Nokia premises, CA Virtual - ON, Ontario, CA | Remote | Feb 17 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 17 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/691fdb9209cc522e87746120?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Feb 14 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) United States](https://jobright.ai/jobs/info/695b51e3f1f8465b79f16c1e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
+| ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/693fa54950bbaf765051df11?utm_campaign=1063&utm_source=git)** | Durham, NC | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
