@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | ↳ | **[Risk Consultant Intern - Cincinnati, Ohio Area](https://jobright.ai/jobs/info/690e86ac44146d3b6ec553a0?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 23 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699c4427ce78e77b4fe0ec10?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Feb 23 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/699b3658e0bddb6acaca4164?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 22 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
@@ -123,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6998d58ee0bddb6acac7c0ee?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69965201ce78e77b4fda5465?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69979272ce78e77b4fdbe238?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Salesforce & GTM Consulting Intern (May 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69965d3581476f6176ae2b8b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/6996557de0bddb6acac4c533?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964d44ce78e77b4fda4c9a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996490581476f6176ae0ab9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953e9be0bddb6acac3c926?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 17 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6995105de0bddb6acac399af?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953ddae0bddb6acac3c87a?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Feb 17 |
-| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699533c8e0bddb6acac3bbf7?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | Feb 17 |
-| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953d4c81476f6176ad1f16?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | Feb 17 |
 | ↳ | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69952e2981476f6176ad0cbd?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Feb 17 |
+| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953d4c81476f6176ad1f16?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | Feb 17 |
+| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699533c8e0bddb6acac3bbf7?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | Feb 17 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69951df8ce78e77b4fd93591?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 17 |
 | **[Nokia](http://www.nokia.com)** | **[Automation Consulting Co-op/Intern](https://jobright.ai/jobs/info/6994f2d381476f6176accd42?utm_campaign=1063&utm_source=git)** | Ontario, CA | Hybrid | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Customer Intelligence Consultant Intern](https://jobright.ai/jobs/info/6994d171ce78e77b4fd8dfab?utm_campaign=1063&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
