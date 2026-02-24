@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7ef81476f6176b563b6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/699cf5ed81476f6176b58271?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 23 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/699cd3efe0bddb6acacbde47?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699c9c1881476f6176b5354d?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c932d81476f6176b52f3a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 23 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/699cbb21ce78e77b4fe17c57?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c9183e0bddb6acacbab1f?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 23 |
@@ -73,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/699b3658e0bddb6acaca4164?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 22 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 22 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consulting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699d2e7a81476f6176b5e4e8?utm_campaign=1063&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 21 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6999f50781476f6176b2a916?utm_campaign=1063&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
@@ -148,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/699648a1ce78e77b4fda458b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963655e0bddb6acac49833?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964cc381476f6176ae10c5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69964ef481476f6176ae1496?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/699652e7ce78e77b4fda55de?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963986ce78e77b4fda2f51?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/699617abce78e77b4fda0c30?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 18 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 18 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 18 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/699c8894ce78e77b4fe142f2?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Feb 18 |
+| **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
