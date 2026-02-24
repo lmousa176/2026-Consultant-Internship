@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Covenant Health Canada](https://www.covenanthealth.ca)** | **[Recruitment Consultant](https://jobright.ai/jobs/info/6995c7c2ce78e77b4fd9d466?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Feb 24 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
 | **[MetaPhase](https://metaphaseconsulting.com)** | **[IT Consulting Intern](https://jobright.ai/jobs/info/699d034e81476f6176b59b78?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 23 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7ef81476f6176b563b6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/699cf5ed81476f6176b58271?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 23 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/699cd3efe0bddb6acacbde47?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c932d81476f6176b52f3a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 23 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/699cbb21ce78e77b4fe17c57?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c9183e0bddb6acacbab1f?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 23 |
@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6986b91f8ca8121a3a692173?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
-| **[Covenant Health Canada](https://www.covenanthealth.ca)** | **[Recruitment Consultant](https://jobright.ai/jobs/info/6995c7c2ce78e77b4fd9d466?utm_campaign=1063&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Feb 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 21 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/69843914348f733a5c38285c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca63db06a34016008c7f7a?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
@@ -132,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6998d58ee0bddb6acac7c0ee?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69965201ce78e77b4fda5465?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69979272ce78e77b4fdbe238?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Salesforce & GTM Consulting Intern (May 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69965d3581476f6176ae2b8b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/6996557de0bddb6acac4c533?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964d44ce78e77b4fda4c9a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996490581476f6176ae0ab9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/699c8894ce78e77b4fe142f2?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Feb 18 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Feb 18 |
+| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
