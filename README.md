@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
+| **[MetaPhase](https://metaphaseconsulting.com)** | **[IT Consulting Intern](https://jobright.ai/jobs/info/699d034e81476f6176b59b78?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699ceb21e0bddb6acacbf159?utm_campaign=1063&utm_source=git)** | Remote, USA | Remote | Feb 23 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6998d58ee0bddb6acac7c0ee?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69965201ce78e77b4fda5465?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69979272ce78e77b4fdbe238?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Salesforce & GTM Consulting Intern (May 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69965d3581476f6176ae2b8b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/6996557de0bddb6acac4c533?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964d44ce78e77b4fda4c9a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996490581476f6176ae0ab9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 18 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/699c8894ce78e77b4fe142f2?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Feb 18 |
-| **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
