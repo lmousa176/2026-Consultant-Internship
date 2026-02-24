@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/699648a1ce78e77b4fda458b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963655e0bddb6acac49833?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964cc381476f6176ae10c5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69964ef481476f6176ae1496?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/699652e7ce78e77b4fda55de?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963986ce78e77b4fda2f51?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
