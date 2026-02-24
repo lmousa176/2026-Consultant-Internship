@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/699dddc1ce78e77b4fe2ef6b?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/699bcf29e0bddb6acacaa274?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern Telehealth and Technology Integration](https://jobright.ai/jobs/info/699e04b4e0bddb6acacd6c03?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
+| **[Stratify Edge](stratifyedge.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/699e0835ce78e77b4fe3255b?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 24 |
 | **[BMO](http://www.bmo.com)** | **[Junior Business Consultant, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699de852e0bddb6acacd482f?utm_campaign=1063&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/698ed52cf64d441a16512270?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/699648a1ce78e77b4fda458b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963655e0bddb6acac49833?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964cc381476f6176ae10c5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963bcdce78e77b4fda326d?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6996579081476f6176ae2214?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69964ef481476f6176ae1496?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/699652e7ce78e77b4fda55de?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963986ce78e77b4fda2f51?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/699640d581476f6176adfe52?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
