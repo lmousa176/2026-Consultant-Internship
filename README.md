@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 23 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699ceb21e0bddb6acacbf159?utm_campaign=1063&utm_source=git)** | Remote, USA | Remote | Feb 23 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7ef81476f6176b563b6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
+| **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/699cf5ed81476f6176b58271?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 23 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/699cd3efe0bddb6acacbde47?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699c9c1881476f6176b5354d?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c932d81476f6176b52f3a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 18 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/699c8894ce78e77b4fe142f2?utm_campaign=1063&utm_source=git)** | Des Moines, IA | On Site | Feb 18 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | On Site | Feb 18 |
-| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Feb 18 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953181ce78e77b4fd94ad1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
-| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953e9be0bddb6acac3c926?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
