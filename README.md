@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/699dd70ace78e77b4fe2e9d8?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | ↳ | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/699dddc1ce78e77b4fe2ef6b?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 24 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/699bcf29e0bddb6acacaa274?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 24 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern Telehealth and Technology Integration](https://jobright.ai/jobs/info/699e04b4e0bddb6acacd6c03?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
 | **[BMO](http://www.bmo.com)** | **[Junior Business Consultant, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699de852e0bddb6acacd482f?utm_campaign=1063&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/698ed52cf64d441a16512270?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6998d58ee0bddb6acac7c0ee?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69965201ce78e77b4fda5465?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69979272ce78e77b4fdbe238?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Salesforce & GTM Consulting Intern (May 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69965d3581476f6176ae2b8b?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69963b02ce78e77b4fda3149?utm_campaign=1063&utm_source=git)** | Sandy Springs, GA | On Site | Feb 18 |
 | ↳ | **[Customer Experience Consulting Intern (May 2026 - 4 months - Toronto)](https://jobright.ai/jobs/info/6996557de0bddb6acac4c533?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964d44ce78e77b4fda4c9a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/6996490581476f6176ae0ab9?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/699652e7ce78e77b4fda55de?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69963986ce78e77b4fda2f51?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/699640d581476f6176adfe52?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Feb 18 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/699617abce78e77b4fda0c30?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
