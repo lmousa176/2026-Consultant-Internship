@@ -132,7 +132,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699a0edb81476f6176b2b1d6?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[AXA XL](https://axaxl.com)** | **[Risk Consulting Intern](https://jobright.ai/jobs/info/697ae60217b11b1c2e41b934?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697a85ad9d60e431a16c0ac5?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Feb 19 |
-| **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad90ce78e77b4fdf76d6?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
-| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad8681476f6176b34c0d?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
-| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad53ce78e77b4fdf75cd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
