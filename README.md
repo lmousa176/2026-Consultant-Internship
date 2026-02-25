@@ -139,7 +139,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6997fcdb81476f6176b06645?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6997ff31ce78e77b4fdca4b4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a96a1e0bddb6acac9bc78?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/699a9285e0bddb6acac9b877?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 18 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a8a7c81476f6176b318df?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a89cfe0bddb6acac99a90?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
