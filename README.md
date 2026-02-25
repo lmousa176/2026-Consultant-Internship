@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2026 (Hybrid in Indianapolis, IN or Dallas, TX)](https://jobright.ai/jobs/info/699f6a2081476f6176b900d9?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 25 |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/698e0c390f6f7e7a2cea1a08?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 25 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699f13ffce78e77b4fe4d6f5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Consulting](https://jobright.ai/jobs/info/699edc6781476f6176b851d7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/699e7773e0bddb6acace144c?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 24 |
 | ↳ | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/699e721ce0bddb6acace05bd?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
@@ -134,9 +135,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad90ce78e77b4fdf76d6?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad8681476f6176b34c0d?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/699aad53ce78e77b4fdf75cd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699aa03a81476f6176b34230?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/6997ff0c81476f6176b069ac?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 18 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/6997fcdb81476f6176b06645?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/6997ff31ce78e77b4fdca4b4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a96a1e0bddb6acac9bc78?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
