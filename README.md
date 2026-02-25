@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/698e0c390f6f7e7a2cea1a08?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699f13ffce78e77b4fe4d6f5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 25 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Strategy Consulting Intern (May 2026 - 4 month term - Toronto)](https://jobright.ai/jobs/info/699e3c4181476f6176b72035?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 24 |
 | ↳ | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/699e3de9e0bddb6acacd9bab?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern Telehealth and Technology Integration](https://jobright.ai/jobs/info/699e04b4e0bddb6acacd6c03?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
-| **[Stratify Edge](stratifyedge.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/699e0835ce78e77b4fe3255b?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 24 |
 | **[BMO](http://www.bmo.com)** | **[Junior Business Consultant, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699de852e0bddb6acacd482f?utm_campaign=1063&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Graduate Intern Summer 2026 - Section Partnerships](https://jobright.ai/jobs/info/694a41bd3019f50a4fe56a5a?utm_campaign=1063&utm_source=git)** | Orlando, FL | Hybrid | Feb 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/698ed52cf64d441a16512270?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
@@ -141,5 +142,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/699a9285e0bddb6acac9b877?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 18 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a8a7c81476f6176b318df?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/699a89cfe0bddb6acac99a90?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6996aa27ce78e77b4fdad95a?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
