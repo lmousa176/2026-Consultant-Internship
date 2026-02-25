@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/698e0c390f6f7e7a2cea1a08?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699f13ffce78e77b4fe4d6f5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 25 |
