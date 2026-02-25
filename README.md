@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/698e0c390f6f7e7a2cea1a08?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 25 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/699f13ffce78e77b4fe4d6f5?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Consulting](https://jobright.ai/jobs/info/699edc6781476f6176b851d7?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/699e7773e0bddb6acace144c?utm_campaign=1063&utm_source=git)** | Seattle, WA | Hybrid | Feb 24 |
 | ↳ | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/699e721ce0bddb6acace05bd?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
@@ -97,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6999f50781476f6176b2a916?utm_campaign=1063&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
-| **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 21 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
+| ↳ | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Feb 21 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6986b91f8ca8121a3a692173?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ced83d846f0b04af67d4f6?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 21 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Compensation & Benefits Tax Consulting - Dallas Summer 2026](https://jobright.ai/jobs/info/69843914348f733a5c38285c?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
