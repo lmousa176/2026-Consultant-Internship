@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a0b6570836fe79d861b65e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ad530836fe79d861ae8a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting and Data Analytics Master's Intern](https://jobright.ai/jobs/info/69a09c420836fe79d861a08a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0b06e0836fe79d861b0bf?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 26 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0afc60836fe79d861b063?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | On Site | Feb 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Customer Engagement Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/699c49b481476f6176b4c600?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | On Site | Feb 26 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a08f060836fe79d8619057?utm_campaign=1063&utm_source=git)** | 1901 L Street, Suite 310, Washington, DC, 20036, US | Hybrid | Feb 26 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern - Associate Consultant](https://jobright.ai/jobs/info/69a037ca5218a81676714135?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Remote | Feb 25 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699fcc40ce78e77b4fe5b5af?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
-| **[IBM](http://www.ibm.com)** | **[Cyber Security Consultant Intern - (May 2026 - 12 months - Toronto)](https://jobright.ai/jobs/info/699f8a70ce78e77b4fe55980?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 25 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
@@ -97,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 24 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6968bf59639b452fb57e8590?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Feb 24 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
-| **[MetaPhase](https://metaphaseconsulting.com)** | **[IT Consulting Intern](https://jobright.ai/jobs/info/699d034e81476f6176b59b78?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Feb 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699ceb21e0bddb6acacbf159?utm_campaign=1063&utm_source=git)** | Remote, USA | Remote | Feb 23 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
@@ -131,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc5d63141d188459800f?utm_campaign=1063&utm_source=git)** | Bellaire, TX | On Site | Feb 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebf8f4e41a61efd918c4?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Feb 20 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b67333f4e41a61efd930d1?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Sales & Resident Experience Consultant (Intern)](https://jobright.ai/jobs/info/6999624081476f6176b21083?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
