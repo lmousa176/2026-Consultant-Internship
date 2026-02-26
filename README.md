@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[IBM](http://www.ibm.com)** | **[Cyber Security Consultant Intern - (May 2026 - 12 months - Toronto)](https://jobright.ai/jobs/info/699f8a70ce78e77b4fe55980?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 25 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
-| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
+| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/699f7866ce78e77b4fe53816?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
