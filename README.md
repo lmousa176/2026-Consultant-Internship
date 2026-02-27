@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
+| **[Veltrana Group](veltranagroup.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a209be0da45516f16b52a7?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a1fe6bb600907a96284c1f?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Feb 27 |
 | **[Leidos](https://www.leidos.com)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c740359fe034b1cd1801?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Feb 27 |
 | ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c58b359fe034b1cd16f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 27 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69a02a9c0836fe79d860f9eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
-| **[Meridien Labs](meridienlabs.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a129866b458d060735e363?utm_campaign=1063&utm_source=git)** | St. Louis City County, MO | On Site | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69a126226b458d060735df50?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 26 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0c2c10836fe79d861c381?utm_campaign=1063&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a0b6570836fe79d861b65e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
