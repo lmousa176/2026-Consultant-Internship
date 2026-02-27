@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a1ae1f359fe034b1cd057c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/699028d70cc8ea15f1dadfea?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a3a6359fe034b1ccfc2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 | ↳ | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a20e359fe034b1ccfa95?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990236b0f6f7e7a2cec7ef8?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ad530836fe79d861ae8a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting and Data Analytics Master's Intern](https://jobright.ai/jobs/info/69a09c420836fe79d861a08a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0c61e0836fe79d861c69e?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0afc60836fe79d861b063?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | On Site | Feb 26 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a08f060836fe79d8619057?utm_campaign=1063&utm_source=git)** | 1901 L Street, Suite 310, Washington, DC, 20036, US | Hybrid | Feb 26 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern - Associate Consultant](https://jobright.ai/jobs/info/69a037ca5218a81676714135?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Remote | Feb 25 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699fcc40ce78e77b4fe5b5af?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
-| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
+| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/69a084d95218a8167671a5a4?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Feb 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
