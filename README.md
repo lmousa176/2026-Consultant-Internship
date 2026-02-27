@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a100ec5218a81676723a1c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| ↳ | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0fbbf81476f6176bb55d2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0c2c10836fe79d861c381?utm_campaign=1063&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a0b6570836fe79d861b65e?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
