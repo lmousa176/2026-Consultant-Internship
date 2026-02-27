@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a3a6359fe034b1ccfc2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
+| ↳ | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a20e359fe034b1ccfa95?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990236b0f6f7e7a2cec7ef8?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
+| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990230f0f6f7e7a2cec7c70?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/699e8def81476f6176b7c5ef?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69a02a9c0836fe79d860f9eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
@@ -69,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ad530836fe79d861ae8a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting and Data Analytics Master's Intern](https://jobright.ai/jobs/info/69a09c420836fe79d861a08a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Strategy & Management Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0b06e0836fe79d861b0bf?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 26 |
-| ↳ | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0c61e0836fe79d861c69e?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 26 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a0c61e0836fe79d861c69e?utm_campaign=1063&utm_source=git)** | New York | On Site | Feb 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0afc60836fe79d861b063?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | On Site | Feb 26 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a08f060836fe79d8619057?utm_campaign=1063&utm_source=git)** | 1901 L Street, Suite 310, Washington, DC, 20036, US | Hybrid | Feb 26 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern - Associate Consultant](https://jobright.ai/jobs/info/69a037ca5218a81676714135?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Remote | Feb 25 |
@@ -126,5 +129,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd4bdbe23def7af55b7f28?utm_campaign=1063&utm_source=git)** | Oakland, CA | Hybrid | Feb 21 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd95c21ad6b16f0289be3c?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
 | ↳ | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 21 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Solutions Intern](https://jobright.ai/jobs/info/6998e21081476f6176b14882?utm_campaign=1063&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
