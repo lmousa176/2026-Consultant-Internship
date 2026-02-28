@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
+| **[Clyvra](clyvra.us)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a2bbc4b600907a9629296c?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a226960da45516f16b6f47?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Feb 27 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/698ed52cf64d441a16512270?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 24 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
+| **[Eastwood & Cleef LLC](https://www.linkedin.com/company/71335446)** | **[Consulting Internship (AI/Strategy / Healthcare)](https://jobright.ai/jobs/info/69a2af8b0da45516f16c149e?utm_campaign=1063&utm_source=git)** | Toronto | Hybrid | Feb 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699ceb21e0bddb6acacbf159?utm_campaign=1063&utm_source=git)** | Remote, USA | Remote | Feb 23 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
@@ -133,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Customer Data Personalization Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69827621348f733a5c3555a6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[IBM](http://www.ibm.com)** | **[Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services](https://jobright.ai/jobs/info/69a0daea5218a816767209e2?utm_campaign=1063&utm_source=git)** | University Park, TX | Hybrid | Feb 21 |
 | ↳ | **[Security Consultant Co-op 2026 - CyberDefend - Financial Services](https://jobright.ai/jobs/info/69a0ceb181476f6176bb18b8?utm_campaign=1063&utm_source=git)** | University Park, TX | Hybrid | Feb 21 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6999f50781476f6176b2a916?utm_campaign=1063&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
