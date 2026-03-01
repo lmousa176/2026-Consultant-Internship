@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a226960da45516f16b6f47?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Feb 27 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c9183e0bddb6acacbab1f?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 23 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/699b3658e0bddb6acaca4164?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 22 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
