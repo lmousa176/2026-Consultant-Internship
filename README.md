@@ -61,12 +61,11 @@ For a complete list, click the following sortable link below:
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514d?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
-| **[Clyvra](clyvra.net)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a2bbc4b600907a9629296c?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a226960da45516f16b6f47?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Feb 27 |
-| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
