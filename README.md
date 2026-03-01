@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a472140da45516f16d4768?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 01 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a471ea359fe034b1cf3c73?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69a4526b0da45516f16d3d21?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 28 |
