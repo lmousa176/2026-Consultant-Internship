@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/699cbb21ce78e77b4fe17c57?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 23 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c9183e0bddb6acacbab1f?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 23 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/699b3658e0bddb6acaca4164?utm_campaign=1063&utm_source=git)** | United States | Remote | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
