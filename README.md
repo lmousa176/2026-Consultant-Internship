@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556c20da45516f16dfceb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 02 |
+| **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a56104359fe034b1d0063d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
+| ↳ | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce2405b2a74e1837edfae2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
+| **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a557d60da45516f16e003b?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Mar 02 |
+| ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556c20da45516f16dfceb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556020da45516f16dfaa9?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 02 |
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a552d00da45516f16dee78?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 02 |
+| ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a56f33b600907a962b2488?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a471ea359fe034b1cf3c73?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69a4526b0da45516f16d3d21?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
