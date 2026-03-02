@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c5b8359fe034b1d05f91?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Mar 02 |
+| ↳ | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c30e0da45516f16e6cbd?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Mar 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a5b6930da45516f16e65ad?utm_campaign=1063&utm_source=git)** | Denver Tech Center | Hybrid | Mar 02 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a5b0fa359fe034b1d04f38?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern - Summer 2026, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/69a59506b600907a962b3f00?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699fcc40ce78e77b4fe5b5af?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
-| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9a6381476f6176b9529b?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Feb 25 |
+| ↳ | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f9cbece78e77b4fe580a9?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Feb 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Feb 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
@@ -131,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/699e3de9e0bddb6acacd9bab?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern Telehealth and Technology Integration](https://jobright.ai/jobs/info/699e04b4e0bddb6acacd6c03?utm_campaign=1063&utm_source=git)** | Pasadena, CA | Hybrid | Feb 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Los Angeles, California Area](https://jobright.ai/jobs/info/698ed52cf64d441a16512270?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[Seed Intern](https://jobright.ai/jobs/info/699cfc4c81476f6176b58d4b?utm_campaign=1063&utm_source=git)** | Tacoma, WA | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
