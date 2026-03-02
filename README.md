@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556c20da45516f16dfceb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 02 |
+| ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556020da45516f16dfaa9?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 02 |
+| ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a552d00da45516f16dee78?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 02 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a471ea359fe034b1cf3c73?utm_campaign=1063&utm_source=git)** | St. Louis County, MO | On Site | Mar 01 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69a4526b0da45516f16d3d21?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
@@ -127,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7e381476f6176b563af?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 23 |
 | ↳ | **[2026 Product & Experience Consulting Intern](https://jobright.ai/jobs/info/699cd7ef81476f6176b563b6?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/699cf5ed81476f6176b58271?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 23 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c932d81476f6176b52f3a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Feb 23 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Consultant](https://jobright.ai/jobs/info/699cbb21ce78e77b4fe17c57?utm_campaign=1063&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Feb 23 |
-| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/699c9183e0bddb6acacbab1f?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
