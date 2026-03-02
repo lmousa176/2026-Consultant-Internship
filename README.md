@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a605d6b600907a962be1ee?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a604af359fe034b1d0cd59?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Service Delivery Consulting Intern](https://jobright.ai/jobs/info/69a5e2c7b600907a962ba9c0?utm_campaign=1063&utm_source=git)** | Albany, NY | Hybrid | Mar 02 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Students Only)](https://jobright.ai/jobs/info/69a5dc4e0da45516f16e9b00?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c5b8359fe034b1d05f91?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Mar 02 |
 | **[99 Yards](https://99yards.app)** | **[Sales Consultant intern](https://jobright.ai/jobs/info/69a5e4b7b600907a962badce?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | Mar 02 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c30e0da45516f16e6cbd?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Mar 02 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
