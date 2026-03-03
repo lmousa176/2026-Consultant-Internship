@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a70c0176bbe83d3afa5e55?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
+| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69a7095b2672cb0acb4b6986?utm_campaign=1063&utm_source=git)** | Remote - United States | Remote | Mar 03 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953e9be0bddb6acac3c926?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 03 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Strategy Intern - Masters Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/69a69f31f707784310aff9d9?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
 | **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a67cead706a731db386b93?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 02 |
@@ -72,8 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953181ce78e77b4fd94ad1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Service Delivery Consulting Intern](https://jobright.ai/jobs/info/69a68f2b708b430a607af327?utm_campaign=1063&utm_source=git)** | Albany, NY 12207, USA | Hybrid | Mar 02 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c5b8359fe034b1d05f91?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Mar 02 |
-| **[99 Yards](https://99yards.app)** | **[Sales Consultant intern](https://jobright.ai/jobs/info/69a5e4b7b600907a962badce?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | Mar 02 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c30e0da45516f16e6cbd?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Mar 02 |
+| ↳ | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a5c30e0da45516f16e6cbd?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Mar 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a5b6930da45516f16e65ad?utm_campaign=1063&utm_source=git)** | Denver Tech Center | Hybrid | Mar 02 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Consulting Intern - Summer 2026, Chicago (Spring 2027 Graduates)](https://jobright.ai/jobs/info/69a59506b600907a962b3f00?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a56104359fe034b1d0063d?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
