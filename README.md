@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953e9be0bddb6acac3c926?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 03 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Strategy Intern - Masters Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/69a69f31f707784310aff9d9?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
 | **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a67cead706a731db386b93?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 02 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Students Only)](https://jobright.ai/jobs/info/69a66923d706a731db385921?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 02 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
@@ -142,7 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Feb 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/699e676ace78e77b4fe3a087?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 24 |
 | **[Charcoalblue](https://www.charcoalblue.com/)** | **[Theatre Consulting Intern - (28)](https://jobright.ai/jobs/info/699e8ff581476f6176b7c8b5?utm_campaign=1063&utm_source=git)** | Chicago, IL 60654 USNew York, NY 10001 USNew York, NY 10001 US (Primary)Sunnyvale, CA 94089 USUS | Hybrid | Feb 24 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699e5b4ee0bddb6acacdd66d?utm_campaign=1063&utm_source=git)** | Denver Tech Center | Hybrid | Feb 24 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health and Benefits Consulting Intern- Norwalk CT- College Program 2026](https://jobright.ai/jobs/info/699e60c181476f6176b76521?utm_campaign=1063&utm_source=git)** | Norwalk - 501 Merritt | On Site | Feb 24 |
-| **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern (May 2026 - 4 months - Ottawa)](https://jobright.ai/jobs/info/699e3de9e0bddb6acacd9bab?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
