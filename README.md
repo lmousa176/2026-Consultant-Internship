@@ -59,12 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/69a7591a76bbe83d3afab9f8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69a16a40b600907a9627cf46?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 03 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69a7095b2672cb0acb4b6986?utm_campaign=1063&utm_source=git)** | Remote - United States | Remote | Mar 03 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953e9be0bddb6acac3c926?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 03 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Strategy Intern - Masters Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/69a7748c2672cb0acb4beb62?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
 | **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a67cead706a731db386b93?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 02 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69a676762c0d8b0f5cd094b7?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 02 |
-| **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a643702c0d8b0f5cd04f1e?utm_campaign=1063&utm_source=git)** | Denver, CO, US | On Site | Mar 02 |
+| ↳ | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a643702c0d8b0f5cd04f1e?utm_campaign=1063&utm_source=git)** | Denver, CO, US | On Site | Mar 02 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69a641f5e567421f42573468?utm_campaign=1063&utm_source=git)** | Los Angeles, California | Hybrid | Mar 02 |
 | ↳ | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69a64096d706a731db381c7d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 02 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a632720da45516f16f12a3?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
