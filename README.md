@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Consulting Intern](https://jobright.ai/jobs/info/69a82b477ac93962b707eb06?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/69928ab16ea51a7610f4a497?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Mar 04 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 04 |
 | **[Orvanta](joinorvanta.com)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a7c066637232443f651693?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Mar 03 |
