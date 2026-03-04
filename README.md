@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](joinorvanta.com)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a7c066637232443f651693?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Mar 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/69a7591a76bbe83d3afab9f8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69a16a40b600907a9627cf46?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
 | ↳ | **[Technology Consulting Intern](https://jobright.ai/jobs/info/698ed49d0f6f7e7a2ceaf27f?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
@@ -132,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/699f1e3194ef206f184e457d?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Feb 25 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/6966b3ef7a34f539205532c1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Analytics Consultant Summer 2026 Intern](https://jobright.ai/jobs/info/698d394e78b4502f12a3d1c4?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Feb 25 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Houston, Texas Area](https://jobright.ai/jobs/info/698e0c390f6f7e7a2cea1a08?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
