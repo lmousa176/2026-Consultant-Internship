@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9bee21f59c56275e27549?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69a9217b2580d3183f0155fc?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
+| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027 - Pathways Experience Candidates](https://jobright.ai/jobs/info/69a8fda52580d3183f012b41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/69a9afa32ebd316bece13f21?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[Arvento A](arventoa.com)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9a9d39ca4e908ec64e479?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a9a9c81f59c56275e267ab?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
@@ -136,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69a02a9c0836fe79d860f9eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69a126226b458d060735df50?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
