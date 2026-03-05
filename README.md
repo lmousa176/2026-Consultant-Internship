@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69a8d5147ac93962b708adef?utm_campaign=1063&utm_source=git)** | Kingstown, MD | On Site | Mar 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8ae1a2580d3183f00b475?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a8a1882580d3183f00a3a5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | ↳ | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a895472580d3183f0098b5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69a4526b0da45516f16d3d21?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 28 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514d?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Feb 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
