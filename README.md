@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9bee21f59c56275e27549?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69a9217b2580d3183f0155fc?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
-| ↳ | **[Transaction Advisory Consulting Intern- Summer 2027 - Pathways Experience Candidates](https://jobright.ai/jobs/info/69a8fda52580d3183f012b41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 05 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027 - Pathways Experience Candidates](https://jobright.ai/jobs/info/69a8fda52580d3183f012b41?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/69a9afa32ebd316bece13f21?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[Arvento A](arventoa.com)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9a9d39ca4e908ec64e479?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a9a9c81f59c56275e267ab?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
@@ -114,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556c20da45516f16dfceb?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a556020da45516f16dfaa9?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 02 |
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a552d00da45516f16dee78?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 02 |
-| ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69a56f33b600907a962b2488?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69a4526b0da45516f16d3d21?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 28 |
