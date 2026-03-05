@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a96a05f6c22f2e36865215?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/698d6b9578b4502f12a4143d?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 05 |
+| **[Guidehouse](https://guidehouse.com)** | **[Summer Intern 2026 - Energy and Utilities Consulting (Toronto)](https://jobright.ai/jobs/info/69a96a84f6c22f2e368652fe?utm_campaign=1063&utm_source=git)** | CA - ON, Toronto | On Site | Mar 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69a8d5147ac93962b708adef?utm_campaign=1063&utm_source=git)** | Kingstown, MD | On Site | Mar 04 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a8e83f7ac93962b708cb60?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Digital Risk Consulting Intern – Summer 2026](https://jobright.ai/jobs/info/69a971237f9271426f884faa?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | Remote | Mar 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8ae1a2580d3183f00b475?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a8a1882580d3183f00a3a5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | ↳ | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a895472580d3183f0098b5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
@@ -132,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69a126226b458d060735df50?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Feb 26 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0c2c10836fe79d861c381?utm_campaign=1063&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ad530836fe79d861ae8a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
