@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/698d6b9578b4502f12a4143d?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 05 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69a8d5147ac93962b708adef?utm_campaign=1063&utm_source=git)** | Kingstown, MD | On Site | Mar 04 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a8e83f7ac93962b708cb60?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8ae1a2580d3183f00b475?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 04 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 04 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a8956779f3f4037f428d49?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 03 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (US Students)](https://jobright.ai/jobs/info/69a895fb79f3f4037f428fae?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 03 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Ignition - Tax Consulting / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69a8fd042580d3183f012a21?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 03 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a92e5e79f3f4037f43efe3?utm_campaign=1063&utm_source=git)** | Greater Boston | Hybrid | Mar 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/69a7591a76bbe83d3afab9f8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69a16a40b600907a9627cf46?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0c2c10836fe79d861c381?utm_campaign=1063&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a0b4175218a8167671de81?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Feb 26 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0ad530836fe79d861ae8a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting and Data Analytics Master's Intern](https://jobright.ai/jobs/info/69a09c420836fe79d861a08a?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
