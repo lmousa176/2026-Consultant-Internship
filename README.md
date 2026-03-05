@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Consulting Digital Risk Intern](https://jobright.ai/jobs/info/69a9afa32ebd316bece13f21?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
+| **[Arvento A](arventoa.com)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9a9d39ca4e908ec64e479?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a9a9c81f59c56275e267ab?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/698d21cef64d441a164f1443?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a96a05f6c22f2e36865215?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/698d6b9578b4502f12a4143d?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 05 |
@@ -73,13 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Financial Analyst (Consulting/Commercial Strategy and Solutions)](https://jobright.ai/jobs/info/69a8b72079f3f4037f431afe?utm_campaign=1063&utm_source=git)** | Bridgewater, NJ | On Site | Mar 04 |
 | **[BMO](http://www.bmo.com)** | **[Support Learning Consultant, Summer 2026  (Co-op/Internship)-4 months](https://jobright.ai/jobs/info/69a8938979f3f4037f428652?utm_campaign=1063&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Mar 04 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed Application Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69a98264f2055e05d171afe9?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Mar 04 |
-| ↳ | **[US Consulting Intern Summer 2027 (IT Audit/ Internal Audit) – Pathways Experience Candidates](https://jobright.ai/jobs/info/69a98cd2f6c22f2e36868cf8?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a88cf079f3f4037f42656a?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 04 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/69928ab16ea51a7610f4a497?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Mar 04 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 04 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a8956779f3f4037f428d49?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 03 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (US Students)](https://jobright.ai/jobs/info/69a895fb79f3f4037f428fae?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 03 |
-| **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a92e5e79f3f4037f43efe3?utm_campaign=1063&utm_source=git)** | Greater Boston | Hybrid | Mar 03 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a92e5e79f3f4037f43efe3?utm_campaign=1063&utm_source=git)** | Greater Boston | Hybrid | Mar 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/69a7591a76bbe83d3afab9f8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69a16a40b600907a9627cf46?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 03 |
