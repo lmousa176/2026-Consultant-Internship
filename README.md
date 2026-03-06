@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c740359fe034b1cd1801?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Feb 27 |
 | ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c58b359fe034b1cd16f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 27 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 27 |
-| ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/699028d70cc8ea15f1dadfea?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
