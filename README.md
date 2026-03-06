@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/69aa50c61f59c56275e32c0e?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9bee21f59c56275e27549?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
