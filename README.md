@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[4flow](http://www.4flow.de)** | **[Consulting Intern](https://jobright.ai/jobs/info/69670ac3a1358766808450fc?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | On Site | Feb 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Feb 28 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a8dae02580d3183f00fcdf?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
