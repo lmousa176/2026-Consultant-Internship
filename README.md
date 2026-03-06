@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/69aa50c61f59c56275e32c0e?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 05 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Member Experience Researcher Intern](https://jobright.ai/jobs/info/69a9e2f11f59c56275e2a386?utm_campaign=1063&utm_source=git)** | Newport News, VA | On Site | Mar 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Digital Risk Consulting Intern](https://jobright.ai/jobs/info/69a9bee21f59c56275e27549?utm_campaign=1063&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Consulting Risk Intern](https://jobright.ai/jobs/info/69a9a9c81f59c56275e267ab?utm_campaign=1063&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
@@ -78,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Financial Analyst (Consulting/Commercial Strategy and Solutions)](https://jobright.ai/jobs/info/69a8b72079f3f4037f431afe?utm_campaign=1063&utm_source=git)** | Bridgewater, NJ | On Site | Mar 04 |
 | **[BMO](http://www.bmo.com)** | **[Support Learning Consultant, Summer 2026  (Co-op/Internship)-4 months](https://jobright.ai/jobs/info/69a8938979f3f4037f428652?utm_campaign=1063&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Mar 04 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69a88cf079f3f4037f42656a?utm_campaign=1063&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 04 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Analyst - Summer 2026](https://jobright.ai/jobs/info/69928ab16ea51a7610f4a497?utm_campaign=1063&utm_source=git)** | Kansas City, MO | Hybrid | Mar 04 |
 | **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 04 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a8956779f3f4037f428d49?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69aa4d632ebd316bece20ef8?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
@@ -127,7 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: SIMULIA Electromagnetics Solution Consultant (May - Sept)](https://jobright.ai/jobs/info/69698a5c639b452fb57f6749?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Feb 27 |
 | **[Adareus](https://www.adareus.com)** | **[Graduate Consultant Intern - Operations](https://jobright.ai/jobs/info/69a20fe0359fe034b1cd4e95?utm_campaign=1063&utm_source=git)** | LA Metro Area | On Site | Feb 27 |
-| **[Leidos](https://www.leidos.com)** | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c740359fe034b1cd1801?utm_campaign=1063&utm_source=git)** | Framingham, MA | On Site | Feb 27 |
-| ↳ | **[Energy &Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/69a1c58b359fe034b1cd16f1?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Feb 27 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
