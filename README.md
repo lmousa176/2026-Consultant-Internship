@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69a64096d706a731db381c7d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 02 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a632720da45516f16f12a3?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a64457e567421f42573876?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Mar 02 |
+| **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69aa162b1f59c56275e2e5dc?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Service Delivery Consulting Intern](https://jobright.ai/jobs/info/69a67df9e567421f42578058?utm_campaign=1063&utm_source=git)** | Albany, NY | Hybrid | Mar 02 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a604af359fe034b1d0cd59?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a8dae02580d3183f00fcdf?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Feb 27 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a202c4359fe034b1cd417e?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Feb 27 |
-| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21ddf359fe034b1cd5b11?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a21b220da45516f16b63ed?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a22b55359fe034b1cd68dd?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a2183f0da45516f16b6145?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69a216d9b600907a96286434?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
@@ -132,7 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990236b0f6f7e7a2cec7ef8?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Feb 27 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990230f0f6f7e7a2cec7c70?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/699e8def81476f6176b7c5ef?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[Pharmacy Consulting Associate Intern 2026](https://jobright.ai/jobs/info/69a02a9c0836fe79d860f9eb?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Feb 27 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
