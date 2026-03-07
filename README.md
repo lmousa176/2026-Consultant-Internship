@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
+| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[Withum](http://www.withum.com)** | **[AI Solutions Consulting Internship Summer 2026](https://jobright.ai/jobs/info/69ab9176142d5b4265fcaabb?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/69ab44d67e1fab39d382de5c?utm_campaign=1063&utm_source=git)** | 275 Battery Street, Suite 1000, San Francisco, CA, 94111, US | On Site | Mar 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
