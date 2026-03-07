@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
+| **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
+| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
 | **[Withum](http://www.withum.com)** | **[AI Solutions Consulting Internship Summer 2026](https://jobright.ai/jobs/info/69ab9176142d5b4265fcaabb?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/69ab44d67e1fab39d382de5c?utm_campaign=1063&utm_source=git)** | 275 Battery Street, Suite 1000, San Francisco, CA, 94111, US | On Site | Mar 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Summer Intern 2026 - Energy and Utilities Consulting (Toronto)](https://jobright.ai/jobs/info/69a96a84f6c22f2e368652fe?utm_campaign=1063&utm_source=git)** | CA - ON, Toronto | On Site | Mar 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69aaa0d02ebd316bece26739?utm_campaign=1063&utm_source=git)** | New Jersey, United States | Remote | Mar 05 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed Application Services Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69ab9e3e142d5b4265fcc25f?utm_campaign=1063&utm_source=git)** | Greenwood Village, CO | Hybrid | Mar 04 |
 | **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Environmental Consulting](https://jobright.ai/jobs/info/69a8d5147ac93962b708adef?utm_campaign=1063&utm_source=git)** | Kingstown, MD | On Site | Mar 04 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a8e83f7ac93962b708cb60?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8ae1a2580d3183f00b475?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 04 |
