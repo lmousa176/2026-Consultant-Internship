@@ -58,8 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/69ab44d67e1fab39d382de5c?utm_campaign=1063&utm_source=git)** | 275 Battery Street, Suite 1000, San Francisco, CA, 94111, US | On Site | Mar 06 |
-| **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Remote)](https://jobright.ai/jobs/info/69ab31e2142d5b4265fc775b?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 06 |
-| ↳ | **[Consultant Intern](https://jobright.ai/jobs/info/69ab09732747003c3d50af81?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/69aa50c61f59c56275e32c0e?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 05 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Member Experience Researcher Intern](https://jobright.ai/jobs/info/69a9e2f11f59c56275e2a386?utm_campaign=1063&utm_source=git)** | Newport News, VA | On Site | Mar 05 |
