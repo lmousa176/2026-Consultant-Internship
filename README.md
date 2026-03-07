@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
+| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
 | **[Withum](http://www.withum.com)** | **[AI Solutions Consulting Internship Summer 2026](https://jobright.ai/jobs/info/69ab9176142d5b4265fcaabb?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/69ab44d67e1fab39d382de5c?utm_campaign=1063&utm_source=git)** | 275 Battery Street, Suite 1000, San Francisco, CA, 94111, US | On Site | Mar 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Finance & Supply Chain Consulting Intern- Summer 2026](https://jobright.ai/jobs/info/69abdf007e1fab39d383a31b?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/69aa50c61f59c56275e32c0e?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 05 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027 - Pathways Experience Candidates](https://jobright.ai/jobs/info/69aba7827e1fab39d3832804?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
