@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Remote)](https://jobright.ai/jobs/info/69ae89553de6821aaccde682?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 09 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69ae89463de6821aaccde667?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69ae53227c309707d4af8d9c?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Mar 08 |
@@ -66,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69accdba2747003c3d5252b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
