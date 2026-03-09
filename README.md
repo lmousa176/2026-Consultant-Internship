@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Mar 09 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Remote)](https://jobright.ai/jobs/info/69ae89553de6821aaccde682?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 09 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69ae89463de6821aaccde667?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Member Experience Researcher Intern](https://jobright.ai/jobs/info/69a9e2f11f59c56275e2a386?utm_campaign=1063&utm_source=git)** | Newport News, VA | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (May 2026 - 4 Month - Ottawa)](https://jobright.ai/jobs/info/69aa50c61f59c56275e32c0e?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 05 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern- Summer 2027 - Pathways Experience Candidates](https://jobright.ai/jobs/info/69ae3ea07c309707d4af5f70?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/698d21cef64d441a164f1443?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services, Marketing Internship (August 2026 Start)](https://jobright.ai/jobs/info/69a96a05f6c22f2e36865215?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
@@ -118,8 +118,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69ae15a87e1fab39d3852223?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Mar 02 |
 | **[RS&H](http://www.rsandh.com/)** | **[Sustainability Consultant Intern](https://jobright.ai/jobs/info/69a64457e567421f42573876?utm_campaign=1063&utm_source=git)** | US-CO-Denver | On Site | Mar 02 |
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69aa162b1f59c56275e2e5dc?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
-| **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Service Delivery Consulting Intern](https://jobright.ai/jobs/info/69a67df9e567421f42578058?utm_campaign=1063&utm_source=git)** | Albany, NY | Hybrid | Mar 02 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a604af359fe034b1d0cd59?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
-| ↳ | **[Product Management Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69953181ce78e77b4fd94ad1?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
