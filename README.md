@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeeaab7495006450935c05?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea986b21de023e600450?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea977495006450935be0?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Mar 09 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Mar 09 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69ae89463de6821aaccde667?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 09 |
