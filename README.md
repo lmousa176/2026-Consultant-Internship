@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69979bba81476f6176afb64b?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Mar 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/69af2ad6dfaeda6ff59740d5?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
 | **[Wood](https://www.woodplc.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/69af25cc7495006450939de0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/69af4200749500645093c699?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 09 |
-| **[Yeo & Yeo CPAs & Advisors](http://yeoandyeo.com)** | **[Software Consultant Intern](https://jobright.ai/jobs/info/69af25a46b21de023e604af4?utm_campaign=1063&utm_source=git)** | Saginaw, Michigan | On Site | Mar 09 |
 | **[Wood](https://www.woodplc.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/69af02b46b21de023e601b13?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Mar 09 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aef05b74950064509360a3?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aef02e749500645093601a?utm_campaign=1063&utm_source=git)** | Chesapeake, VA | On Site | Mar 09 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeeaab7495006450935c05?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea986b21de023e600450?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea977495006450935be0?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Mar 09 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Mar 09 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69ae89463de6821aaccde667?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a8956779f3f4037f428d49?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 03 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69aa4d632ebd316bece20ef8?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 03 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a92e5e79f3f4037f43efe3?utm_campaign=1063&utm_source=git)** | Greater Boston | Hybrid | Mar 03 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Value Advisory](https://jobright.ai/jobs/info/69a7591a76bbe83d3afab9f8?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
