@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Intern, Retirement Services Consulting](https://jobright.ai/jobs/info/69b07718dfaeda6ff59a5679?utm_campaign=1063&utm_source=git)** | Boston - Huntington | On Site | Mar 10 |
+| **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/69a64096d706a731db381c7d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b06842dfaeda6ff59a303c?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Safety Consulting Internship](https://jobright.ai/jobs/info/69b061260b2db6275c043373?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 10 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Application Consultant Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69979bba81476f6176afb64b?utm_campaign=1063&utm_source=git)** | Rochester, NY | Hybrid | Mar 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978422e52f3c27ec6447f3b?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978445788e2b47213bc5920?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
-| ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/6978430352f3c27ec644805c?utm_campaign=1063&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
 | ↳ | **[Winter 2027 Cost Segregation Consultant Intern](https://jobright.ai/jobs/info/697835fb39f7f96cc6d07fc1?utm_campaign=1063&utm_source=git)** | Kalamazoo, MI | On Site | Mar 10 |
 | **[IBM](http://www.ibm.com)** | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69afd278f63f733065b3ce12?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69afd25e74950064509509ae?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69accdba2747003c3d5252b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
