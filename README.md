@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | Hybrid | Mar 11 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Mar 11 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Sr Internal Communications Consultant](https://jobright.ai/jobs/info/69b12cee7495006450988e2b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | ↳ | **[Internal Communications Consultant](https://jobright.ai/jobs/info/69b12d2ddfaeda6ff59c3065?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
@@ -101,13 +102,13 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69accdba2747003c3d5252b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9d?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 06 |
+| ↳ | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab91122747003c3d510f9a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[CBIZ](http://www.cbiz.com)** | **[Information Systems Intern / Summer 2026](https://jobright.ai/jobs/info/69ab44d67e1fab39d382de5c?utm_campaign=1063&utm_source=git)** | 275 Battery Street, Suite 1000, San Francisco, CA, 94111, US | On Site | Mar 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 06 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Member Experience Researcher Intern](https://jobright.ai/jobs/info/69a9e2f11f59c56275e2a386?utm_campaign=1063&utm_source=git)** | Newport News, VA | On Site | Mar 06 |
