@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/6979615a39f7f96cc6d1ed58?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Mar 11 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[Sr Internal Communications Consultant](https://jobright.ai/jobs/info/69b12cee7495006450988e2b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | ↳ | **[Internal Communications Consultant](https://jobright.ai/jobs/info/69b12d2ddfaeda6ff59c3065?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Intern - Arizona](https://jobright.ai/jobs/info/69b09a810b2db6275c04d7e5?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8ae1a2580d3183f00b475?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a8a1882580d3183f00a3a5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | ↳ | **[Consulting Services Intern](https://jobright.ai/jobs/info/69a895472580d3183f0098b5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
-| **[BMO](http://www.bmo.com)** | **[Support Learning Consultant, Summer 2026 (Co-op/Internship)-4 months](https://jobright.ai/jobs/info/69a8bbe479f3f4037f432963?utm_campaign=1063&utm_source=git)** | Ontario, Canada | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
