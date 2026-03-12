@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/69aba7887e1fab39d383283f?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 12 |
+| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/699648a1ce78e77b4fda458b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69964d44ce78e77b4fda4c9a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
+| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69af97496b21de023e60e4b9?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69b2c24aad360c0340a7a791?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69a0eb4c0836fe79d861fb54?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Mar 12 |
@@ -116,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69accdba2747003c3d5252b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[IBM](http://www.ibm.com)** | **[Business Transformation Consultant Intern 2026 – IBM Technology and Red Hat](https://jobright.ai/jobs/info/69ab9b21142d5b4265fcbdc2?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
