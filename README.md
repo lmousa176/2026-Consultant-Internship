@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69b2c24aad360c0340a7a791?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69a0eb4c0836fe79d861fb54?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Mar 12 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a92e5e79f3f4037f43efe3?utm_campaign=1063&utm_source=git)** | Greater Boston | Hybrid | Mar 12 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Internship (US-Based Applicants)](https://jobright.ai/jobs/info/69b276d4ad360c0340a75454?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 12 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a8956779f3f4037f428d49?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Hybrid | Mar 12 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeeaab7495006450935c05?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea986b21de023e600450?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea977495006450935be0?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Mar 09 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Mar 09 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69ae53227c309707d4af8d9c?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Mar 08 |
