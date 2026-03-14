@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[AI Consulting Intern (May 2026 - 4 months - Toronto - Montreal)](https://jobright.ai/jobs/info/69b483fa56973837413964af?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[AI Consulting Intern (May 2026 - 4 months - Toronto - Montreal)](https://jobright.ai/jobs/info/69b4837d06c1ba00c545fe99?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 13 |
+| ↳ | **[AI Consulting Intern (May 2026 - 4 months - Toronto - Montreal)](https://jobright.ai/jobs/info/69b482f23b74eb1e2c81ddb6?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Mar 13 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b465eb3b74eb1e2c819beb?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 13 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/69b46bcb56973837413937bf?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 | ↳ | **[Summer 2026 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://jobright.ai/jobs/info/69b46bc556973837413937a2?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
@@ -75,18 +78,18 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69a98ab97f9271426f8869f1?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 12 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
+| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f24?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f2c?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f24?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a8ae2a534885eb4de7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bead360c0340a90f4b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dae?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 12 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bead360c0340a90f4b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f3a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f34?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f22?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f3a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5a8ae2a534885eb4dc6?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
+| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f22?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f29?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69a1410cd29bbd4d8e6ad74c?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69a15650d426a56180b78079?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69accdba2747003c3d5252b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 07 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 07 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 07 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
