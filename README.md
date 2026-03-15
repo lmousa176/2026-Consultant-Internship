@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
+| ↳ | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a604af359fe034b1d0cd59?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/69b4d72b3b74eb1e2c823884?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[IBM](http://www.ibm.com)** | **[Security Consultant Co-op 2026 - CyberDefend - Financial Services](https://jobright.ai/jobs/info/69b489ed5697383741396f18?utm_campaign=1063&utm_source=git)** | University Park, TX | Hybrid | Mar 14 |
 | ↳ | **[Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services](https://jobright.ai/jobs/info/69b3f3c206c1ba00c5451837?utm_campaign=1063&utm_source=git)** | University Park, TX | Hybrid | Mar 14 |
@@ -88,13 +90,13 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69a98ab97f9271426f8869f1?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 12 |
-| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
-| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f2c?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f24?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
+| ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
+| ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f2c?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a8ae2a534885eb4de7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
-| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dae?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bead360c0340a90f4b?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
+| ↳ | **[Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dae?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f15?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f34?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f3a?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeeaab7495006450935c05?utm_campaign=1063&utm_source=git)** | Marietta, GA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea986b21de023e600450?utm_campaign=1063&utm_source=git)** | Franklin, TN | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea977495006450935be0?utm_campaign=1063&utm_source=git)** | Brookfield, WI | On Site | Mar 09 |
-| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042d?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 09 |
+| ↳ | **[Building Facilities Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69aeea8c6b21de023e60042b?utm_campaign=1063&utm_source=git)** | Roseville, CA | On Site | Mar 09 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | Mar 09 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 09 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/69ae53227c309707d4af8d9c?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Mar 08 |
