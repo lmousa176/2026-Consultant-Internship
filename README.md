@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69a98ab97f9271426f8869f1?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 12 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 12 |
-| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f24?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
+| ↳ | **[Application Consultant Intern 2026 – IBM, RedHat & Microsoft](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dc0?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Associate Strategy Consultant Intern 2026 - Enterprise Strategy](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f2c?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4dac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | ↳ | **[Business Transformation Consultant Intern 2026](https://jobright.ai/jobs/info/69b3d5a8ae2a534885eb4de7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
@@ -136,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69b26238a8ac8e70ff66498a?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/69af85a67495006450940491?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 09 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69af82cadfaeda6ff597a908?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Mar 09 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office - Opportunities in Global Compliance and Transformation - Technical Consultant - Co-op & Intern - Fall 2026, Winter 2027, Summer 2027](https://jobright.ai/jobs/info/69af2e436b21de023e605590?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 09 |
-| **[Wood](https://www.woodplc.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/69af25cc7495006450939de0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 09 |
-| **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69b1b46bd04c69566c73f707?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
