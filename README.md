@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Auditor/Consultant & Senior Consultant, Third-Party Assurance](https://jobright.ai/jobs/info/69b7bedd06c1ba00c5498de9?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Summer Consultrepreneurship (Internship)](https://jobright.ai/jobs/info/69bbee7b45e08b3dc1f7c065?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/69b09a810b2db6275c04d7e5?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 19 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Dynamics 365 Customer Experience (CE) - June 2026](https://jobright.ai/jobs/info/69bba3db569738374141b68a?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 19 |
@@ -90,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - St. Louis, Missouri Area](https://jobright.ai/jobs/info/6920285f3f782d2f1afc352c?utm_campaign=1063&utm_source=git)** | St Louis, MO | On Site | Mar 17 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69bbbe443b74eb1e2c8a37d0?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69b87e743b74eb1e2c86565b?utm_campaign=1063&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b8621f56973837413da677?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b86ac606c1ba00c54a5c9b?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
 | **[EveryMind](https://everymind.ca/)** | **[Resource Consultant](https://jobright.ai/jobs/info/69b8337406c1ba00c549f7b0?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 16 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69b6f63f3b74eb1e2c848f54?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Mar 15 |
@@ -98,7 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
 | ↳ | **[Sales Planning Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69a604af359fe034b1d0cd59?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[IBM](http://www.ibm.com)** | **[Security Consultant Co-op 2026 - CyberDefend - Financial Services](https://jobright.ai/jobs/info/69b76e3556973837413c8fd0?utm_campaign=1063&utm_source=git)** | University Park, TX | Hybrid | Mar 14 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69bc41b35b89c002acf1abce?utm_campaign=1063&utm_source=git)** | Detroit, MI | On Site | Mar 14 |
+| ↳ | **[AI Consulting Intern (May 2026 - 4 months - Toronto - Montreal)](https://jobright.ai/jobs/info/69bc58374828227293fe09ac?utm_campaign=1063&utm_source=git)** | Montreal, QC | Hybrid | Mar 14 |
+| ↳ | **[AI Consulting Intern (May 2026 - 4 months - Toronto - Montreal)](https://jobright.ai/jobs/info/69bc567245e08b3dc1f8d4cc?utm_campaign=1063&utm_source=git)** | Ottawa, ON | Hybrid | Mar 14 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/69b4d72b3b74eb1e2c823884?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Tech Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/69bc25cc45e08b3dc1f85083?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Mar 14 |
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 14 |
