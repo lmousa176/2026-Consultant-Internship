@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd337d4828227293ff6d24?utm_campaign=1063&utm_source=git)** | Office - Chicago | Hybrid | Mar 20 |
+| ↳ | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd32d0b106024562821ad2?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
+| ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bd3249393a1008f742908a?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 20 |
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69bcc0a84828227293feac66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Alpine, an ITW Company](http://alpineitw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6b1e6a0d9792584b68c?utm_campaign=1063&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
@@ -101,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69ba90213b74eb1e2c888a6d?utm_campaign=1063&utm_source=git)** | Williamsville, NY | Hybrid | Mar 17 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69bbbe443b74eb1e2c8a37d0?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69b87e743b74eb1e2c86565b?utm_campaign=1063&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b86ac606c1ba00c54a5c9b?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b8621f56973837413da677?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
 | **[EveryMind](https://everymind.ca/)** | **[Resource Consultant](https://jobright.ai/jobs/info/69b8337406c1ba00c549f7b0?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 16 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc6e5145e08b3dc1f91d72?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc69535b89c002acf20ded?utm_campaign=1063&utm_source=git)** | Houston, Texas | Hybrid | Mar 16 |
