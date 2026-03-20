@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3ad168300c452ca1911c?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 20 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern](https://jobright.ai/jobs/info/69bcc14545e08b3dc1f98ce0?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 19 |
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69bcc0a84828227293feac66?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Alpine, an ITW Company](http://alpineitw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6b1e6a0d9792584b68c?utm_campaign=1063&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
@@ -101,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69ba90213b74eb1e2c888a6d?utm_campaign=1063&utm_source=git)** | Williamsville, NY | Hybrid | Mar 17 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69bbbe443b74eb1e2c8a37d0?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69b87e743b74eb1e2c86565b?utm_campaign=1063&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b86ac606c1ba00c54a5c9b?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b8621f56973837413da677?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
 | **[EveryMind](https://everymind.ca/)** | **[Resource Consultant](https://jobright.ai/jobs/info/69b8337406c1ba00c549f7b0?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 16 |
-| **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc6e5145e08b3dc1f91d72?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
-| ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc69535b89c002acf20ded?utm_campaign=1063&utm_source=git)** | Houston, Texas | Hybrid | Mar 16 |
+| **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc69535b89c002acf20ded?utm_campaign=1063&utm_source=git)** | Houston, Texas | Hybrid | Mar 16 |
+| ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69bc6e5145e08b3dc1f91d72?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | **[Ingram Micro Czech Republic](http://cz.ingrammicro.eu)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69bc674b4828227293fe3656?utm_campaign=1063&utm_source=git)** | Williamsville, NY | Hybrid | Mar 15 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69b6f63f3b74eb1e2c848f54?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 15 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Mar 15 |
