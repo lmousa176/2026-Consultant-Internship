@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Weaver](http://www.weaver.com)** | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fca?utm_campaign=1063&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 20 |
-| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fc2?utm_campaign=1063&utm_source=git)** | AUSTIN, Texas, United States | On Site | Mar 20 |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69ae484d4f6bcc18280966e1?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Weaver](http://www.weaver.com)** | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fc2?utm_campaign=1063&utm_source=git)** | AUSTIN, Texas, United States | On Site | Mar 20 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fca?utm_campaign=1063&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 20 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8ed393a1008f743a06b?utm_campaign=1063&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 20 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8bf4828227293007eae?utm_campaign=1063&utm_source=git)** | FORT WORTH, Texas, United States | On Site | Mar 20 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/69bdbf23b10602456282d72a?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Mar 20 |
@@ -77,11 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Summer 2026)](https://jobright.ai/jobs/info/69bca56945e08b3dc1f96aef?utm_campaign=1063&utm_source=git)** | Lehi, UT | On Site | Mar 19 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd77deb1060245628263c3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd7834393a1008f742d37b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bde3b2482822729300953e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[ITW](http://www.itw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc6afd4828227293fe3fbb?utm_campaign=1063&utm_source=git)** | Remote Ontario, CAN - Job Posting Location Only | Remote | Mar 19 |
 | ↳ | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc69b55b89c002acf210cd?utm_campaign=1063&utm_source=git)** | Montreal, Canada - Job Posting Location Only | On Site | Mar 19 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consultant Intern (Canada)](https://jobright.ai/jobs/info/6982869f0a9e07331f8da101?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Auditor/Consultant & Senior Consultant, Third-Party Assurance](https://jobright.ai/jobs/info/69b7bedd06c1ba00c5498de9?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
-| **[DIFFvelopment](https://diffvelopment.org)** | **[Summer Consultrepreneurship (Internship)](https://jobright.ai/jobs/info/69bbee7b45e08b3dc1f7c065?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/69b09a810b2db6275c04d7e5?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Mar 19 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Dynamics 365 Customer Experience (CE) - June 2026](https://jobright.ai/jobs/info/69bba3db569738374141b68a?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 19 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Sales & Outreach Marketing Consultant - Solana Lakewood](https://jobright.ai/jobs/info/69bb7fd45697383741418433?utm_campaign=1063&utm_source=git)** | Lakewood, CO | On Site | Mar 18 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Human Resources Consulting Intern](https://jobright.ai/jobs/info/695c155e22c9dc0d3d53f3b9?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 14 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Mar 14 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
-| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69b518783b74eb1e2c82b1f4?utm_campaign=1063&utm_source=git)** | Chesterton, IN | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
