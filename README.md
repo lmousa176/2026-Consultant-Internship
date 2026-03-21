@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a8dae02580d3183f00fcdf?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Mar 21 |
 | **[Washington Department of Fish & Wildlife](https://wdfw.wa.gov)** | **[HRIS & Workforce Data Reporting Supervisor - HR Consultant 4 (In-Training) - Perm - 2026-02203](https://jobright.ai/jobs/info/69beca59b1060245628438d7?utm_campaign=1063&utm_source=git)** | Olympia, WA | Hybrid | Mar 21 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69b4dfab569738374139e2c4?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
