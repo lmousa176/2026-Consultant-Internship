@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weaver](http://www.weaver.com)** | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fca?utm_campaign=1063&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 20 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fc2?utm_campaign=1063&utm_source=git)** | AUSTIN, Texas, United States | On Site | Mar 20 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8ed393a1008f743a06b?utm_campaign=1063&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 20 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8bf4828227293007eae?utm_campaign=1063&utm_source=git)** | FORT WORTH, Texas, United States | On Site | Mar 20 |
+| **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/69bdbf23b10602456282d72a?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Mar 20 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 20 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69a126226b458d060735df50?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Mar 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990230f0f6f7e7a2cec7c70?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Mar 20 |
@@ -84,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[International Economic Consultant](https://jobright.ai/jobs/info/69bbee7c45e08b3dc1f7c068?utm_campaign=1063&utm_source=git)** | Madison, WI | Hybrid | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Dynamics 365 Customer Experience (CE) - June 2026](https://jobright.ai/jobs/info/69bb239d5697383741412097?utm_campaign=1063&utm_source=git)** | Houston, 750 Town & Country Blv, Avanade | On Site | Mar 18 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2026 Enterprise Strategy & Execution Consulting Intern](https://jobright.ai/jobs/info/69bb1ed406c1ba00c54d9648?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 18 |
-| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Consultant - Enablement Partner](https://jobright.ai/jobs/info/69bc697d45e08b3dc1f914dd?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Mar 18 |
-| ↳ | **[Learning & Talent Development Consultant - Enablement Partner](https://jobright.ai/jobs/info/69bc6b645b89c002acf21811?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Mar 18 |
+| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Consultant - Enablement Partner](https://jobright.ai/jobs/info/69bc6b645b89c002acf21811?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Mar 18 |
 | ↳ | **[Learning & Talent Development Consultant - Enablement Partner](https://jobright.ai/jobs/info/69bc6b645b89c002acf21810?utm_campaign=1063&utm_source=git)** | Downers Grove, IL | On Site | Mar 18 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Consultant Workplace Investigations, Protected Disclosure and Research Integrity Office](https://jobright.ai/jobs/info/69b0865fdfaeda6ff59a8a09?utm_campaign=1063&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 18 |
