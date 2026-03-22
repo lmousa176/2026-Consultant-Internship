@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69bfa21479e36d3a847c4ad2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
 | **[Empower](https://www.empower.com)** | **[Retirement Strategy Consultant](https://jobright.ai/jobs/info/69beea544828227293019913?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a8dae02580d3183f00fcdf?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Mar 21 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb30079e36d3a847c546f?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
 | **[Washington Department of Fish & Wildlife](https://wdfw.wa.gov)** | **[HRIS & Workforce Data Reporting Supervisor - HR Consultant 4 (In-Training) - Perm - 2026-02203](https://jobright.ai/jobs/info/69beca59b1060245628438d7?utm_campaign=1063&utm_source=git)** | Olympia, WA | Hybrid | Mar 21 |
 | **[Klick](https://www.klick.com)** | **[Consulting Analyst, Summer 2026](https://jobright.ai/jobs/info/69a222c1b600907a96286f40?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb30079e36d3a847c5470?utm_campaign=1063&utm_source=git)** | Brookhaven, PA | On Site | Mar 21 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb4687798f73e35e48bee?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 21 |
+| ↳ | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb49d2c312363dcd2762f?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Philadelphia, Pennsylvania](https://jobright.ai/jobs/info/698ed5f9f64d441a16512537?utm_campaign=1063&utm_source=git)** | Philadelphia, PA | On Site | Mar 21 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb4a32c312363dcd27634?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Mar 21 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/699028d70cc8ea15f1dadfea?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Mar 21 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultants Intern 2026](https://jobright.ai/jobs/info/69bfb30079e36d3a847c546e?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 21 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a3a6359fe034b1ccfc2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Mar 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
