@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69bfc05a7798f73e35e49d24?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69bfa21479e36d3a847c4ad2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
@@ -126,5 +130,5 @@ For a complete list, click the following sortable link below:
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69ba90213b74eb1e2c888a6d?utm_campaign=1063&utm_source=git)** | Williamsville, NY | Hybrid | Mar 17 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69bbbe443b74eb1e2c8a37d0?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Consulting & Support](https://jobright.ai/jobs/info/69b87e743b74eb1e2c86565b?utm_campaign=1063&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b8621f56973837413da677?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Transformation Consulting Intern - Full time - Detroit](https://jobright.ai/jobs/info/69b86ac606c1ba00c54a5c9b?utm_campaign=1063&utm_source=git)** | Detroit, Michigan | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
