@@ -58,11 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 22 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69bfc05a7798f73e35e49d24?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69bfa21479e36d3a847c4ad2?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
 | **[Empower](https://www.empower.com)** | **[Retirement Strategy Consultant](https://jobright.ai/jobs/info/69beea544828227293019913?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/69a8dae02580d3183f00fcdf?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Mar 21 |
@@ -94,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Alpine, an ITW Company](http://alpineitw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6b1e6a0d9792584b68c?utm_campaign=1063&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
 | ↳ | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6a4e6a0d9792584b664?utm_campaign=1063&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Summer 2026)](https://jobright.ai/jobs/info/69bca56945e08b3dc1f96aef?utm_campaign=1063&utm_source=git)** | Lehi, UT | On Site | Mar 19 |
-| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd7834393a1008f742d37b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
-| ↳ | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd77deb1060245628263c3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
+| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd77deb1060245628263c3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
+| ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd7834393a1008f742d37b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bde3b2482822729300953e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[ITW](http://www.itw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc6afd4828227293fe3fbb?utm_campaign=1063&utm_source=git)** | Remote Ontario, CAN - Job Posting Location Only | Remote | Mar 19 |
 | ↳ | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc69b55b89c002acf210cd?utm_campaign=1063&utm_source=git)** | Montreal, Canada - Job Posting Location Only | On Site | Mar 19 |
