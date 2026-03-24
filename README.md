@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69c14fb12c312363dcd412af?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Mar 23 |
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69c0e3dc2c312363dcd360d9?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 22 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69bfc05a7798f73e35e49d24?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
