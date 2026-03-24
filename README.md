@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69c1c6cc79e36d3a847ed3b2?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Mar 23 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Operations Strategy & Execution (Summer 2026)](https://jobright.ai/jobs/info/69c1b68179e36d3a847ebd42?utm_campaign=1063&utm_source=git)** | Arlington Heights, IL | On Site | Mar 23 |
 | **[Sand Cherry](http://sandcherryassociates.com)** | **[Monique S. Bell Internship Program, Consulting](https://jobright.ai/jobs/info/699cc23bce78e77b4fe18264?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 23 |
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69c0e1767798f73e35e572bb?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Mar 23 |
 | ↳ | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69c167ee79e36d3a847e1659?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69c14fb12c312363dcd412af?utm_campaign=1063&utm_source=git)** | Raleigh, US, North Carolina | On Site | Mar 23 |
 | **[IBM](http://www.ibm.com)** | **[Associate Security Consultant Intern 2026](https://jobright.ai/jobs/info/69c0e3dc2c312363dcd360d9?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 23 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 22 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 22 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 22 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 22 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69bfc05a7798f73e35e49d24?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
@@ -81,13 +83,12 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Mar 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/69ae484d4f6bcc18280966e1?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Weaver](http://www.weaver.com)** | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fc2?utm_campaign=1063&utm_source=git)** | AUSTIN, Texas, United States | On Site | Mar 20 |
-| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fca?utm_campaign=1063&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 20 |
+| **[Weaver](http://www.weaver.com)** | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fca?utm_campaign=1063&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 20 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd934b106024562832fc2?utm_campaign=1063&utm_source=git)** | AUSTIN, Texas, United States | On Site | Mar 20 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8ed393a1008f743a06b?utm_campaign=1063&utm_source=git)** | DALLAS, Texas, United States | On Site | Mar 20 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69bdd8bf4828227293007eae?utm_campaign=1063&utm_source=git)** | FORT WORTH, Texas, United States | On Site | Mar 20 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Associate Education Consultant Intern](https://jobright.ai/jobs/info/69bdbf23b10602456282d72a?utm_campaign=1063&utm_source=git)** | Remote - US | Remote | Mar 20 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Mar 20 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Cloud Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/69a126226b458d060735df50?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | Mar 20 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990230f0f6f7e7a2cec7c70?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Mar 20 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/6990236b0f6f7e7a2cec7ef8?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 20 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69ab93f52747003c3d5115d0?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
