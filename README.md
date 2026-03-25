@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/69c42a656f4f855eeda68646?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Mar 25 |
+| ↳ | **[Intern - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/69c428c9d5a1016e98db3524?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
+| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69aa4d632ebd316bece20ef8?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Internship (US Applicants Only)](https://jobright.ai/jobs/info/69c3f588d5a1016e98db0095?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
-| **[NEPC, LLC](http://nepc.com)** | **[Summer of 2026 Investment Consulting Graduate Internship Program](https://jobright.ai/jobs/info/695341f2f1f8465b79ea8f95?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 25 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Associate Consulting Intern Summer 2026 (Spring 2027 Graduate)](https://jobright.ai/jobs/info/69c3aaf07a7a0045db898401?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
+| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/69c4225533eecf3107943e9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant](https://jobright.ai/jobs/info/69c378487a7a0045db893d86?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
 | **[Walman Optical](https://www.walmanoptical.com)** | **[ADO Sales Consultant](https://jobright.ai/jobs/info/69c33697753c101b2156dbd6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Mar 24 |
 | **[Siemens](https://www.siemens.com)** | **[Transmission & Distribution Technical Consultant Internship](https://jobright.ai/jobs/info/69c2de6694007a2195dee2a6?utm_campaign=1063&utm_source=git)** | Minnetonka, MN | Hybrid | Mar 24 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2797f94007a2195de5470?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
-| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2798e94007a2195de5475?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
+| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c20285c9ad035e829a6a2a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c200bd2c312363dcd54d91?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2009075f7ff1cd8107517?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
