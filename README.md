@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sabry & Company](sabryandcompany.com)** | **[Assistant Partner, Management Consulting & Business Investment — All-Year Internship](https://jobright.ai/jobs/info/69c449bb6f4f855eeda6b98f?utm_campaign=1063&utm_source=git)** | New York, NY | Remote | Mar 25 |
+| **[99 Yards](https://99yards.app)** | **[Sales Consultant intern 3 months](https://jobright.ai/jobs/info/69c476036f4f855eeda70138?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/69c441c7d5a1016e98db5ca5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69aa4d632ebd316bece20ef8?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c279cbec22f8310ab0470d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2797f94007a2195de5470?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
-| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
+| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2798e94007a2195de5475?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c20285c9ad035e829a6a2a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c200bd2c312363dcd54d91?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Mar 23 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/698557f58da7a612045fd819?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Mar 21 |
 | ↳ | **[Intern Federal Tax Consulting Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/699028d70cc8ea15f1dadfea?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Mar 21 |
 | **[Arcadis](http://www.arcadis.com)** | **[Sustainability Advisory Intern](https://jobright.ai/jobs/info/69a1a3a6359fe034b1ccfc2f?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5eb1af4e41a61efd91830?utm_campaign=1063&utm_source=git)** | College Station, TX, United States | Hybrid | Mar 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69881c168ca8121a3a6aa6af?utm_campaign=1063&utm_source=git)** | Irvine, CA | On Site | Mar 21 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Senior Consultant, Learning & Leadership Development - Greenville, SC (Hybrid)](https://jobright.ai/jobs/info/69c219bc2c312363dcd5ad8b?utm_campaign=1063&utm_source=git)** | Greenville, SC | Hybrid | Mar 20 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Alpine, an ITW Company](http://alpineitw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6b1e6a0d9792584b68c?utm_campaign=1063&utm_source=git)** | Ontario, Canada | On Site | Mar 19 |
 | ↳ | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bcb6a4e6a0d9792584b664?utm_campaign=1063&utm_source=git)** | Montreal, QC | On Site | Mar 19 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Summer 2026)](https://jobright.ai/jobs/info/69bca56945e08b3dc1f96aef?utm_campaign=1063&utm_source=git)** | Lehi, UT | On Site | Mar 19 |
-| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd77deb1060245628263c3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
-| ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd7834393a1008f742d37b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2026](https://jobright.ai/jobs/info/69bd7834393a1008f742d37b?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[AI Consulting Associate Program (AI CAP) Product Intern - Summer 2026](https://jobright.ai/jobs/info/69bd77deb1060245628263c3?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69bde3b2482822729300953e?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[ITW](http://www.itw.com/)** | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc6afd4828227293fe3fbb?utm_campaign=1063&utm_source=git)** | Remote Ontario, CAN - Job Posting Location Only | Remote | Mar 19 |
 | ↳ | **[Software Consultant Intern- Canada](https://jobright.ai/jobs/info/69bc69b55b89c002acf210cd?utm_campaign=1063&utm_source=git)** | Montreal, Canada - Job Posting Location Only | On Site | Mar 19 |
