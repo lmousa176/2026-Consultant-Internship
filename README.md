@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant,  Internship (GTA September-December '26)](https://jobright.ai/jobs/info/69c6cf5483ea553769fddaae?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
+| ↳ | **[Fall 2026 MC Senior Consultant,  Internship (GTA September-December '26)](https://jobright.ai/jobs/info/69c6cf27b773006330b73067?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Electromagnetic Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 27 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Sept - Dec)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 27 |
+| ↳ | **[GMA - Management Consulting Intern - 2026](https://jobright.ai/jobs/info/69c6c89faa3c2c1995e11ec1?utm_campaign=1063&utm_source=git)** | Montreal, QC | On Site | Mar 27 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/69c6a93faa3c2c1995e111e9?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | **[Checkmarx](http://www.checkmarx.com)** | **[Solutions Consultant Intern – MIS or Business Major](https://jobright.ai/jobs/info/69c68f36aa3c2c1995e107f5?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 27 |
@@ -100,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c279cbec22f8310ab0470d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
-| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2797f94007a2195de5470?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
-| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
-| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
+| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2798e94007a2195de5475?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
+| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
+| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c20285c9ad035e829a6a2a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c200bd2c312363dcd54d91?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2009075f7ff1cd8107517?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
