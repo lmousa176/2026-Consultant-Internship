@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c487e36f4f855eeda71b21?utm_campaign=1063&utm_source=git)** | Miami, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c4869ed5a1016e98dbc8f2?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Mar 25 |
 | ↳ | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c4869ad5a1016e98dbc8eb?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 25 |
-| **[99 Yards](https://99yards.app)** | **[Sales Consultant intern 3 months](https://jobright.ai/jobs/info/69c476036f4f855eeda70138?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/69c441c7d5a1016e98db5ca5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Associate Consulting Intern Summer 2026 (Spring 2027 Graduate)](https://jobright.ai/jobs/info/69c3aaf07a7a0045db898401?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Mar 25 |
@@ -109,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Platforms Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/699f850a23374b3b6e6b53b0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c279cbec22f8310ab0470d?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
-| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2797f94007a2195de5470?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
-| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2798e94007a2195de5475?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
+| ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c279dda5b03d40c194d386?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2799594007a2195de5478?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2797994007a2195de546b?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
+| ↳ | **[Package Consultant Intern 2026- Workday HCM & Compensation](https://jobright.ai/jobs/info/69c2798e94007a2195de5475?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c20285c9ad035e829a6a2a?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | ↳ | **[Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations](https://jobright.ai/jobs/info/69c200bd2c312363dcd54d91?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Mar 23 |
 | ↳ | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69c2009075f7ff1cd8107517?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
