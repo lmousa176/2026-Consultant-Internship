@@ -93,10 +93,9 @@ For a complete list, click the following sortable link below:
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/69c441c7d5a1016e98db5ca5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69cab973e565c26a70040387?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
-| **[Huron](http://www.huronconsultinggroup.com)** | **[MHA Associate Consulting Intern Summer 2026 (Spring 2027 Graduate)](https://jobright.ai/jobs/info/69c3aaf07a7a0045db898401?utm_campaign=1063&utm_source=git)** | Chicago, IL | Remote | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
+| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant](https://jobright.ai/jobs/info/69c378487a7a0045db893d86?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
 | **[Walman Optical](https://www.walmanoptical.com)** | **[ADO Sales Consultant](https://jobright.ai/jobs/info/69c33697753c101b2156dbd6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Mar 24 |
@@ -115,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Mar 24 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[HR Managing Consultant - Inquiry Services](https://jobright.ai/jobs/info/69c8f0c5aa3c2c1995e2218c?utm_campaign=1063&utm_source=git)** | Athens, GA | On Site | Mar 24 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
