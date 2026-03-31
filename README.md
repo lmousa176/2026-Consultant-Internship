@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HDR](http://www.hdrinc.com)** | **[Economic Consultant Intern](https://jobright.ai/jobs/info/69caf3f0aa3c2c1995e32503?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 30 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Career Consulting Summer Intern - Philadelphia- College Program 2026](https://jobright.ai/jobs/info/69caa0da8fc6090c5d44f43b?utm_campaign=1063&utm_source=git)** | Philadelphia - South 17th | Hybrid | Mar 30 |
+| **[HDR](http://www.hdrinc.com)** | **[Economic Consultant Intern](https://jobright.ai/jobs/info/69cb15e81b5ad028873a8950?utm_campaign=1063&utm_source=git)** | City of Washington County, DC | On Site | Mar 30 |
+| ↳ | **[Economic Consultant Intern](https://jobright.ai/jobs/info/69caf3f0aa3c2c1995e32503?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[State of Florida](http://www.myflorida.com)** | **[SYSTEMS PROGRAMMING CONSULTANT (Software Developer) - 79011532](https://jobright.ai/jobs/info/69caf072466f1e133aac8cae?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Mar 29 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 29 |
@@ -90,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c4970f33eecf310794faa4?utm_campaign=1063&utm_source=git)** | Canada | Remote | Mar 25 |
 | ↳ | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c48d5133eecf310794e634?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 25 |
-| **[AC Disaster Consulting](https://acdisaster.com)** | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c487e36f4f855eeda71b21?utm_campaign=1063&utm_source=git)** | Miami, FL | Hybrid | Mar 25 |
-| ↳ | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c4869ad5a1016e98dbc8eb?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 25 |
+| **[AC Disaster Consulting](https://acdisaster.com)** | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c4869ad5a1016e98dbc8eb?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 25 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Consulting (Houston)](https://jobright.ai/jobs/info/69c441c7d5a1016e98db5ca5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 25 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69cab973e565c26a70040387?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
@@ -102,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant](https://jobright.ai/jobs/info/69c378487a7a0045db893d86?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
 | **[Walman Optical](https://www.walmanoptical.com)** | **[ADO Sales Consultant](https://jobright.ai/jobs/info/69c33697753c101b2156dbd6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Mar 24 |
 | **[C5MI](http://www.c5mi.com/)** | **[Internal Strategy Consultant](https://jobright.ai/jobs/info/69c2bd1794007a2195deb133?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 24 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA Structures Industry Process Consultant](https://jobright.ai/jobs/info/698b1e470f6f7e7a2ce66b4f?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Mar 24 |
 | **[AC Disaster Consulting](https://acdisaster.com)** | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c2d0a0ec22f8310ab0be65?utm_campaign=1063&utm_source=git)** | Tampa, FL | Hybrid | Mar 24 |
 | ↳ | **[Intern - Distaster Recovery](https://jobright.ai/jobs/info/69c2d094ec22f8310ab0be20?utm_campaign=1063&utm_source=git)** | Nashville, TN | Hybrid | Mar 24 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Field Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c21ffbc9ad035e829ad8ba?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 24 |
