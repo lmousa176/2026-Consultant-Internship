@@ -97,6 +97,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2a779e36d3a847ce11f?utm_campaign=1063&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Consultant](https://jobright.ai/jobs/info/69c378487a7a0045db893d86?utm_campaign=1063&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
-| **[Walman Optical](https://www.walmanoptical.com)** | **[ADO Sales Consultant](https://jobright.ai/jobs/info/69c33697753c101b2156dbd6?utm_campaign=1063&utm_source=git)** | Dallas, TX | Remote | Mar 24 |
-| **[C5MI](http://www.c5mi.com/)** | **[Internal Strategy Consultant](https://jobright.ai/jobs/info/69c2bd1794007a2195deb133?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
