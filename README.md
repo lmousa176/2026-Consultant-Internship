@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc8822e1921223acc78d13?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69cc7fffcdb525785fb7c76c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Institutional Service Intern](https://jobright.ai/jobs/info/69ccadb7cdb525785fb8158f?utm_campaign=1063&utm_source=git)** | Homewood, AL | On Site | Mar 31 |
 | **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc4fe08130af1ac8337c83?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Mar 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32cecdb525785fb7a0b0?utm_campaign=1063&utm_source=git)** | New York | On Site | Mar 31 |
 | **[Arcadis](http://www.arcadis.com)** | **[Business Advisory Intern](https://jobright.ai/jobs/info/69cc240de1921223acc742b2?utm_campaign=1063&utm_source=git)** | 445 South Figueroa Street, Suite 3650, Los Angeles, CA, 90071, US | On Site | Mar 31 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69c8f09b1818a24cd84d8767?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 28 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Program Manager – Strategic Technical Consulting](https://jobright.ai/jobs/info/69ccb1b5cdb525785fb817f1?utm_campaign=1063&utm_source=git)** | Trenton, NJ | Hybrid | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/69c70a9ae565c26a7002542b?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e17783ea553769fde516?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
