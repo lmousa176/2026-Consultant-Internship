@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c4970f33eecf310794faa4?utm_campaign=1063&utm_source=git)** | Canada | Remote | Mar 25 |
 | ↳ | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c48d5133eecf310794e634?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69cab973e565c26a70040387?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
