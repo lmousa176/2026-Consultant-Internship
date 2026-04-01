@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wood](https://www.woodplc.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/69af25cc7495006450939de0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 31 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69af82cadfaeda6ff597a908?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Mar 31 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Internship Opportunities, Management Consulting January 2027](https://jobright.ai/jobs/info/69cb8e451b5ad028873acf26?utm_campaign=1063&utm_source=git)** | Victoria, BC | On Site | Mar 31 |
+| ↳ | **[GVA Internship Opportunities, Management Consulting January 2027](https://jobright.ai/jobs/info/69cb9d7a366bb95ba54ebb0e?utm_campaign=1063&utm_source=git)** | Vancouver, BC | On Site | Mar 31 |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consultant Intern](https://jobright.ai/jobs/info/69cb15e81b5ad028873a8950?utm_campaign=1063&utm_source=git)** | City of Washington County, DC | On Site | Mar 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[State of Florida](http://www.myflorida.com)** | **[SYSTEMS PROGRAMMING CONSULTANT (Software Developer) - 79011532](https://jobright.ai/jobs/info/69caf072466f1e133aac8cae?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Mar 29 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 29 |
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
+| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69c8f09b1818a24cd84d8767?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 28 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[BW Design Group](http://www.bwdesigngroup.com)** | **[Engineering Consulting Internship/Co-Op (Summer 2026 or 6-Month)](https://jobright.ai/jobs/info/69c70a9ae565c26a7002542b?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e17783ea553769fde516?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
