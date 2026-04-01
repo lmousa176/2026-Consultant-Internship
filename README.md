@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc8822e1921223acc78d13?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69cc7fffcdb525785fb7c76c?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Mar 31 |
+| **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc4fe08130af1ac8337c83?utm_campaign=1063&utm_source=git)** | Atlanta, GA, USA | On Site | Mar 31 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69cc32cecdb525785fb7a0b0?utm_campaign=1063&utm_source=git)** | New York | On Site | Mar 31 |
+| **[Arcadis](http://www.arcadis.com)** | **[Business Advisory Intern](https://jobright.ai/jobs/info/69cc240de1921223acc742b2?utm_campaign=1063&utm_source=git)** | 445 South Figueroa Street, Suite 3650, Los Angeles, CA, 90071, US | On Site | Mar 31 |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b465e05697383741392463?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Career and Employment Consultant Talent Pool](https://jobright.ai/jobs/info/69cc352b366bb95ba54ee2e6?utm_campaign=1063&utm_source=git)** | Alberta Beach, AB | On Site | Mar 31 |
 | **[Wood](https://www.woodplc.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/69af25cc7495006450939de0?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69af82cadfaeda6ff597a908?utm_campaign=1063&utm_source=git)** | Greater Orlando | On Site | Mar 31 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Internship Opportunities, Management Consulting January 2027](https://jobright.ai/jobs/info/69cb8e451b5ad028873acf26?utm_campaign=1063&utm_source=git)** | Victoria, BC | On Site | Mar 31 |
@@ -88,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 27 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Sales Consultant, Queen St. W](https://jobright.ai/jobs/info/69c5ec6683ea553769fd13e9?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
 | **[State of Utah](http://www.utah.gov/)** | **[JJYS Research Consultant III](https://jobright.ai/jobs/info/69c5e79a1b5ad0288737aa0f?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
-| **[The World Bank](http://www.worldbank.org)** | **[E T Consultant - Speechwriter - req36161](https://jobright.ai/jobs/info/69c59656aa3c2c1995e01bc2?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Mar 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69c5892f83ea553769fcc83f?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6971593451f726477183a552?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 26 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c4970f33eecf310794faa4?utm_campaign=1063&utm_source=git)** | Canada | Remote | Mar 25 |
