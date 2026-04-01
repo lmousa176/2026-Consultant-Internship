@@ -92,7 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c48d5133eecf310794e634?utm_campaign=1063&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69cab973e565c26a70040387?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | Mar 25 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science & Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/69c3eccf33eecf310793f6d4?utm_campaign=1063&utm_source=git)** | Chantilly, VA | On Site | Mar 25 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a49d7798f73e35e5191a?utm_campaign=1063&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30226?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
-| ↳ | **[Billing Coordinator, Consulting](https://jobright.ai/jobs/info/69c0a2ba2c312363dcd30227?utm_campaign=1063&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
