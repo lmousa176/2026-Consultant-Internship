@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 02 |
 | ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/69c218fa2c312363dcd5ab05?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Apr 02 |
+| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c218f52c312363dcd5ab01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[HOK](http://www.hok.com/)** | **[Consulting - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69b19ff4d04c69566c73e943?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 02 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69a98ab97f9271426f8869f1?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Apr 02 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69ce85bb366bb95ba550c544?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 27 |
 | **[Checkmarx](http://www.checkmarx.com)** | **[Solutions Consultant Intern – MIS or Business Major](https://jobright.ai/jobs/info/69c68f36aa3c2c1995e107f5?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 27 |
-| **[State of Utah](http://www.utah.gov/)** | **[JJYS Research Consultant III](https://jobright.ai/jobs/info/69c5e79a1b5ad0288737aa0f?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
