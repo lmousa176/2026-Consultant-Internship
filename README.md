@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69cdacd154f00230c6cf555c?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 01 |
+| ↳ | **[Intern - Airport Operations (LAX) (Summer 2026)](https://jobright.ai/jobs/info/69cda5d4891d7b11cfcbe753?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b098287495006450972e57?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO](https://jobright.ai/jobs/info/69cd4c2b891d7b11cfcb753b?utm_campaign=1063&utm_source=git)** | Cairo, IL | Remote | Apr 01 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Arcadis](http://www.arcadis.com)** | **[Business Advisory Intern](https://jobright.ai/jobs/info/69cd469acdb525785fb86101?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
-| **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69c8f09b1818a24cd84d8767?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 28 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e17783ea553769fde516?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e122e565c26a7002385e?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
