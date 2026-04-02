@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cee113366bb95ba5510652?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 02 |
 | ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/69c218fa2c312363dcd5ab05?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Apr 02 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c218f52c312363dcd5ab01?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69ce5e38891d7b11cfcc8035?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Aflac](http://www.aflac.com)** | **[Model Risk Consultant](https://jobright.ai/jobs/info/69cdfbe1cfdc6132f942357c?utm_campaign=1063&utm_source=git)** | Georgia, United States | Hybrid | Apr 01 |
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69cdacd154f00230c6cf555c?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 01 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Data Governance Lead Consultant - Provisioning Point & Data Source Program](https://jobright.ai/jobs/info/69ce065f54f00230c6cfac2d?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
-| ↳ | **[Data Governance Consultant - Authorized Provisioning Point](https://jobright.ai/jobs/info/69ce061c366bb95ba5506df0?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Data Governance Consultant - Authorized Provisioning Point](https://jobright.ai/jobs/info/69ce061c366bb95ba5506df0?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| ↳ | **[Data Governance Lead Consultant - Provisioning Point & Data Source Program](https://jobright.ai/jobs/info/69ce065f54f00230c6cfac2d?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b098287495006450972e57?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO](https://jobright.ai/jobs/info/69cd4c2b891d7b11cfcb753b?utm_campaign=1063&utm_source=git)** | Cairo, IL | Remote | Apr 01 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 01 |
