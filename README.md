@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Consulting - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69b19ff4d04c69566c73e943?utm_campaign=1063&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 02 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69a98ab97f9271426f8869f1?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Apr 02 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69ce5e38891d7b11cfcc8035?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Aflac](http://www.aflac.com)** | **[Model Risk Consultant](https://jobright.ai/jobs/info/69cdfbe1cfdc6132f942357c?utm_campaign=1063&utm_source=git)** | Georgia, United States | Hybrid | Apr 01 |
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69cdacd154f00230c6cf555c?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 01 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Data Governance Consultant - Authorized Provisioning Point](https://jobright.ai/jobs/info/69ce061c366bb95ba5506df0?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
-| ↳ | **[Data Governance Lead Consultant - Provisioning Point & Data Source Program](https://jobright.ai/jobs/info/69ce065f54f00230c6cfac2d?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Data Governance Lead Consultant - Provisioning Point & Data Source Program](https://jobright.ai/jobs/info/69ce065f54f00230c6cfac2d?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
+| ↳ | **[Data Governance Consultant - Authorized Provisioning Point](https://jobright.ai/jobs/info/69ce061c366bb95ba5506df0?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b098287495006450972e57?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO](https://jobright.ai/jobs/info/69cd4c2b891d7b11cfcb753b?utm_campaign=1063&utm_source=git)** | Cairo, IL | Remote | Apr 01 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 01 |
@@ -98,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 MC Senior Consultant,  Internship (GTA September-December '26)](https://jobright.ai/jobs/info/69c6cf27b773006330b73067?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Electromagnetic Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 27 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/69c6a93faa3c2c1995e111e9?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
+| **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69ce85bb366bb95ba550c544?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 27 |
 | **[Checkmarx](http://www.checkmarx.com)** | **[Solutions Consultant Intern – MIS or Business Major](https://jobright.ai/jobs/info/69c68f36aa3c2c1995e107f5?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Mar 27 |
 | **[State of Utah](http://www.utah.gov/)** | **[JJYS Research Consultant III](https://jobright.ai/jobs/info/69c5e79a1b5ad0288737aa0f?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
