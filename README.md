@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b7bb4356973837413cfbca?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 03 |
+| **[Osmose](https://www.osmose.com/)** | **[Strategy & Solutions Consulting Intern](https://jobright.ai/jobs/info/69cfc0f3cdb525785fba4a92?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cf2d33cdb525785fb9f757?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 02 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/69cef769891d7b11cfccee7d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cee113366bb95ba5510652?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 02 |
