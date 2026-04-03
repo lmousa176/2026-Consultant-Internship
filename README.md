@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Accounting) (Summer 2027)](https://jobright.ai/jobs/info/69d00d1a366bb95ba551b057?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 03 |
+| **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c19cfdc6132f94379e2?utm_campaign=1063&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 03 |
+| ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c06891d7b11cfcd7dcf?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, US | Hybrid | Apr 03 |
+| ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c010b098b7a67075b6f?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c20e8a2c312363dcd5802d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
