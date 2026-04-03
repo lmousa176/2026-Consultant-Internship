@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern](https://jobright.ai/jobs/info/69d0233ecdb525785fba7a44?utm_campaign=1063&utm_source=git)** | Evanston, IL | Hybrid | Apr 03 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b3fd4b5697383741388c73?utm_campaign=1063&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c19cfdc6132f94379e2?utm_campaign=1063&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 03 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69cdacd154f00230c6cf555c?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 01 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b098287495006450972e57?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO](https://jobright.ai/jobs/info/69cd4c2b891d7b11cfcb753b?utm_campaign=1063&utm_source=git)** | Cairo, IL | Remote | Apr 01 |
-| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Arcadis](http://www.arcadis.com)** | **[Business Advisory Intern](https://jobright.ai/jobs/info/69cd469acdb525785fb86101?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | Hybrid | Apr 01 |
