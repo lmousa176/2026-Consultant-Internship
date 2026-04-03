@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c20e8a2c312363dcd5802d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Apr 03 |
@@ -99,9 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
-| **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
