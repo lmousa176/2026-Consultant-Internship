@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 MC Senior Consultant,  Internship (GTA September-December '26)](https://jobright.ai/jobs/info/69c6cf27b773006330b73067?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Electromagnetic Industry Process Consultant](https://jobright.ai/jobs/info/698d7f9ef64d441a164f98d9?utm_campaign=1063&utm_source=git)** | Waltham, MA | Hybrid | Mar 27 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/69c6a93faa3c2c1995e111e9?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
-| **[Oracle](https://www.oracle.com/)** | **[Solution Services Architect/Consultant Intern](https://jobright.ai/jobs/info/69ce85bb366bb95ba550c544?utm_campaign=1063&utm_source=git)** | Burlington, MA | On Site | Mar 27 |
-| **[Checkmarx](http://www.checkmarx.com)** | **[Solutions Consultant Intern – MIS or Business Major](https://jobright.ai/jobs/info/69c68f36aa3c2c1995e107f5?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
