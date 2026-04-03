@@ -97,9 +97,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e17783ea553769fde516?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e122e565c26a7002385e?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e007aa3c2c1995e12e15?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 27 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6dfc11818a24cd84c94a4?utm_campaign=1063&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6dedbb773006330b739c6?utm_campaign=1063&utm_source=git)** | Research Park, California, United States | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
