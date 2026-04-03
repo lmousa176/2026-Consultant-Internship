@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Research Consultant Intern](https://jobright.ai/jobs/info/69cef769891d7b11cfccee7d?utm_campaign=1063&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cee113366bb95ba5510652?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69b3d5bdad360c0340a90f1f?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 02 |
 | ↳ | **[Package Consultant Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/69c218fa2c312363dcd5ab05?utm_campaign=1063&utm_source=git)** | Columbia, SC | On Site | Apr 02 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69ce5e38891d7b11cfcc8035?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Aflac](http://www.aflac.com)** | **[Model Risk Consultant](https://jobright.ai/jobs/info/69cdfbe1cfdc6132f942357c?utm_campaign=1063&utm_source=git)** | Georgia, United States | Hybrid | Apr 01 |
 | **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2026)](https://jobright.ai/jobs/info/69cdacd154f00230c6cf555c?utm_campaign=1063&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 01 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Data Governance Consultant - Authorized Provisioning Point](https://jobright.ai/jobs/info/69ce061c366bb95ba5506df0?utm_campaign=1063&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69b098287495006450972e57?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO](https://jobright.ai/jobs/info/69cd4c2b891d7b11cfcb753b?utm_campaign=1063&utm_source=git)** | Cairo, IL | Remote | Apr 01 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 01 |
@@ -91,11 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/69c72ab21b5ad0288738ace8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Program Manager – Strategic Technical Consulting](https://jobright.ai/jobs/info/69ceff22cdb525785fb9deaf?utm_campaign=1063&utm_source=git)** | Trenton, NJ | Hybrid | Mar 27 |
 | **[IBM](http://www.ibm.com)** | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e17783ea553769fde516?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e122e565c26a7002385e?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | ↳ | **[Intern – Associate Consultant](https://jobright.ai/jobs/info/69c6e007aa3c2c1995e12e15?utm_campaign=1063&utm_source=git)** | New York, United States | On Site | Mar 27 |
