@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant Intern (Accounting) (Summer 2027)](https://jobright.ai/jobs/info/69d00d1a366bb95ba551b057?utm_campaign=1063&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 03 |
+| **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern](https://jobright.ai/jobs/info/69d0233ecdb525785fba7a44?utm_campaign=1063&utm_source=git)** | Evanston, IL | Hybrid | Apr 03 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b3fd4b5697383741388c73?utm_campaign=1063&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
 | **[Cisco](http://www.cisco.com)** | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c19cfdc6132f94379e2?utm_campaign=1063&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 03 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c06891d7b11cfcd7dcf?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, US | Hybrid | Apr 03 |
 | ↳ | **[Software Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d00c010b098b7a67075b6f?utm_campaign=1063&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 03 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a144748a8ce22990e1517?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f39356b68f3dc4e742b7?utm_campaign=1063&utm_source=git)** | College Station, TX | Hybrid | Mar 28 |
+| ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f86a56b68f3dc4e74704?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f430ac80bb5492bc6b5a?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 28 |
 | ↳ | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/6939f1e656b68f3dc4e7412a?utm_campaign=1063&utm_source=git)** | Boston, MA | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
