@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69d0a480891d7b11cfcdd8b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern](https://jobright.ai/jobs/info/69d0233ecdb525785fba7a44?utm_campaign=1063&utm_source=git)** | Evanston, IL | Hybrid | Apr 03 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b3fd4b5697383741388c73?utm_campaign=1063&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69a16b4eb600907a9627d124?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c20e8a2c312363dcd5802d?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
-| **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern - Palmer Consulting](https://jobright.ai/jobs/info/6997d09ee0bddb6acac69a86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c1fbde75f7ff1cd81068a0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Osmose](https://www.osmose.com/)** | **[Strategy & Solutions Consulting Intern](https://jobright.ai/jobs/info/69cfdc8d891d7b11cfcd67ba?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[SYSTEMS PROGRAMMING CONSULTANT (Software Developer) - 79011532](https://jobright.ai/jobs/info/69d08749366bb95ba551f49b?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Mar 29 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | Mar 29 |
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Mar 29 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Fall 2026 MC Consultant Internship (Ottawa Location Sept - Dec '26)](https://jobright.ai/jobs/info/69c6c8a6aa3c2c1995e11eca?utm_campaign=1063&utm_source=git)** | Ottawa, ON | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
