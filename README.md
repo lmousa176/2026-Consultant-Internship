@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6907a9cc122e8474c78e5f7e?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Apr 05 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 05 |
 | ↳ | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Remote | Apr 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
