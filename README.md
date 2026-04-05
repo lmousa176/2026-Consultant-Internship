@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/697d26c3137a051025662302?utm_campaign=1063&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
+| **[Power Construction](https://www.powerconstruction.net)** | **[Developer Intern - Palmer Consulting](https://jobright.ai/jobs/info/6997d09ee0bddb6acac69a86?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69d0a480891d7b11cfcdd8b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d1cd2ecdb525785fbb51e8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69a29ee4b600907a9628fcfb?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
