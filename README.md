@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Victoria Internship Opportunities, Management Consulting January 2027](https://jobright.ai/jobs/info/69cb8e451b5ad028873acf26?utm_campaign=1063&utm_source=git)** | Victoria, BC | On Site | Mar 31 |
 | ↳ | **[GVA Internship Opportunities, Management Consulting January 2027](https://jobright.ai/jobs/info/69cb9d7a366bb95ba54ebb0e?utm_campaign=1063&utm_source=git)** | Vancouver, BC | On Site | Mar 31 |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consultant Intern](https://jobright.ai/jobs/info/69cb15e81b5ad028873a8950?utm_campaign=1063&utm_source=git)** | City of Washington County, DC | On Site | Mar 30 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2027/2028 PhD/ABD graduates) Economic Consulting Senior Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/693a0a0456b68f3dc4e769a9?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
