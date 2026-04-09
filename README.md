@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Associate EHS Consultant - Intern/Co-op Conversion (Raber)](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5b?utm_campaign=1063&utm_source=git)** | Huntersville, NC | On Site | Apr 09 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d7d70eb67cec4f9b098c10?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 09 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0d848f0c8161d2fc019?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0cf48f0c8161d2fc00a?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d128?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee3a366bb95ba5550bb4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2d48f0c8161d2fbf29?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e147?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce92?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
+| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6edf7706f771673baed2d?utm_campaign=1063&utm_source=git)** | Appleton, WI | On Site | Apr 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Solutions Intern](https://jobright.ai/jobs/info/69d6d27fe63cea7a8b66c7b9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69d6b94248f0c8161d2fa773?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
@@ -124,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Osmose](https://www.osmose.com/)** | **[Strategy & Solutions Consulting Intern](https://jobright.ai/jobs/info/69cfdc8d891d7b11cfcd67ba?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d74163706f771673bb1f30?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 02 |
 | ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d5d82ce63cea7a8b665767?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cf2d33cdb525785fb9f757?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 02 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69d5c2f7891d7b11cfd0526a?utm_campaign=1063&utm_source=git)** | Detroit Metro | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
