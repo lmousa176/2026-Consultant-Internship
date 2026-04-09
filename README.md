@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[IT Team Lead Intern](https://jobright.ai/jobs/info/69d6df0948f0c8161d2fbafc?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Solutions Intern](https://jobright.ai/jobs/info/69d6d27fe63cea7a8b66c7b9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69d6b94248f0c8161d2fa773?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[OPERATIONAL EXCELLENCE ORGANIZATIONAL CONSULTANT INTERN - STUDENT 4 - HYBRID](https://jobright.ai/jobs/info/69d6adee52a5bf580012b2b4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 08 |
@@ -88,25 +89,23 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/69d5814ccdb525785fbd1717?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Senior IT Security Consultant](https://jobright.ai/jobs/info/69d5a7a1cfdc6132f9463cb9?utm_campaign=1063&utm_source=git)** | Winnipeg, MB | On Site | Apr 06 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69d48f79cfdc6132f945c2ea?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Vest Residential](https://fcamres.com/)** | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d616e63cea7a8b653d86?utm_campaign=1063&utm_source=git)** | Ladson, SC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d616e63cea7a8b653d84?utm_campaign=1063&utm_source=git)** | Savannah, GA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d615e63cea7a8b653d7f?utm_campaign=1063&utm_source=git)** | Dublin, PA, US | On Site | Apr 06 |
+| **[Vest Residential](https://fcamres.com/)** | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d616e63cea7a8b653d84?utm_campaign=1063&utm_source=git)** | Savannah, GA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d616e63cea7a8b653d86?utm_campaign=1063&utm_source=git)** | Ladson, SC, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d615e63cea7a8b653d7a?utm_campaign=1063&utm_source=git)** | Richmond, VA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d615e63cea7a8b653d7f?utm_campaign=1063&utm_source=git)** | Dublin, PA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5fb?utm_campaign=1063&utm_source=git)** | Mobile, AL, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5fe?utm_campaign=1063&utm_source=git)** | Hampton, VA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5f1?utm_campaign=1063&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5f5?utm_campaign=1063&utm_source=git)** | Alexandria, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5f4?utm_campaign=1063&utm_source=git)** | Roanoke, VA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5fc?utm_campaign=1063&utm_source=git)** | North Charleston, SC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5fe?utm_campaign=1063&utm_source=git)** | Hampton, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5ff?utm_campaign=1063&utm_source=git)** | Fort Myers, FL, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489f?utm_campaign=1063&utm_source=git)** | Charleston, SC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf4898?utm_campaign=1063&utm_source=git)** | Charlottesville, VA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489b?utm_campaign=1063&utm_source=git)** | Summerville, SC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf4899?utm_campaign=1063&utm_source=git)** | Raleigh, NC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489e?utm_campaign=1063&utm_source=git)** | Greenville, SC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489a?utm_campaign=1063&utm_source=git)** | Charlotte, NC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5fc?utm_campaign=1063&utm_source=git)** | North Charleston, SC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d61154f00230c6d2b5f1?utm_campaign=1063&utm_source=git)** | Williamsburg, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489c?utm_campaign=1063&utm_source=git)** | Katy, TX, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf4899?utm_campaign=1063&utm_source=git)** | Raleigh, NC, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf48a0?utm_campaign=1063&utm_source=git)** | Kissimmee, FL, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489b?utm_campaign=1063&utm_source=git)** | Summerville, SC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf489e?utm_campaign=1063&utm_source=git)** | Greenville, SC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5fd891d7b11cfcf4898?utm_campaign=1063&utm_source=git)** | Charlottesville, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e8cdb525785fbc3837?utm_campaign=1063&utm_source=git)** | Hanahan, SC, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e8cdb525785fbc383e?utm_campaign=1063&utm_source=git)** | Morrisville, NC, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e7cdb525785fbc3835?utm_campaign=1063&utm_source=git)** | Morganton, NC, US | On Site | Apr 06 |
@@ -116,22 +115,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e3366bb95ba5537c50?utm_campaign=1063&utm_source=git)** | Woodbridge, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e2366bb95ba5537c4f?utm_campaign=1063&utm_source=git)** | Ruskin, FL, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e1cdb525785fbc3811?utm_campaign=1063&utm_source=git)** | Pineville, NC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e1366bb95ba5537c4c?utm_campaign=1063&utm_source=git)** | Leland, CT, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cda?utm_campaign=1063&utm_source=git)** | Virginia Beach, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd6?utm_campaign=1063&utm_source=git)** | Lawrenceville, GA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0366bb95ba5537c49?utm_campaign=1063&utm_source=git)** | Leland, NC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cda?utm_campaign=1063&utm_source=git)** | Virginia Beach, VA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd5?utm_campaign=1063&utm_source=git)** | Nashville, TN, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd8?utm_campaign=1063&utm_source=git)** | Celebration, FL, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cdb525785fbc380d?utm_campaign=1063&utm_source=git)** | Stafford, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cdb525785fbc380c?utm_campaign=1063&utm_source=git)** | Hickory, NC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd9?utm_campaign=1063&utm_source=git)** | Little River, SC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0366bb95ba5537c49?utm_campaign=1063&utm_source=git)** | Leland, NC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd5?utm_campaign=1063&utm_source=git)** | Nashville, TN, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5e0cfdc6132f9454cd7?utm_campaign=1063&utm_source=git)** | Chesapeake, VA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcfdc6132f9454cd2?utm_campaign=1063&utm_source=git)** | Salem, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5df366bb95ba5537c47?utm_campaign=1063&utm_source=git)** | Fredericksburg, VA, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcfdc6132f9454cd3?utm_campaign=1063&utm_source=git)** | Cramerton, NC, US | On Site | Apr 06 |
+| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcdb525785fbc3807?utm_campaign=1063&utm_source=git)** | Manassas, VA, US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5df366bb95ba5537c46?utm_campaign=1063&utm_source=git)** | US | On Site | Apr 06 |
 | ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcdb525785fbc380a?utm_campaign=1063&utm_source=git)** | Newport News, VA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcdb525785fbc3807?utm_campaign=1063&utm_source=git)** | Manassas, VA, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcfdc6132f9454cd3?utm_campaign=1063&utm_source=git)** | Cramerton, NC, US | On Site | Apr 06 |
-| ↳ | **[Leasing Consultant Intern](https://jobright.ai/jobs/info/69d3d5dfcfdc6132f9454cd2?utm_campaign=1063&utm_source=git)** | Salem, VA, US | On Site | Apr 06 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Field Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c233c7c9ad035e829aeb09?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 06 |
 | **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc8822e1921223acc78d13?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 05 |
