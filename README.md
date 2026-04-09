@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INTERNSHIP ENTRO](http://www.nilebasin.org/entro)** | **[International Consultant For The Support Mission In The Development Of The Financing Strategy For The Water Sector Investment Programme In Burundi](https://jobright.ai/jobs/info/69d8177bb861c42857c48948?utm_campaign=1063&utm_source=git)** | Nile, OH | On Site | Apr 09 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Masters - Technical Generalist Intern](https://jobright.ai/jobs/info/69d80efb869c7e25d85937b1?utm_campaign=1063&utm_source=git)** | Virginia - Fairfax | On Site | Apr 09 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Associate EHS Consultant - Intern/Co-op Conversion (Raber)](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5b?utm_campaign=1063&utm_source=git)** | Huntersville, NC | On Site | Apr 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/696709a6a135876680844fce?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | Apr 09 |
@@ -65,23 +66,18 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69d71867e63cea7a8b66df59?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/69d710eccfdc6132f946ee91?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Apr 08 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| ↳ | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0d848f0c8161d2fc019?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0cf48f0c8161d2fc00a?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d128?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2b366bb95ba5550b86?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2348f0c8161d2fbf11?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce92?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6edf7706f771673baed2d?utm_campaign=1063&utm_source=git)** | Appleton, WI | On Site | Apr 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Solutions Intern](https://jobright.ai/jobs/info/69d6d27fe63cea7a8b66c7b9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/69d6b94248f0c8161d2fa773?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[OPERATIONAL EXCELLENCE ORGANIZATIONAL CONSULTANT INTERN - STUDENT 4 - HYBRID](https://jobright.ai/jobs/info/69d6adee52a5bf580012b2b4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 08 |
@@ -123,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69c1fbde75f7ff1cd81068a0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Osmose](https://www.osmose.com/)** | **[Strategy & Solutions Consulting Intern](https://jobright.ai/jobs/info/69cfdc8d891d7b11cfcd67ba?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d74163706f771673bb1f30?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 02 |
-| ↳ | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d5d82ce63cea7a8b665767?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
