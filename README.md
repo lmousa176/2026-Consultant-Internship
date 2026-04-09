@@ -57,26 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d7d70eb67cec4f9b098c10?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69d71867e63cea7a8b66df59?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/69d710eccfdc6132f946ee91?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Apr 08 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| ↳ | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0d848f0c8161d2fc019?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0cf48f0c8161d2fc00a?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d128?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee3a366bb95ba5550bb4?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2d48f0c8161d2fbf29?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2b366bb95ba5550b86?utm_campaign=1063&utm_source=git)** | Kansas City, MO | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee2348f0c8161d2fbf11?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e147?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce92?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4b?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | ↳ | **[National Consulting Marketing Coordinator](https://jobright.ai/jobs/info/69d6ee0052a5bf580012ce4e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
