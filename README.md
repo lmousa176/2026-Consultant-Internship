@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Avanade](http://www.avanade.com)** | **[Intern, Dynamics 365 Customer Experience (CE) - June 2026](https://jobright.ai/jobs/info/69d797c2b861c42857c42af5?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Technical Generalist Intern](https://jobright.ai/jobs/info/69d843ecb861c42857c499be?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Apr 09 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d82413b861c42857c48d4a?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 09 |
 | **[INTERNSHIP ENTRO](http://www.nilebasin.org/entro)** | **[International Consultant For The Support Mission In The Development Of The Financing Strategy For The Water Sector Investment Programme In Burundi](https://jobright.ai/jobs/info/69d8177bb861c42857c48948?utm_campaign=1063&utm_source=git)** | Nile, OH | On Site | Apr 09 |
@@ -76,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce92?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Solutions Intern](https://jobright.ai/jobs/info/69d6d27fe63cea7a8b66c7b9?utm_campaign=1063&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
@@ -87,8 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Business Administrator) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c234fa2c312363dcd5ca8b?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 08 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Solution Consultant - Provider+ Solutions](https://jobright.ai/jobs/info/697b600f1423772304eb7d96?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69d60dc1706f771673ba9251?utm_campaign=1063&utm_source=git)** | New Jersey, United States | Remote | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d8b1b19f97a42dc9c1db52?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d877889f97a42dc9c1c7fe?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 07 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d877889f97a42dc9c1c7fe?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d86a519f97a42dc9c1c115?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d59e1d891d7b11cfd0338a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Sales & Resident Experience Consultant (Intern)](https://jobright.ai/jobs/info/69d59c05e63cea7a8b662882?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 07 |
@@ -118,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69d0a480891d7b11cfcdd8b4?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 03 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d5e0d1706f771673ba79bf?utm_campaign=1063&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d7241848f0c8161d2fd3b8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
-| **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern](https://jobright.ai/jobs/info/69d0233ecdb525785fba7a44?utm_campaign=1063&utm_source=git)** | Evanston, IL | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
