@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d5e0d1706f771673ba79bf?utm_campaign=1063&utm_source=git)** | Tacoma, WA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce](https://jobright.ai/jobs/info/69d7241848f0c8161d2fd3b8?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[ZS](https://www.zs.com/)** | **[Business Technology Solutions Associate Consultant - Intern](https://jobright.ai/jobs/info/69d0233ecdb525785fba7a44?utm_campaign=1063&utm_source=git)** | Evanston, IL | Hybrid | Apr 03 |
-| **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
