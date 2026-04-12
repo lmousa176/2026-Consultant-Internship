@@ -120,6 +120,5 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/69d5814ccdb525785fbd1717?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Senior IT Security Consultant](https://jobright.ai/jobs/info/69d5a7a1cfdc6132f9463cb9?utm_campaign=1063&utm_source=git)** | Winnipeg, MB | On Site | Apr 06 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Senior Consultant 2, Analytics](https://jobright.ai/jobs/info/69d48f79cfdc6132f945c2ea?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Havertys Furniture](https://www.havertys.com)** | **[Design Consultant Intern](https://jobright.ai/jobs/info/69cc8822e1921223acc78d13?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69d70f25366bb95ba5551612?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
