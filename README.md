@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Edmonton Management Consulting TST Internship Consultant (Fall Internship, Sept- Dec 2026)](https://jobright.ai/jobs/info/69d4c7abcdb525785fbccc72?utm_campaign=1063&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 | ↳ | **[Calgary Internship, Management Consulting (Fall Internship, Sept - Dec 2026)](https://jobright.ai/jobs/info/69d4c79a891d7b11cfcfdd65?utm_campaign=1063&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
 | **[Aflac](http://www.aflac.com)** | **[Business Training Consultant (PLADS LTD)](https://jobright.ai/jobs/info/69d47c40891d7b11cfcfadb0?utm_campaign=1063&utm_source=git)** | Columbus, GA | Remote | Apr 06 |
-| **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/69d5814ccdb525785fbd1717?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
-| **[Government of Manitoba](https://www.gov.mb.ca/)** | **[Senior IT Security Consultant](https://jobright.ai/jobs/info/69d5a7a1cfdc6132f9463cb9?utm_campaign=1063&utm_source=git)** | Winnipeg, MB | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
