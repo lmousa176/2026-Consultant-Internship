@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue United Corporation](https://blueutd.com/)** | **[Intern - Sports Consulting & Event Operations](https://jobright.ai/jobs/info/69dd09985356a60f40fec102?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Apr 13 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Mortgage Consultant](https://jobright.ai/jobs/info/69dbd528f748bc5d08a58ca3?utm_campaign=1063&utm_source=git)** | Charleston, WV | On Site | Apr 12 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68bd3776ae79610dacddf0e0?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Business Administrator) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c234fa2c312363dcd5ca8b?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 11 |
