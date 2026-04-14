@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69de3e7118cf504166e2c19a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Apr 14 |
 | **[Blackmont Consulting New York Branch](https://www.blackmontconsulting.com/)** | **[Business Consultant Intern (Student-Only)](https://jobright.ai/jobs/info/69de2fb5433ac8430e0d8966?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultant to Conduct a Regional Analysis on Adolescent Pregnancy and HIV in West and Central Africa](https://jobright.ai/jobs/info/69de0667e34484770f1a09c5?utm_campaign=1063&utm_source=git)** | Home, KS | Remote | Apr 14 |
@@ -101,14 +102,11 @@ For a complete list, click the following sortable link below:
 | **[University of California Office of the President](https://www.ucop.edu)** | **[OPERATIONAL EXCELLENCE ORGANIZATIONAL CONSULTANT INTERN - STUDENT 4 - HYBRID](https://jobright.ai/jobs/info/69d6adee52a5bf580012b2b4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 08 |
 | **[DataHouse](https://www.datahouse.com/)** | **[Summer Intern - Strategy & Operations - AI Coordinator](https://jobright.ai/jobs/info/69d6a51be63cea7a8b66a37a?utm_campaign=1063&utm_source=git)** | HONOLULU, HI | On Site | Apr 08 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Solution Consultant - Provider+ Solutions](https://jobright.ai/jobs/info/697b600f1423772304eb7d96?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddc42aaba61f14173123a7?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 07 |
-| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddaaca4d3bec4144b4d4f0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddaaca4d3bec4144b4d4f0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d59e1d891d7b11cfd0338a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Sales & Resident Experience Consultant (Intern)](https://jobright.ai/jobs/info/69d59c05e63cea7a8b662882?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d59b30cfdc6132f9463858?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d594a2cdb525785fbd1f05?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 07 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d593ffe63cea7a8b662545?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69d57bb9366bb95ba554560c?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Apr 07 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d56c8b706f771673ba3128?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Apr 07 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Sales & Resident Experience Consultant (Intern)](https://jobright.ai/jobs/info/69d564a6366bb95ba5544b58?utm_campaign=1063&utm_source=git)** | Trellis House | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
