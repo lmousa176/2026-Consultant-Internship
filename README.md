@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Apr 14 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Technical Generalist Intern](https://jobright.ai/jobs/info/69d843ecb861c42857c499be?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Apr 13 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant](https://jobright.ai/jobs/info/69dd528c61f6ed54321fc7ca?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 13 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Mortgage Consultant](https://jobright.ai/jobs/info/69dbd528f748bc5d08a58ca3?utm_campaign=1063&utm_source=git)** | Charleston, WV | On Site | Apr 12 |
@@ -87,18 +88,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0d848f0c8161d2fc019?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0cf48f0c8161d2fc00a?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee1ccfdc6132f946e14a?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce92?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[OPERATIONAL EXCELLENCE ORGANIZATIONAL CONSULTANT INTERN - STUDENT 4 - HYBRID](https://jobright.ai/jobs/info/69d6adee52a5bf580012b2b4?utm_campaign=1063&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 08 |
 | **[DataHouse](https://www.datahouse.com/)** | **[Summer Intern - Strategy & Operations - AI Coordinator](https://jobright.ai/jobs/info/69d6a51be63cea7a8b66a37a?utm_campaign=1063&utm_source=git)** | HONOLULU, HI | On Site | Apr 08 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Solution Consultant - Provider+ Solutions](https://jobright.ai/jobs/info/697b600f1423772304eb7d96?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69dcc1d79f97a42dc9c32bdc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| **[DIFFvelopment](https://diffvelopment.org)** | **[Consultrepreneurship Intern](https://jobright.ai/jobs/info/69d60dc1706f771673ba9251?utm_campaign=1063&utm_source=git)** | New Jersey, United States | Remote | Apr 08 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d9f1779f97a42dc9c267dd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddc42aaba61f14173123a7?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 07 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddb26ae34484770f19eac5?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
