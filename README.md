@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (AI Engineer) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c2030075f7ff1cd8107702?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
-| ↳ | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
+| **[C5MI](http://www.c5mi.com/)** | **[Internal Strategy Consultant](https://jobright.ai/jobs/info/69dea69536823d1b42582f52?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 14 |
+| **[DEKRA North America](https://www.dekra.us)** | **[Consulting Intern](https://jobright.ai/jobs/info/69dea0d018cf504166e2e9b5?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 14 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
+| ↳ | **[Product Technical Support (AI Engineer) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c2030075f7ff1cd8107702?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69de77c8aba61f1417315240?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[DEKRA North America](https://www.dekra.us)** | **[Consulting Intern](https://jobright.ai/jobs/info/69de6ca4e34484770f1a1f0c?utm_campaign=1063&utm_source=git)** | US | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69d5e557891d7b11cfd069f4?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 14 |
