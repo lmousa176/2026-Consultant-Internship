@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[International Consultant to Conduct a Regional Analysis on Adolescent Pregnancy and HIV in West and Central Africa](https://jobright.ai/jobs/info/69de0667e34484770f1a09c5?utm_campaign=1063&utm_source=git)** | Home, KS | Remote | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Apr 14 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Technical Generalist Intern](https://jobright.ai/jobs/info/69d843ecb861c42857c499be?utm_campaign=1063&utm_source=git)** | Fairfax, VA | On Site | Apr 13 |
@@ -100,8 +101,7 @@ For a complete list, click the following sortable link below:
 | **[DataHouse](https://www.datahouse.com/)** | **[Summer Intern - Strategy & Operations - AI Coordinator](https://jobright.ai/jobs/info/69d6a51be63cea7a8b66a37a?utm_campaign=1063&utm_source=git)** | HONOLULU, HI | On Site | Apr 08 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Solution Consultant - Provider+ Solutions](https://jobright.ai/jobs/info/697b600f1423772304eb7d96?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69dcc1d79f97a42dc9c32bdc?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d9f1779f97a42dc9c267dd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 07 |
-| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddc42aaba61f14173123a7?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 07 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddc42aaba61f14173123a7?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Apr 07 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddb26ae34484770f19eac5?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69ddaaca4d3bec4144b4d4f0?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d59e1d891d7b11cfd0338a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
