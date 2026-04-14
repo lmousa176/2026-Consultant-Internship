@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
-| ↳ | **[Product Technical Support (AI Engineer) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c2030075f7ff1cd8107702?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (AI Engineer) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c2030075f7ff1cd8107702?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
+| ↳ | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69de77c8aba61f1417315240?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[DEKRA North America](https://www.dekra.us)** | **[Consulting Intern](https://jobright.ai/jobs/info/69de6ca4e34484770f1a1f0c?utm_campaign=1063&utm_source=git)** | US | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Consultant Intern 2026- Azure Cloud](https://jobright.ai/jobs/info/69d5e557891d7b11cfd069f4?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de65665913ad339813d036?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
-| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de6553aba61f1417314b13?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Apr 14 |
 | ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de6553aba61f1417314b12?utm_campaign=1063&utm_source=git)** | Downers Grove, IL | On Site | Apr 14 |
+| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de6553aba61f1417314b13?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Apr 14 |
 | ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de654e5913ad339813d016?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69de6538aba61f1417314af2?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - Technology Consultant Summer Intern](https://jobright.ai/jobs/info/69de3e7118cf504166e2c19a?utm_campaign=1063&utm_source=git)** | Triangle Area | On Site | Apr 14 |
