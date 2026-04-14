@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69d71867e63cea7a8b66df59?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
 | ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/69d710eccfdc6132f946ee91?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Apr 08 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| ↳ | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Healthcare Consulting Fall 2026 / Springfield](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c8b?utm_campaign=1063&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
+| ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0f4366bb95ba5550c89?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0d848f0c8161d2fc019?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6f0cf48f0c8161d2fc00a?utm_campaign=1063&utm_source=git)** | Tysons Corner, VA | On Site | Apr 08 |
 | ↳ | **[Intern Federal Tax Consulting R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d13b?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d594a2cdb525785fbd1f05?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 07 |
 | ↳ | **[CRM Tech Consulting Internship-Summer 2026](https://jobright.ai/jobs/info/69d593ffe63cea7a8b662545?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern, Strategy & Integration (Design Services) - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69d57bb9366bb95ba554560c?utm_campaign=1063&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Apr 07 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d57086366bb95ba5545008?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 07 |
-| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d56c8b706f771673ba3128?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Apr 07 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69d56c8b706f771673ba3128?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Apr 07 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Sales & Resident Experience Consultant (Intern)](https://jobright.ai/jobs/info/69d564a6366bb95ba5544b58?utm_campaign=1063&utm_source=git)** | Trellis House | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
