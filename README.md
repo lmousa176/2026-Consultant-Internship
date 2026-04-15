@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations (IAH) (Summer 2026)](https://jobright.ai/jobs/info/69dfab1214bf245fc7a6d00e?utm_campaign=1063&utm_source=git)** | United States-TX-IAH - Houston (Intercontinental) | On Site | Apr 15 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
 | **[City of Toronto](http://www.toronto.ca)** | **[HR CONSULTANT HEALTH & REHAB](https://jobright.ai/jobs/info/69df69d1433ac8430e0e076d?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
+| **[9fin](https://9fin.com)** | **[Restructuring Legal Consultant - 3-6 month Internship](https://jobright.ai/jobs/info/69dfe77f14bf245fc7a6e73a?utm_campaign=1063&utm_source=git)** | New York | On Site | Apr 14 |
 | **[Proxima](http://www.proximagroup.com)** | **[US Procurement Consultant Internship 2026](https://jobright.ai/jobs/info/69deb97e36823d1b42583762?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[US Procurement Consultant Internship 2026](https://jobright.ai/jobs/info/69deb5c8433ac8430e0dc021?utm_campaign=1063&utm_source=git)** | 311 S Wacker Dr, Chicago, United States, 60606, US | Hybrid | Apr 14 |
 | **[City of Toronto](http://www.toronto.ca)** | **[Business Systems Consultant & Architect (ServiceNow)](https://jobright.ai/jobs/info/69deb28a18cf504166e2f531?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
@@ -72,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Technical Support (Data Analyst) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c20b8475f7ff1cd810b466?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
 | ↳ | **[Product Technical Support (AI Engineer) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69c2030075f7ff1cd8107702?utm_campaign=1063&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 14 |
 | **[DEKRA North America](https://www.dekra.us)** | **[Consulting Intern](https://jobright.ai/jobs/info/69de6ca4e34484770f1a1f0c?utm_campaign=1063&utm_source=git)** | US | Hybrid | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df69b8aba61f141731badd?utm_campaign=1063&utm_source=git)** | Downers Grove, IL | On Site | Apr 14 |
-| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df6fa85913ad3398143ebd?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df6fa85913ad3398143ebc?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df69b8aba61f141731badc?utm_campaign=1063&utm_source=git)** | Birmingham, AL | On Site | Apr 14 |
 | ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df69b8aba61f141731badb?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 14 |
-| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df6fa85913ad3398143ebc?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
+| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df69b8aba61f141731badd?utm_campaign=1063&utm_source=git)** | Downers Grove, IL | On Site | Apr 14 |
+| ↳ | **[Learning & Talent Development Consultant](https://jobright.ai/jobs/info/69df6fa85913ad3398143ebd?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/69a60873359fe034b1d0d30a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[State of Florida](http://www.myflorida.com)** | **[CONSUMER SERVICES CONSULTANT (WT: CUSTOMER SERVICE ANALYST II) - 76002909 1](https://jobright.ai/jobs/info/69df67afaba61f141731ba7a?utm_campaign=1063&utm_source=git)** | Kissimmee, FL | Hybrid | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/68eeffe520456578d5eb3e2d?utm_campaign=1063&utm_source=git)** | McLean, VA | On Site | Apr 14 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d7d70eb67cec4f9b098c10?utm_campaign=1063&utm_source=git)** | USA | Remote | Apr 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Managed IT Consulting Intern](https://jobright.ai/jobs/info/699efcfe94ef206f184e111a?utm_campaign=1063&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/69d71867e63cea7a8b66df59?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 08 |
-| ↳ | **[Consulting Intern](https://jobright.ai/jobs/info/69d710eccfdc6132f946ee91?utm_campaign=1063&utm_source=git)** | United States - Remote | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
