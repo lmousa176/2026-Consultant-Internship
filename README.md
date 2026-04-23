@@ -114,7 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69e1ac1eff71e82d604b8113?utm_campaign=1063&utm_source=git)** | US - CA, Los Angeles | On Site | Apr 16 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69e1ac1d6c20aa11495424a7?utm_campaign=1063&utm_source=git)** | US - CA, San Francisco | On Site | Apr 16 |
 | ↳ | **[Intern - Energy Providers, General Management Consulting - Campus 2026](https://jobright.ai/jobs/info/69e1ac1d40a62c1fa93b984b?utm_campaign=1063&utm_source=git)** | US - Remote (Any location) | Remote | Apr 16 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c48d5133eecf310794e634?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 16 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Consultant Intern](https://jobright.ai/jobs/info/69cf2d33cdb525785fb9f757?utm_campaign=1063&utm_source=git)** | Daytona Beach, FL | On Site | Apr 16 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c4970f33eecf310794faa4?utm_campaign=1063&utm_source=git)** | Canada | Remote | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
