@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c57820c036924cee9b?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c47820c036924cee94?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Apr 20 |
 | **[Avanade](http://www.avanade.com)** | **[D365 CE Functional Consultant](https://jobright.ai/jobs/info/697c45471423772304ecb924?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 20 |
-| **[State of Florida](http://www.myflorida.com)** | **[68064996 - INFO TECH BUSINESS CONSULTANT MGR - SES](https://jobright.ai/jobs/info/69e65efb7820c036924cffde?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
