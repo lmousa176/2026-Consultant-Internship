@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69d70f25366bb95ba5551612?utm_campaign=1063&utm_source=git)** | New Orleans, LA | On Site | Apr 27 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Hybrid | Apr 27 |
 | **[Spartan X](https://www.spartansolar.earth/)** | **[Solar Energy Consultant (Illinois Shines SPPA) – Entry Level, Six-Figure Potential](https://jobright.ai/jobs/info/69ee90e04b0fa35a70786ff0?utm_campaign=1063&utm_source=git)** | Greater Chicago Area | On Site | Apr 26 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 26 |
