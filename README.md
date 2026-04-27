@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe60558811370cb1495c7?utm_campaign=1063&utm_source=git)** | Houston, Texas, US | Hybrid | Apr 27 |
+| ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe41b16b2612c2a12c4e7?utm_campaign=1063&utm_source=git)** | Manhattan, New York, US | Hybrid | Apr 27 |
+| ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe4090a6e095553057ea3?utm_campaign=1063&utm_source=git)** | Washington, DC, US | Hybrid | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly: Jayhawk Consultant](https://jobright.ai/jobs/info/69efd6600a6e095553057738?utm_campaign=1063&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Hourly-Lead Writing Consultant](https://jobright.ai/jobs/info/69efd64558811370cb148baf?utm_campaign=1063&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Undergraduate Writing Consultant](https://jobright.ai/jobs/info/69efd66e4b0fa35a7078bfc4?utm_campaign=1063&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
