@@ -88,7 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Southeast Missouri State University](http://www.semo.edu/)** | **[Career Pathways Consultant - Regional Professional Development Center](https://jobright.ai/jobs/info/69e7fe5e7820c036924d9751?utm_campaign=1063&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 21 |
 | **[North Carolina Agricultural and Technical State University](http://www.ncat.edu)** | **[Class & Comp Consultant I](https://jobright.ai/jobs/info/69e9be33e0cd471b2f13f16c?utm_campaign=1063&utm_source=git)** | Greensboro, NC | Hybrid | Apr 20 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Leasing Consultant - Intern / Temporary](https://jobright.ai/jobs/info/69e6f22ce0cd471b2f12807b?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, USA | On Site | Apr 20 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/69e653779b6eb37e26f7f7fa?utm_campaign=1063&utm_source=git)** | US-NY-New York | On Site | Apr 20 |
-| ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124ef8?utm_campaign=1063&utm_source=git)** | 10010 | On Site | Apr 20 |
-| ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/69e65359f8fa2f3ec32a105b?utm_campaign=1063&utm_source=git)** | 299 Park Avenue | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
