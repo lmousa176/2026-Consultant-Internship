@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6945e43f7d506e3808f12a32?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | Hybrid | Apr 27 |
 | **[Spartan X](https://www.spartansolar.earth/)** | **[Solar Energy Consultant (Illinois Shines SPPA) – Entry Level, Six-Figure Potential](https://jobright.ai/jobs/info/69ee90e04b0fa35a70786ff0?utm_campaign=1063&utm_source=git)** | Greater Chicago Area | On Site | Apr 26 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Apr 26 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927d1ead47de4798ece0c69?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | Apr 25 |
@@ -86,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[CAPTRUST](https://www.captrust.com)** | **[Institutional Service Intern](https://jobright.ai/jobs/info/69de7453aba61f1417315072?utm_campaign=1063&utm_source=git)** | Homewood, AL | On Site | Apr 22 |
 | **[Southeast Missouri State University](http://www.semo.edu/)** | **[Career Pathways Consultant - Regional Professional Development Center](https://jobright.ai/jobs/info/69e7fe5e7820c036924d9751?utm_campaign=1063&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 21 |
 | **[North Carolina Agricultural and Technical State University](http://www.ncat.edu)** | **[Class & Comp Consultant I](https://jobright.ai/jobs/info/69e9be33e0cd471b2f13f16c?utm_campaign=1063&utm_source=git)** | Greensboro, NC | Hybrid | Apr 20 |
-| **[AIR Communities](https://www.aircommunities.com/)** | **[Leasing Consultant - Intern / Temporary](https://jobright.ai/jobs/info/69e6f22ce0cd471b2f12807b?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, USA | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
