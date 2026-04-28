@@ -70,10 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69ec32da0a6e09555304d1a7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[Relatient](https://www.relatient.com)** | **[Configuration Consultant Intern](https://jobright.ai/jobs/info/69ebfcf116b2612c2a12039d?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Consultant](https://jobright.ai/jobs/info/69ebfb7516b2612c2a12017f?utm_campaign=1063&utm_source=git)** | Bellevue, WA | Hybrid | Apr 24 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/69ec11e47820c036924f8fbc?utm_campaign=1063&utm_source=git)** | Madison, WI | On Site | Apr 24 |
-| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/69ebf01216b2612c2a11ff4d?utm_campaign=1063&utm_source=git)** | US-WI-Madison | On Site | Apr 24 |
-| ↳ | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/69ebf0097820c036924f81dc?utm_campaign=1063&utm_source=git)** | Madison | On Site | Apr 24 |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, Strategy & Innovation - Summer 2026 (New York)](https://jobright.ai/jobs/info/69ebd5fe4b0fa35a7077f06e?utm_campaign=1063&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Apr 24 |
+| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Building Performance Consultant Intern](https://jobright.ai/jobs/info/69ebf01216b2612c2a11ff4d?utm_campaign=1063&utm_source=git)** | US-WI-Madison | On Site | Apr 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Economic Consulting Graduate Intern – Advisory Services](https://jobright.ai/jobs/info/69ebfc0858811370cb13e063?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 | ↳ | **[Economic Consulting Graduate Intern – Advisory Services](https://jobright.ai/jobs/info/69ebadf40a6e095553049811?utm_campaign=1063&utm_source=git)** | Washington DC, US | Hybrid | Apr 24 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/69798ad0ca92cf0d6a82b289?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 24 |
@@ -93,20 +90,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/69e65359f8fa2f3ec32a105b?utm_campaign=1063&utm_source=git)** | 299 Park Avenue | On Site | Apr 20 |
 | **[Wipfli](http://www.wipfli.com)** | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e637063aa0c47964392a2c?utm_campaign=1063&utm_source=git)** | US-PA-Radnor | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e637063aa0c47964392a39?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | Apr 20 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436d?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436b?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436a?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436d?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e0?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | Apr 20 |
 | ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d2?utm_campaign=1063&utm_source=git)** | Radnor, PA, US | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e8?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f12432a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f124331?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Apr 20 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e0?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | Apr 20 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f124330?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebce?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f124331?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f12432a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebd2?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebd3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebce?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c57820c036924cee9b?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c57820c036924ceea1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c47820c036924cee94?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Apr 20 |
@@ -135,8 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68c3779c6031587f8458b184?utm_campaign=1063&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
 | **[City of Toronto](http://www.toronto.ca)** | **[HR CONSULTANT HEALTH & REHAB](https://jobright.ai/jobs/info/69df69d1433ac8430e0e076d?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[9fin](https://9fin.com)** | **[Restructuring Legal Consultant - 3-6 month Internship](https://jobright.ai/jobs/info/69dfe77f14bf245fc7a6e73a?utm_campaign=1063&utm_source=git)** | New York | On Site | Apr 14 |
-| **[Proxima](http://www.proximagroup.com)** | **[US Procurement Consultant Internship 2026](https://jobright.ai/jobs/info/69deb97e36823d1b42583762?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
-| ↳ | **[US Procurement Consultant Internship 2026](https://jobright.ai/jobs/info/69deb5c8433ac8430e0dc021?utm_campaign=1063&utm_source=git)** | 311 S Wacker Dr, Chicago, United States, 60606, US | Hybrid | Apr 14 |
-| **[City of Toronto](http://www.toronto.ca)** | **[Business Systems Consultant & Architect (ServiceNow)](https://jobright.ai/jobs/info/69deb28a18cf504166e2f531?utm_campaign=1063&utm_source=git)** | Toronto, ON | On Site | Apr 14 |
-| **[WebCheckout, Inc](http://www.webcheckout.net)** | **[Resolution Consultant Intern](https://jobright.ai/jobs/info/69deb27c18cf504166e2f4f5?utm_campaign=1063&utm_source=git)** | United States - San Antonio, Texas | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
