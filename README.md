@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69efe9194b0fa35a7078cdca?utm_campaign=1063&utm_source=git)** | United States | Remote | Apr 27 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe60558811370cb1495c7?utm_campaign=1063&utm_source=git)** | Houston, Texas, US | Hybrid | Apr 27 |
 | ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe41b16b2612c2a12c4e7?utm_campaign=1063&utm_source=git)** | Manhattan, New York, US | Hybrid | Apr 27 |
 | ↳ | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/69efe4090a6e095553057ea3?utm_campaign=1063&utm_source=git)** | Washington, DC, US | Hybrid | Apr 27 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[PLADS Enrollment Consultant](https://jobright.ai/jobs/info/69eb4b5716b2612c2a11acd7?utm_campaign=1063&utm_source=git)** | Columbus, GA | Remote | Apr 23 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69ecb50b58811370cb1404f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | On Site | Apr 23 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 23 |
-| **[Arcadis](http://www.arcadis.com)** | **[Business Advisory Intern](https://jobright.ai/jobs/info/69cd469acdb525785fb86101?utm_campaign=1063&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Inside Sales Consultant](https://jobright.ai/jobs/info/69e9a4e4e0cd471b2f13e93b?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | Apr 22 |
 | **[Capgemini Government Solutions](https://www.capgemini.com/us-en/service/capgemini-government-solutions/)** | **[Consulting Internship (Hybrid)](https://jobright.ai/jobs/info/69e96b503aa0c479643a9da7?utm_campaign=1063&utm_source=git)** | McLean, VA | Hybrid | Apr 22 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Solution Consulting Intern - Summer '26](https://jobright.ai/jobs/info/695d770cfbd62a0a65660ead?utm_campaign=1063&utm_source=git)** | Salem, NH | Hybrid | Apr 22 |
