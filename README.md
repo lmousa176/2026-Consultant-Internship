@@ -94,20 +94,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/69e65359f8fa2f3ec32a105b?utm_campaign=1063&utm_source=git)** | 299 Park Avenue | On Site | Apr 20 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e637063aa0c47964392a39?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | Apr 20 |
 | ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e637063aa0c47964392a2c?utm_campaign=1063&utm_source=git)** | US-PA-Radnor | Hybrid | Apr 20 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436a?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436d?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436b?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Apr 20 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636fa3cfd986aa6f8436a?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
 | ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d2?utm_campaign=1063&utm_source=git)** | Radnor, PA, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e0?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04e8?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636def8fa2f3ec32a04d1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f12432a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f124331?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f124330?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636d0e0cd471b2f12432a?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
+| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebce?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebd3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebd2?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | Apr 20 |
-| ↳ | **[Data & Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636cd9b6eb37e26f7ebce?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c57820c036924cee9b?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c57820c036924ceea1?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | Apr 20 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69e636c47820c036924cee94?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Apr 20 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69e02e544920452a85dd2190?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | On Site | Apr 15 |
 | **[9fin](https://9fin.com)** | **[Restructuring Legal Consultant - 3-6 month Internship](https://jobright.ai/jobs/info/69e02a7ae34484770f1acdc6?utm_campaign=1063&utm_source=git)** | New York, United States | Remote | Apr 15 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69e0183c5913ad3398147d1b?utm_campaign=1063&utm_source=git)** | 10 W Market St, Indianapolis, IN, 46204, US | On Site | Apr 15 |
-| **[9fin](https://9fin.com)** | **[Restructuring Legal Consultant - 3-6 month Internship](https://jobright.ai/jobs/info/69e00acb5913ad3398147901?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
