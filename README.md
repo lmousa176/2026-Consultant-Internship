@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eb7294dc35f7132c4b0581?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Apr 29 |
+| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eacc874b0fa35a7077675e?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
+| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eb7294dc35f7132c4b0581?utm_campaign=1063&utm_source=git)** | Reston, VA | On Site | Apr 29 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69f2332cf154d768fbaa5c05?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
-| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eaa1b34b0fa35a707758bd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eacc874b0fa35a7077675f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
+| ↳ | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69eaa1b34b0fa35a707758bd?utm_campaign=1063&utm_source=git)** | Austin, TX | On Site | Apr 29 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f22a5af154d768fbaa597e?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 29 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f1de02825a315d7ca3a04f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | Apr 29 |
-| **[Dianara Advisory](https://www.linkedin.com/company/112904944)** | **[Management Consulting Intern (Unpaid)](https://jobright.ai/jobs/info/69f1ba2a825a315d7ca39d9d?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Remote | Apr 29 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f18ffa825a315d7ca38f60?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Apr 28 |
 | ↳ | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f18fb862b48c68387969f3?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Apr 28 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2026)](https://jobright.ai/jobs/info/69f1182b8d8d624381a9a585?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
