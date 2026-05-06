@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fb9bc838179b6f1ae7a1c2?utm_campaign=1063&utm_source=git)** | DBI-Chicago IL Office, US | On Site | May 06 |
-| **[Faraz](https://www.faraz.app)** | **[AI Consulting & Strategy Intern - Partnerships & Growth (Founding Track)](https://jobright.ai/jobs/info/69fb91a086d5cd46527d66d4?utm_campaign=1063&utm_source=git)** | United States | Remote | May 06 |
 | **[Ingham Intermediate School District](https://www.inghamisd.org)** | **[STEM Consultant and Coach](https://jobright.ai/jobs/info/69fb9a29d21cf86d1e3d42e2?utm_campaign=1063&utm_source=git)** | Mason, MI | On Site | May 06 |
 | **[Atlas](https://chooseatlas.com/)** | **[Business Summer Intern](https://jobright.ai/jobs/info/69fb6ef238179b6f1ae787a6?utm_campaign=1063&utm_source=git)** | Berkeley Heights, NJ | Hybrid | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fb655818b94b2515be22d1?utm_campaign=1063&utm_source=git)** | Minneapolis, US | Hybrid | May 06 |
