@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fb30e718b94b2515be05d6?utm_campaign=1063&utm_source=git)** | Woodbridge, NJ | Hybrid | May 07 |
 | ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fab67a86d5cd46527cf97b?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | May 07 |
+| ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fab67a86d5cd46527cf97e?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fc566bbb117f6b3f2b4666?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 06 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69fc42e8ae09801097afaa6d?utm_campaign=1063&utm_source=git)** | Houston, TX, US | On Site | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fbeed1c39b9a66c0c55188?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 06 |
@@ -88,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69f511010b36ff0354750685?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d82413b861c42857c48d4a?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
-| **[Veolia](https://www.veolia.com/fr)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69f3eba0461b9b613a625105?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
