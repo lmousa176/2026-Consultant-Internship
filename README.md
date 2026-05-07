@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fc566bbb117f6b3f2b4666?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 06 |
+| ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69fc42e8ae09801097afaa6d?utm_campaign=1063&utm_source=git)** | Houston, TX, US | On Site | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fbeed1c39b9a66c0c55188?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 06 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fbee523160b250eb1ba1d7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 06 |
 | ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fb9bc838179b6f1ae7a1c2?utm_campaign=1063&utm_source=git)** | DBI-Chicago IL Office, US | On Site | May 06 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[University of Oklahoma](http://www.ou.edu)** | **[Undergraduate Writing Consultant (Fall)](https://jobright.ai/jobs/info/69fafd16d21cf86d1e3cecc8?utm_campaign=1063&utm_source=git)** | Norman, OK | Hybrid | May 04 |
 | **[Windsor Communities](https://www.windsorcommunities.com/)** | **[2025 Summer Leasing Consultant Internship](https://jobright.ai/jobs/info/69fada8087a4820e6da827d7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Insights & Integrations Consultancy, Data Scientist Intern(Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6fbdb88714bcdfbc132?utm_campaign=1063&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 04 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 04 |
 | **[TriNetX](http://trinetx.com)** | **[Thought Leadership Intern](https://jobright.ai/jobs/info/69f8dd3b81706a5bd216e6dc?utm_campaign=1063&utm_source=git)** | Cambridge, MA, USA | Hybrid | May 04 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/69fac288e156000841153431?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | May 04 |
 | **[State of Florida](http://www.myflorida.com)** | **[68059804 - SYSTEM PROJECT CONSULTANT](https://jobright.ai/jobs/info/69fae8cf38179b6f1ae73922?utm_campaign=1063&utm_source=git)** | Tallahassee, FL | On Site | May 03 |
@@ -85,7 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d82413b861c42857c48d4a?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69f3eba0461b9b613a625105?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Apr 30 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | Apr 30 |
-| **[IBM](http://www.ibm.com)** | **[Package Consultant Intern 2026- SuccessFactors Core HR](https://jobright.ai/jobs/info/69e9a3540a6e09555303d066?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 30 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
