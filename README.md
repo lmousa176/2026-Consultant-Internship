@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fcc8c0938a651755f9681e?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
-| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fcc8beb113035a9f8eb914?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fcc8beb113035a9f8eb914?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fcc8c0938a651755f9681e?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fb30e718b94b2515be05d6?utm_campaign=1063&utm_source=git)** | Woodbridge, NJ | Hybrid | May 07 |
 | ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fab67a86d5cd46527cf97b?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | May 07 |
 | ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fab67a86d5cd46527cf97e?utm_campaign=1063&utm_source=git)** | Richmond, VA | Hybrid | May 07 |
