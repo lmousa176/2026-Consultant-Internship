@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34bc666f063d3d6d3ba4?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
+| ↳ | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b6b113035a9f8eef10?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
+| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b2666f063d3d6d3b9d?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | May 07 |
+| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34afb113035a9f8eef01?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8b113035a9f8eef14?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69f44f2f1f90bd6ae23d4352?utm_campaign=1063&utm_source=git)** | Dallas, TX | Hybrid | May 07 |
 | ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fb30e718b94b2515be05d6?utm_campaign=1063&utm_source=git)** | Woodbridge, NJ | Hybrid | May 07 |
 | ↳ | **[Advisory Intern, Management Consulting, People Strategy & Solutions, Visual Communications - Summer 2026 (Indianapolis)](https://jobright.ai/jobs/info/69fab67a86d5cd46527cf97b?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | May 07 |
@@ -93,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69f4fbb10b36ff0354750059?utm_campaign=1063&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/69e080a1cf5a9e0c33c86d0a?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 01 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69f511010b36ff0354750685?utm_campaign=1063&utm_source=git)** | New York, NY | Hybrid | May 01 |
+| **[Veolia](https://www.veolia.com/fr)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fd40585cff890b03f372d0?utm_campaign=1063&utm_source=git)** | Boston, MA, US | On Site | May 01 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d82413b861c42857c48d4a?utm_campaign=1063&utm_source=git)** | United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
