@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[99 Yards](https://99yards.app)** | **[Sales Consultant intern 3 months](https://jobright.ai/jobs/info/69ff8137238f143e83525b6d?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 – Consulting Marketing Intern (Dallas)](https://jobright.ai/jobs/info/69fe659f7714cd50b9100c5c?utm_campaign=1063&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[RBC](https://www.rbc.com)** | **[Group Advantage Consultant Intern](https://jobright.ai/jobs/info/69fe534352e2b44f558b09fa?utm_campaign=1063&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | May 08 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 – Consulting Marketing Intern (Dallas)](https://jobright.ai/jobs/info/69fe3f5d6bcf315dc8f56093?utm_campaign=1063&utm_source=git)** | Dallas, Texas, US | On Site | May 08 |
