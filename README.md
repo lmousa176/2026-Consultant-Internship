@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fbee523160b250eb1ba1d7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 06 |
 | ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fb9bc838179b6f1ae7a1c2?utm_campaign=1063&utm_source=git)** | DBI-Chicago IL Office, US | On Site | May 06 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/69fbdde418b94b2515be55cb?utm_campaign=1063&utm_source=git)** | Orangeville, Ontario, Canada | On Site | May 06 |
-| **[Ingham Intermediate School District](https://www.inghamisd.org)** | **[STEM Consultant and Coach](https://jobright.ai/jobs/info/69fb9a29d21cf86d1e3d42e2?utm_campaign=1063&utm_source=git)** | Mason, MI | On Site | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fb655818b94b2515be22d1?utm_campaign=1063&utm_source=git)** | Minneapolis, US | Hybrid | May 06 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/69fb653dffa73664aeaff60f?utm_campaign=1063&utm_source=git)** | ORANGEVILLE, Ontario, Canada | On Site | May 06 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/69fb274b38179b6f1ae75c48?utm_campaign=1063&utm_source=git)** | United States | Remote | May 06 |
