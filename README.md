@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Transparent Partners](https://www.transparent.partners/)** | **[2026 Consulting Strategy & Professional Services Internship](https://jobright.ai/jobs/info/6a035447ed6a637463f4ec2e?utm_campaign=1063&utm_source=git)** | Chicago, Illinois | On Site | May 12 |
+| ↳ | **[2026 Consulting Strategy & Professional Services Internship](https://jobright.ai/jobs/info/6a036aca6c07461fe1703854?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 12 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a031acebc4184089f22f116?utm_campaign=1063&utm_source=git)** | United States | Remote | May 12 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faecabe156000841154d26?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 12 |
 | ↳ | **[Data and Analytics Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69fae30987a4820e6da8296a?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a0200623053db70a1173a07?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 08 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b2666f063d3d6d3b9d?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | May 07 |
 | ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34afb113035a9f8eef01?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | May 07 |
-| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8b113035a9f8eef14?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
 | ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8b113035a9f8eef14?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fc566bbb117f6b3f2b4666?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 06 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69fc42e8ae09801097afaa6d?utm_campaign=1063&utm_source=git)** | Houston, TX, US | On Site | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fbeed1c39b9a66c0c55188?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 06 |
