@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship, Client US-Market Entry Support (August/September 2026 Start)](https://jobright.ai/jobs/info/6a046761f3d6cc51d637e963?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Inside Sales Consultant](https://jobright.ai/jobs/info/6a041a11f811a0436960818a?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | May 12 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Student – Associate, Consultant Support](https://jobright.ai/jobs/info/6a03e10a6c07461fe1707f9d?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 12 |
 | **[German American Bank](https://germanamerican.com/)** | **[Consulting Services Internship, Client US-Market Entry Support (August/September 2026 Start)](https://jobright.ai/jobs/info/6a03ca7df3d6cc51d6379ea1?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 12 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faf408d21cf86d1e3ce2d7?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeced87a4820e6da835eb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faec9438179b6f1ae73b40?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeca318b94b2515bdd963?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69fadf8a18b94b2515bdcc40?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 11 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeca318b94b2515bdd963?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6a041a027c753c287f6ecacf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Armanino](https://www.armanino.com)** | **[Summer 2026 – Consulting Marketing Intern (Dallas)](https://jobright.ai/jobs/info/6a040feff811a043696074db?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - IT Technical Consultant (Developer) [Vancouver]](https://jobright.ai/jobs/info/6a030b227c753c287f6e2f3e?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
@@ -89,12 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a0200623053db70a1173a07?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 08 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34afb113035a9f8eef01?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | May 07 |
 | ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b2666f063d3d6d3b9d?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | May 07 |
-| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
 | ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8b113035a9f8eef14?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fc566bbb117f6b3f2b4666?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 06 |
 | ↳ | **[Consulting Intern - Summer 2026](https://jobright.ai/jobs/info/69fc42e8ae09801097afaa6d?utm_campaign=1063&utm_source=git)** | Houston, TX, US | On Site | May 06 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Tech Assurance Summer Intern](https://jobright.ai/jobs/info/69fbeed1c39b9a66c0c55188?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 06 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fbee523160b250eb1ba1d7?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 06 |
-| ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/69fb9bc838179b6f1ae7a1c2?utm_campaign=1063&utm_source=git)** | DBI-Chicago IL Office, US | On Site | May 06 |
-| **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/69fbdde418b94b2515be55cb?utm_campaign=1063&utm_source=git)** | Orangeville, Ontario, Canada | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
