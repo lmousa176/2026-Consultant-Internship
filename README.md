@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a04fb1222395b6dc6da2a99?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | May 13 |
 | **[MetaPhase](https://metaphaseconsulting.com)** | **[IT Consulting Intern](https://jobright.ai/jobs/info/6a04dc7bbc4184089f240152?utm_campaign=1063&utm_source=git)** | Reston, Virginia | On Site | May 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship, Client US-Market Entry Support (August/September 2026 Start)](https://jobright.ai/jobs/info/6a046761f3d6cc51d637e963?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Inside Sales Consultant](https://jobright.ai/jobs/info/6a041a11f811a0436960818a?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | May 12 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consulting Intern - Canada](https://jobright.ai/jobs/info/6a022db8df52f1450d847f45?utm_campaign=1063&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 08 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Workday Student Financials Architect / Consultant](https://jobright.ai/jobs/info/69c4970f33eecf310794faa4?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 08 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a0200623053db70a1173a07?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 08 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34afb113035a9f8eef01?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | May 07 |
-| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b2666f063d3d6d3b9d?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | May 07 |
-| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b2666f063d3d6d3b9d?utm_campaign=1063&utm_source=git)** | 13470 International Parkway13470 International Parkway | Hybrid | May 07 |
+| ↳ | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34afb113035a9f8eef01?utm_campaign=1063&utm_source=git)** | United States of America-Florida-JacksonvilleWork Locations | Hybrid | May 07 |
 | ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8b113035a9f8eef14?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | May 07 |
+| ↳ | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69fd34b8938a651755f99884?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
