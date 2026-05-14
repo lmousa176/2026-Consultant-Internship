@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6a0649b1320bff2205eaadac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 14 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0649b0320bff2205eaada8?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Management Consulting (September 2026)](https://jobright.ai/jobs/info/6a063d9b7c753c287f701023?utm_campaign=1063&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern - Americas Strategic Consulting](https://jobright.ai/jobs/info/6a063cac7c753c287f700fb2?utm_campaign=1063&utm_source=git)** | San Francisco, California, USA, US | Hybrid | May 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/6a05f5c6bc4184089f24956f?utm_campaign=1063&utm_source=git)** | Newtown Square, PA | On Site | May 14 |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/697c341f1136d179eeeff079?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[RubinBrown LLP](http://rubinbrown.com)** | **[Summer 2027 Consulting Services Intern - ERP and BPI](https://jobright.ai/jobs/info/6a05e0bfbc4184089f2486f4?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 14 |
 | ↳ | **[Winter/Spring 2027 Consulting Services Intern - Information Technology Risk Services (ITRS)](https://jobright.ai/jobs/info/6a05e0a96c07461fe1719a03?utm_campaign=1063&utm_source=git)** | St. Louis, Missouri, United States | Hybrid | May 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- HR Services Consultant Local HR Services](https://jobright.ai/jobs/info/6a05df986c07461fe1719954?utm_campaign=1063&utm_source=git)** | Newtown Square, PA, US, 19073 | On Site | May 14 |
