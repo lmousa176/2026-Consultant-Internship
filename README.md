@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6a0649b1320bff2205eaadac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 14 |
+| **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a06528ba88ea73abf7faa09?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | May 14 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0652057c753c287f7021f0?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | May 14 |
+| ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0651f46c07461fe171f3e4?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 14 |
+| ↳ | **[Construction Consulting Intern](https://jobright.ai/jobs/info/6a0649b1320bff2205eaadac?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0649b0320bff2205eaada8?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Management Consulting (September 2026)](https://jobright.ai/jobs/info/6a063d9b7c753c287f701023?utm_campaign=1063&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern - Americas Strategic Consulting](https://jobright.ai/jobs/info/6a063cac7c753c287f700fb2?utm_campaign=1063&utm_source=git)** | San Francisco, California, USA, US | Hybrid | May 14 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faf408d21cf86d1e3ce2d7?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeced87a4820e6da835eb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faec9438179b6f1ae73b40?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69fadf8a18b94b2515bdcc40?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeca318b94b2515bdd963?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69fadf8a18b94b2515bdcc40?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6a041a027c753c287f6ecacf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - IT Technical Consultant (Developer) [Vancouver]](https://jobright.ai/jobs/info/6a030b227c753c287f6e2f3e?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
