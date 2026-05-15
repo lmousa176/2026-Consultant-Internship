@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Summer Intern - Americas Strategic Consulting](https://jobright.ai/jobs/info/6a067028a88ea73abf7fbe3f?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
+| **[Instructure](http://www.instructure.com)** | **[Deals Desk Intern](https://jobright.ai/jobs/info/6a066d75320bff2205eac95c?utm_campaign=1063&utm_source=git)** | United States | Remote | May 14 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a06528ba88ea73abf7faa09?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | May 14 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0652057c753c287f7021f0?utm_campaign=1063&utm_source=git)** | Buffalo-Niagara Area | On Site | May 14 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0651f46c07461fe171f3e4?utm_campaign=1063&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 14 |
@@ -71,7 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a055014a88ea73abf7f07d2?utm_campaign=1063&utm_source=git)** | United States of America-Georgia-Atlanta | Hybrid | May 13 |
 | ↳ | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a055014a88ea73abf7f07d1?utm_campaign=1063&utm_source=git)** | One Mercedes-Benz Drive | Hybrid | May 13 |
 | **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a0542f9d954223d386ea9ba?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | May 13 |
-| ↳ | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a04fb1222395b6dc6da2a99?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | May 13 |
+| **[RubinBrown LLP](http://rubinbrown.com)** | **[Winter/Spring 2027 Consulting Services Intern - Information Technology Risk Services (ITRS)](https://jobright.ai/jobs/info/6a0674d1a88ea73abf7fbfa6?utm_campaign=1063&utm_source=git)** | St Louis, MO | Hybrid | May 13 |
+| ↳ | **[Summer 2027 Consulting Services Intern - ERP and BPI](https://jobright.ai/jobs/info/6a0674f5bc4184089f24fcc8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 13 |
+| **[Instructure](http://www.instructure.com)** | **[Deals Desk Intern](https://jobright.ai/jobs/info/6a0669fd7c753c287f70323e?utm_campaign=1063&utm_source=git)** | US-REMOTE | Remote | May 13 |
+| **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a04fb1222395b6dc6da2a99?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | May 13 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[Consulting Services Internship, Client US-Market Entry Support (August/September 2026 Start)](https://jobright.ai/jobs/info/6a046761f3d6cc51d637e963?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Inside Sales Consultant](https://jobright.ai/jobs/info/6a041a11f811a0436960818a?utm_campaign=1063&utm_source=git)** | Metairie, LA | On Site | May 12 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Student – Associate, Consultant Support](https://jobright.ai/jobs/info/6a03e10a6c07461fe1707f9d?utm_campaign=1063&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 12 |
@@ -97,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/695211bece13cd105659a0da?utm_campaign=1063&utm_source=git)** | Clark County, NV | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 – Consulting Marketing Intern (Dallas)](https://jobright.ai/jobs/info/69fe659f7714cd50b9100c5c?utm_campaign=1063&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[RBC](https://www.rbc.com)** | **[Group Advantage Consultant Intern](https://jobright.ai/jobs/info/69fe534352e2b44f558b09fa?utm_campaign=1063&utm_source=git)** | MISSISSAUGA, Ontario, Canada | On Site | May 08 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a0200623053db70a1173a07?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
