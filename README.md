@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Summer 2026 Intern, Technical Sales & Consulting](https://jobright.ai/jobs/info/6a0799bf8f3e371eb6178d79?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 15 |
 | **[Viscadia](https://viscadia.com)** | **[Intern - Associate Consultant](https://jobright.ai/jobs/info/6a07893c3b54ed42d74cf254?utm_campaign=1063&utm_source=git)** | Arlington, VA | On Site | May 15 |
 | **[University of Minnesota](https://twin-cities.umn.edu)** | **[Graduate Intern: Career Consulting](https://jobright.ai/jobs/info/6a079132a203b1052e43c490?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | May 15 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a07051d4a0a6a7e7d820fb6?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 15 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faf408d21cf86d1e3ce2d7?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeced87a4820e6da835eb?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faec9438179b6f1ae73b40?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | May 12 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeca318b94b2515bdd963?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69fadf8a18b94b2515bdcc40?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/69faeca318b94b2515bdd963?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | May 12 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Biodiversity Intern](https://jobright.ai/jobs/info/69fada67e156000841153c29?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | May 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6a041a027c753c287f6ecacf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - IT Technical Consultant (Developer) [Vancouver]](https://jobright.ai/jobs/info/6a030b227c753c287f6e2f3e?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
