@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550b9e?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Intern, Corporate Sustainability, Climate Change and Transactions](https://jobright.ai/jobs/info/6a0f22e783d714428981d1c2?utm_campaign=1063&utm_source=git)** | Toronto, Canada | On Site | May 21 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | May 21 |
 | **[Cognizant](https://www.cognizant.com)** | **[Cognizant Consulting Intern](https://jobright.ai/jobs/info/6a0e7cf709ecfd704b3e987a?utm_campaign=1063&utm_source=git)** | Plano, TX | On Site | May 20 |
@@ -77,24 +78,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5a22d0d34036c88805?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5a22d0d34036c88803?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88801?utm_campaign=1063&utm_source=git)** | Eden Prairie, Minnesota, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88802?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c887ff?utm_campaign=1063&utm_source=git)** | United States of America Santa Ana, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88800?utm_campaign=1063&utm_source=git)** | Franklin, Tennessee, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88802?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887f9?utm_campaign=1063&utm_source=git)** | Tampa, Florida, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fb?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fd?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fc?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887f8?utm_campaign=1063&utm_source=git)** | San Francisco, California, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fa?utm_campaign=1063&utm_source=git)** | Chelmsford, Massachusetts, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887f9?utm_campaign=1063&utm_source=git)** | Tampa, Florida, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fe?utm_campaign=1063&utm_source=git)** | Portland, Oregon, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fc?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fd?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fb?utm_campaign=1063&utm_source=git)** | Philadelphia, Pennsylvania, United States, US | Hybrid | May 18 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Consultant](https://jobright.ai/jobs/info/69ebfb7516b2612c2a12017f?utm_campaign=1063&utm_source=git)** | Bellevue, WA | Hybrid | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/6a0868f4403fc339507ede2b?utm_campaign=1063&utm_source=git)** | 299 Park Avenue, New York, NY | On Site | May 16 |
 | ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/6a0868f1403fc339507ede23?utm_campaign=1063&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d4?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870df?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870ea?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d5?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870ce?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870c8?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | May 16 |
