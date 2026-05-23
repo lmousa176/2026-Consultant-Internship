@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | May 18 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5b22d0d34036c88806?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c887ff?utm_campaign=1063&utm_source=git)** | United States of America Santa Ana, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88801?utm_campaign=1063&utm_source=git)** | Eden Prairie, Minnesota, United States, US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
