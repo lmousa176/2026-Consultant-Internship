@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
 | **[PROJXON](www.projxon.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/6a10ec839fdbf21f36cb1750?utm_campaign=1063&utm_source=git)** | United States | Remote | May 22 |
 | **[99 Yards](https://99yards.app)** | **[Sales Consultant Summer  intern 3 months](https://jobright.ai/jobs/info/6a10c4369f654b3359cedcc6?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
@@ -104,9 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d6022d0d34036c8880a?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5e22d0d34036c88809?utm_campaign=1063&utm_source=git)** | Charlotte, North Carolina, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5b22d0d34036c88806?utm_campaign=1063&utm_source=git)** | Mayfield Heights, Ohio, United States, US | Hybrid | May 18 |
+| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88802?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c887ff?utm_campaign=1063&utm_source=git)** | United States of America Santa Ana, US | Hybrid | May 18 |
 | ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88801?utm_campaign=1063&utm_source=git)** | Eden Prairie, Minnesota, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5922d0d34036c88802?utm_campaign=1063&utm_source=git)** | Appleton, Wisconsin, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887f9?utm_campaign=1063&utm_source=git)** | Tampa, Florida, United States, US | Hybrid | May 18 |
-| ↳ | **[Intern, Technical Sales & Consulting (USA)](https://jobright.ai/jobs/info/6a0b1d5822d0d34036c887fd?utm_campaign=1063&utm_source=git)** | Milwaukee, Wisconsin, United States, US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
