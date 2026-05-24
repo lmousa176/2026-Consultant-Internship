@@ -58,8 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/69e080a1cf5a9e0c33c86d0a?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 23 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Senior Consultant, ERP Services Delivery](https://jobright.ai/jobs/info/69d7eccd9f97a42dc9c18f24?utm_campaign=1063&utm_source=git)** | United States | Remote | May 23 |
 | **[PROJXON](www.projxon.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/6a10ec839fdbf21f36cb1750?utm_campaign=1063&utm_source=git)** | United States | Remote | May 22 |
 | **[99 Yards](https://99yards.app)** | **[Sales Consultant Summer  intern 3 months](https://jobright.ai/jobs/info/6a10c4369f654b3359cedcc6?utm_campaign=1063&utm_source=git)** | NYC Metro Area | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
