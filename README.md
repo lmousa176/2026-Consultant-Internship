@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Delivery Consultant](https://jobright.ai/jobs/info/6a0cb6964d9320363687b3c0?utm_campaign=1063&utm_source=git)** | Remote, UNAVAILABLE, RO | Remote | May 19 |
 | ↳ | **[Intern Delivery Consultant](https://jobright.ai/jobs/info/6a0cb6954d9320363687b3b9?utm_campaign=1063&utm_source=git)** | RO-Remote | Remote | May 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a0c63dd538d03366dc8cf58?utm_campaign=1063&utm_source=git)** | United States | Remote | May 19 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
