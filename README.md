@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/6a0cfc7f963f7a67d95dd8c7?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | May 19 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Delivery Consultant](https://jobright.ai/jobs/info/6a0cb6964d9320363687b3c0?utm_campaign=1063&utm_source=git)** | Remote, UNAVAILABLE, RO | Remote | May 19 |
 | ↳ | **[Intern Delivery Consultant](https://jobright.ai/jobs/info/6a0cb6954d9320363687b3b9?utm_campaign=1063&utm_source=git)** | RO-Remote | Remote | May 19 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a0c63dd538d03366dc8cf58?utm_campaign=1063&utm_source=git)** | United States | Remote | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
