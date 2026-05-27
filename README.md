@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f1de02825a315d7ca3a04f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 23 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SIMULIA CFD Industry Process Consultant](https://jobright.ai/jobs/info/69e080a1cf5a9e0c33c86d0a?utm_campaign=1063&utm_source=git)** | Royal Oak, MI | Hybrid | May 23 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
 | **[Patriots Swim-4-Life Initiative](bhjsl.org)** | **[Student Consultant](https://jobright.ai/jobs/info/6a1288c89fdbf21f36cb6d25?utm_campaign=1063&utm_source=git)** | Charlottesville Area | Hybrid | May 22 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1074d512f8b43cf398543a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Strategy Consultant Intern (September 2026 - 4 Months Term - Toronto, Calgary, Montreal )](https://jobright.ai/jobs/info/69f295798feca91f14925b0a?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | May 21 |
 | **[Dayforce](https://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e42f547fea1610bca8ac6?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 20 |
-| ↳ | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e00fc47fea1610bca5f7c?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
