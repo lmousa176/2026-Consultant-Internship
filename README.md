@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a18571454a441713ae82bbd?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | May 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Building Consulting Internship - Summer 2026](https://jobright.ai/jobs/info/6a184fd2abc8f63abac769cd?utm_campaign=1063&utm_source=git)** | River Edge, NJ | Hybrid | May 28 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a1737df9005d858e94f7879?utm_campaign=1063&utm_source=git)** | United States | Remote | May 27 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Technology and Consulting Internship](https://jobright.ai/jobs/info/6a1728d39005d858e94f69c3?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | May 27 |
@@ -90,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | May 22 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Software Implementation Consultant](https://jobright.ai/jobs/info/69d82413b861c42857c48d4a?utm_campaign=1063&utm_source=git)** | United States | Remote | May 22 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/6a0fd5c012f8b43cf3981ebb?utm_campaign=1063&utm_source=git)** | Richmond, British Columbia, Canada | On Site | May 21 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant - SUMMER INTERN](https://jobright.ai/jobs/info/6a0f844780bf0430c7634be9?utm_campaign=1063&utm_source=git)** | Chapel Hill, NC | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
