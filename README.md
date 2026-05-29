@@ -85,6 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f1de02825a315d7ca3a04f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 23 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
