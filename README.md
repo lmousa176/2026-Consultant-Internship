@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porter O'Brien](http://www.porterobrien.com/)** | **[Entry-Level Consulting Associate](https://jobright.ai/jobs/info/6a19e8dc547e292ae1395aa8?utm_campaign=1063&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | May 29 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Data Analytics](https://jobright.ai/jobs/info/6a19ac5ae24ef3652582664f?utm_campaign=1063&utm_source=git)** | San Francisco, CA, US | On Site | May 29 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/6a18744754a441713ae84b6a?utm_campaign=1063&utm_source=git)** | 299 Park Avenue, New York, NY, US | On Site | May 28 |
 | ↳ | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/6a18743d54a441713ae84b4a?utm_campaign=1063&utm_source=git)** | US-NY-New York | On Site | May 28 |
