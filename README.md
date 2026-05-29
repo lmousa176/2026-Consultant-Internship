@@ -90,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1074d512f8b43cf398543a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | May 22 |
-| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/6a106eb712f8b43cf398518e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 22 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee43e63cea7a8b66d131?utm_campaign=1063&utm_source=git)** | Charleston, SC | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
