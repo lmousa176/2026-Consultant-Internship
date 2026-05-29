@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Patriots Swim-4-Life Initiative](bhjsl.org)** | **[Student Consultant](https://jobright.ai/jobs/info/6a1288c89fdbf21f36cb6d25?utm_campaign=1063&utm_source=git)** | Charlottesville Area | Hybrid | May 22 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1074d512f8b43cf398543a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2c366bb95ba5550ba2?utm_campaign=1063&utm_source=git)** | Greenville, SC | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
