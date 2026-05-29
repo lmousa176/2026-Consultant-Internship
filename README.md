@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Technical Training Operations Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/69f1de02825a315d7ca3a04f?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 23 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
-| **[Patriots Swim-4-Life Initiative](bhjsl.org)** | **[Student Consultant](https://jobright.ai/jobs/info/6a1288c89fdbf21f36cb6d25?utm_campaign=1063&utm_source=git)** | Charlottesville Area | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
