@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Management Consulting (September 2026)](https://jobright.ai/jobs/info/6a1729a7d6a04f21602e3a43?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 29 |
 | **[Porter O'Brien](http://www.porterobrien.com/)** | **[Entry-Level Consulting Associate](https://jobright.ai/jobs/info/6a19e8dc547e292ae1395aa8?utm_campaign=1063&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | May 29 |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Data Analytics](https://jobright.ai/jobs/info/6a19ac5ae24ef3652582664f?utm_campaign=1063&utm_source=git)** | San Francisco, CA, US | On Site | May 29 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Global Partnerships Intern- Brand Consulting & Solutions (NYC)](https://jobright.ai/jobs/info/6a18744754a441713ae84b6a?utm_campaign=1063&utm_source=git)** | 299 Park Avenue, New York, NY, US | On Site | May 28 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a1737df9005d858e94f7879?utm_campaign=1063&utm_source=git)** | United States | Remote | May 27 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Technology and Consulting Internship](https://jobright.ai/jobs/info/6a1728d39005d858e94f69c3?utm_campaign=1063&utm_source=git)** | San Diego, CA | On Site | May 27 |
 | ↳ | **[Healthcare Technology and Consulting Internship](https://jobright.ai/jobs/info/6a1721349005d858e94f6489?utm_campaign=1063&utm_source=git)** | San Diego, California, United States | On Site | May 27 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Management Consulting (September 2026)](https://jobright.ai/jobs/info/6a1729a7d6a04f21602e3a43?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 27 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1682ac554b0e12c058ca29?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 26 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Fleet & Alternate Sales (Projects) Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a0f38ba619335383fb2a0c7?utm_campaign=1063&utm_source=git)** | Atlanta, GA | Hybrid | May 26 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a16040b128680351d966fbc?utm_campaign=1063&utm_source=git)** | Washington, DC | On Site | May 26 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
