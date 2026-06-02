@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Intern Federal Tax Consulting R&D Tax Credits Winter 2027 / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2e48f0c8161d2fbf3e?utm_campaign=1063&utm_source=git)** | Charlotte, NC | On Site | May 21 |
 | **[Dayforce](https://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e42f547fea1610bca8ac6?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 20 |
 | ↳ | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e00fc47fea1610bca5f7c?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 20 |
-| **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/6a0cfc7f963f7a67d95dd8c7?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
