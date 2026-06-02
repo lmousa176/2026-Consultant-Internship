@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 International Business Development, Research Analysis & Consulting Intern](https://jobright.ai/jobs/info/6a1e16563e538a28c204e227?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/698ec78478b4502f12a5a098?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | May 31 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6a0dfa6683d714428981443f?utm_campaign=1063&utm_source=git)** | San Jose, CA | Hybrid | May 31 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | May 30 |
@@ -77,16 +78,16 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
-| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/698a98f80f6f7e7a2ce5cd46?utm_campaign=1063&utm_source=git)** | Charlotte,United States | Hybrid | May 24 |
+| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69fed980238f143e83522e7f?utm_campaign=1063&utm_source=git)** | Charlotte,United States | Hybrid | May 24 |
 | ↳ | **[Technology Consulting Intern](https://jobright.ai/jobs/info/6a1cebd89111f771d1a16ba1?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 24 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant - (Summer Intern)](https://jobright.ai/jobs/info/6a0f844780bf0430c7634be9?utm_campaign=1063&utm_source=git)** | Chapel Hill, NC | On Site | May 23 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
