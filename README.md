@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[SkillBridge NetSuite Military Fellowship: September - November](https://jobright.ai/jobs/info/6a1f904fc5277c00c64872d7?utm_campaign=1063&utm_source=git)** | Nashville, TN | Hybrid | Jun 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - IT Technical Consultant (Developer) [Vancouver]](https://jobright.ai/jobs/info/6a0eefef80bf0430c762ff94?utm_campaign=1063&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 02 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a166c131b2f6918b0e31a00?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 02 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6a1e2d209111f771d1a1da60?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, US | Hybrid | Jun 01 |
@@ -93,11 +94,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
-| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/698a98f80f6f7e7a2ce5cd46?utm_campaign=1063&utm_source=git)** | Charlotte,United States | Hybrid | May 24 |
+| **[Insight](https://www.insight.com)** | **[Technology Consulting Intern](https://jobright.ai/jobs/info/69fed980238f143e83522e7f?utm_campaign=1063&utm_source=git)** | Charlotte,United States | Hybrid | May 24 |
 | ↳ | **[Technology Consulting Intern](https://jobright.ai/jobs/info/6a1cebd89111f771d1a16ba1?utm_campaign=1063&utm_source=git)** | Charlotte, NC | Hybrid | May 24 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant - (Summer Intern)](https://jobright.ai/jobs/info/6a0f844780bf0430c7634be9?utm_campaign=1063&utm_source=git)** | Chapel Hill, NC | On Site | May 23 |
-| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c981?utm_campaign=1063&utm_source=git)** | West Chester | On Site | May 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a11d1b183d714428982c982?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 23 |
 | **[Patriots Swim-4-Life Initiative](bhjsl.org)** | **[Student Consultant](https://jobright.ai/jobs/info/6a1288c89fdbf21f36cb6d25?utm_campaign=1063&utm_source=git)** | Charlottesville Area | Hybrid | May 22 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1074d512f8b43cf398543a?utm_campaign=1063&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a107fd9619335383fb32dbe?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | May 22 |
