@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a2164fdc00e701fe836e2f4?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0e198a09ecfd704b3e5d67?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1ffd37902d19201c7afce8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
+| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1ffd37902d19201c7afce8?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0e198a09ecfd704b3e5d67?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0ce46922d0d34036c99c55?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1ffd2b902d19201c7afce7?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0e996cc152ac7824487b02?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1ffd2b902d19201c7afce7?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1fedfaca8f0b365d79e911?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0f25db9f654b3359ce3049?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a1fa91edce5db1256d16d4b?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Jun 02 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Employee Benefits Consulting Co-Op - Toronto - Fall 2026](https://jobright.ai/jobs/info/6a144aac128680351d95d503?utm_campaign=1063&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 25 |
