@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0e198a09ecfd704b3e5d67?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0ce46922d0d34036c99c55?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0e996cc152ac7824487b02?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a1fedfaca8f0b365d79e911?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a0f25db9f654b3359ce3049?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a1fa91edce5db1256d16d4b?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Jun 02 |
 | **[Oracle](https://www.oracle.com/)** | **[SkillBridge NetSuite Military Fellowship: September - November](https://jobright.ai/jobs/info/6a1f904fc5277c00c64872d7?utm_campaign=1063&utm_source=git)** | Nashville, TN | Hybrid | Jun 02 |
