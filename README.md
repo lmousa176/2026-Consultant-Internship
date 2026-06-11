@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern News Services](https://www.nnsl.com/)** | **[Environmental Consulting](https://jobright.ai/jobs/info/6a2a53590c4972328e7e84bf?utm_campaign=1063&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 10 |
 | **[IQVIA](https://www.iqvia.com)** | **[MedTech Strategy Consulting Intern (Summer 2026) Hybrid](https://jobright.ai/jobs/info/6a2898e82d6c332ee52e7149?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Jun 09 |
 | ↳ | **[MedTech Strategy Consulting Intern (Summer 2026) Hybrid](https://jobright.ai/jobs/info/6a28823d40ac8e32932a21db?utm_campaign=1063&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Jun 09 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a282544fd37e62bb47a708b?utm_campaign=1063&utm_source=git)** | 230 Spring St, Winchester, VA, USA | On Site | Jun 09 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/6a285681883c0d3be6541439?utm_campaign=1063&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | Jun 09 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jun 09 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6a279eef2d6c332ee52e229b?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, US | Hybrid | Jun 08 |
-| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2a2baec07d4b6ae1c44ae4?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 07 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 International Business Development, Research Analysis & Consulting Intern](https://jobright.ai/jobs/info/6a1e16563e538a28c204e227?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6a2704947d827633afff8077?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern, Zero Waste Intern](https://jobright.ai/jobs/info/6a1a2fdde24ef3652582a5bb?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA | On Site | May 29 |
-| **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a18571454a441713ae82bbd?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
