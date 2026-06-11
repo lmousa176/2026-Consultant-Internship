@@ -114,11 +114,11 @@ For a complete list, click the following sortable link below:
 | **[RubinBrown LLP](http://rubinbrown.com)** | **[Summer 2027 Consulting Services Intern - ERP and BPI](https://jobright.ai/jobs/info/6a05e0bfbc4184089f2486f4?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 19 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/6a0cfc7f963f7a67d95dd8c7?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | May 19 |
 | **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d5?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870ea?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870df?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870ea?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d4?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870df?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870ce?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870c8?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | May 16 |
 | **[Meradia](http://meradia.com)** | **[Intern](https://jobright.ai/jobs/info/69aec5dfa4f2e119f26e190d?utm_campaign=1063&utm_source=git)** | West Chester, PA | On Site | May 15 |
