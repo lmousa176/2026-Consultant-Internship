@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6a279eef2d6c332ee52e229b?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, US | Hybrid | Jun 08 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Consultant](https://jobright.ai/jobs/info/69ebfb7516b2612c2a12017f?utm_campaign=1063&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
@@ -113,11 +113,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e00fc47fea1610bca5f7c?utm_campaign=1063&utm_source=git)** | Canada | Remote | May 20 |
 | **[RubinBrown LLP](http://rubinbrown.com)** | **[Summer 2027 Consulting Services Intern - ERP and BPI](https://jobright.ai/jobs/info/6a05e0bfbc4184089f2486f4?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 19 |
 | **[Samba TV](http://www.samba.tv)** | **[Programmatic Analyst Intern](https://jobright.ai/jobs/info/6a0cfc7f963f7a67d95dd8c7?utm_campaign=1063&utm_source=git)** | San Francisco, California | On Site | May 19 |
-| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d4?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | May 16 |
+| **[Wipfli](http://www.wipfli.com)** | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d4?utm_campaign=1063&utm_source=git)** | US-IL-Chicago | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870ea?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | May 16 |
+| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870e9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870df?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d5?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | May 16 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870ea?utm_campaign=1063&utm_source=git)** | US-MN-Minneapolis | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e196186f468598870d7?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870ce?utm_campaign=1063&utm_source=git)** | US-WI-Milwaukee | Hybrid | May 16 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a084e186186f468598870c8?utm_campaign=1063&utm_source=git)** | US-CO-Denver | Hybrid | May 16 |
