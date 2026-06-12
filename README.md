@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayforce](http://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e42f547fea1610bca8ac6?utm_campaign=1063&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern (Sept 2026 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/69f2931ff154d768fbaa7ce6?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[Salesforce Consulting & GTM Intern (Sept 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/69f295738feca91f14925afd?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a2a694c1de59e0682a84697?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 11 |
@@ -65,9 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MedTech Strategy Consulting Intern (Summer 2026) Hybrid](https://jobright.ai/jobs/info/6a28823d40ac8e32932a21db?utm_campaign=1063&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Jun 09 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/6a285681883c0d3be6541439?utm_campaign=1063&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | Jun 09 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jun 09 |
-| **[One Workplace](http://www.oneworkplace.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6a279eef2d6c332ee52e229b?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, US | Hybrid | Jun 08 |
-| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2a2baec07d4b6ae1c44ae4?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 07 |
