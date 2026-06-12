@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/6a2c391cc260bb1b8ae153cf?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 12 |
+| **[Photon](https://www.photon.in)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/6a2c337dfc06447490548a85?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Dayforce](http://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Fall 2026](https://jobright.ai/jobs/info/6a0e42f547fea1610bca8ac6?utm_campaign=1063&utm_source=git)** | Canada | Remote | Jun 11 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern (Sept 2026 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/69f2931ff154d768fbaa7ce6?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a2a694c1de59e0682a84697?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 11 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
+| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2c350efc06447490548aff?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 08 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0649b0320bff2205eaada8?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
@@ -92,5 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21aa6b135014dbc9acca?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | Jun 01 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 International Business Development, Research Analysis & Consulting Intern](https://jobright.ai/jobs/info/6a1e16563e538a28c204e227?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6a2704947d827633afff8077?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern, Zero Waste Intern](https://jobright.ai/jobs/info/6a1a2fdde24ef3652582a5bb?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
