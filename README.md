@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
-| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2c6da3fc06447490549e16?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 08 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
 | ↳ | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a0649b0320bff2205eaada8?utm_campaign=1063&utm_source=git)** | Dallas, TX | On Site | Jun 05 |
