@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jun 09 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2da386fc0644749054c8d6?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 08 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4c542cde2824469c13f5?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4c551de59e0682a83ed9?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4c2f0c4972328e7e820e?utm_campaign=1063&utm_source=git)** | Chicago, IL | Hybrid | Jun 03 |
-| ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4bd50c4972328e7e8202?utm_campaign=1063&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4b47495d985b99428675?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | ↳ | **[ERP Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a2a4ab52cde2824469c13ac?utm_campaign=1063&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a29ecf82cde2824469bf63d?utm_campaign=1063&utm_source=git)** | Milwaukee, WI | Hybrid | Jun 03 |
