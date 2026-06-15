@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MedTech Strategy Consulting Intern (Summer 2026) Hybrid](https://jobright.ai/jobs/info/6a28823d40ac8e32932a21db?utm_campaign=1063&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Jun 09 |
 | **[RBC](https://www.rbc.com)** | **[Group Consultant Intern, RBC Group Advantage](https://jobright.ai/jobs/info/6a285681883c0d3be6541439?utm_campaign=1063&utm_source=git)** | RICHMOND, British Columbia, Canada | On Site | Jun 09 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/697cf5bf137a05102565f0b9?utm_campaign=1063&utm_source=git)** | West Des Moines, IA | On Site | Jun 09 |
-| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
-| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
+| **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cfe?utm_campaign=1063&utm_source=git)** | Chicago, IL, US | Hybrid | Jun 08 |
+| ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df67061b51a3a5f1cff?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfc?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, US | Hybrid | Jun 08 |
 | ↳ | **[CRM Tech Consulting Internship- Summer 2027](https://jobright.ai/jobs/info/6a279df37061b51a3a5f1cfd?utm_campaign=1063&utm_source=git)** | Denver, CO, US | Hybrid | Jun 08 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a2da386fc0644749054c8d6?utm_campaign=1063&utm_source=git)** | 535 Blackrock Drive, Blacksburg, VA 24060, USA | On Site | Jun 08 |
@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21cb6b135014dbc9acde?utm_campaign=1063&utm_source=git)** | Champaign, Illinois, United States | On Site | Jun 01 |
 | ↳ | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21aa6b135014dbc9acca?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | Jun 01 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 International Business Development, Research Analysis & Consulting Intern](https://jobright.ai/jobs/info/6a1e16563e538a28c204e227?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6a2704947d827633afff8077?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
