@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Customer Experience Consulting Intern (Sept 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a2f6fd789f8f147d3731cba?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[EXL](http://www.exlservice.com)** | **[Intern - Finance & Accounting Consulting](https://jobright.ai/jobs/info/6a2c719aa1d15e3c552fbd90?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/6a2c391cc260bb1b8ae153cf?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Photon](https://www.photon.in)** | **[Client Strategy & Innovation (CS&I) Intern  - Multiple Locations US](https://jobright.ai/jobs/info/6a2c337dfc06447490548a85?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 12 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (Sept 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a2e2156c260bb1b8ae19f0c?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
+| ↳ | **[Federal Consulting Intern (Sept 2026 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a2f706f43732c05812deec0?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a2a694c1de59e0682a84697?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | **[Northern News Services](https://www.nnsl.com/)** | **[Environmental Consulting](https://jobright.ai/jobs/info/6a2a53590c4972328e7e84bf?utm_campaign=1063&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 10 |
 | **[IQVIA](https://www.iqvia.com)** | **[MedTech Strategy Consulting Intern (Summer 2026) Hybrid](https://jobright.ai/jobs/info/6a2898e82d6c332ee52e7149?utm_campaign=1063&utm_source=git)** | Durham, NC | Hybrid | Jun 09 |
