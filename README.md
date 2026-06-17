@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/6a32ffe87f3fdd180d4c4f16?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jun 17 |
-| ↳ | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/6a32f57ace501060b5ceb5bf?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jun 17 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Redstone Associate Intern, Summer 2027](https://jobright.ai/jobs/info/6a32e619ce501060b5ceaea8?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | Jun 17 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Market Access Intern (Hybrid)](https://jobright.ai/jobs/info/6a32ce5d649fdf16292eeb9a?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 17 |
-| **[99 Yards](https://99yards.app)** | **[Sales Consultant summer part time internship](https://jobright.ai/jobs/info/6a3261a82ee3ac1b4bef3090?utm_campaign=1063&utm_source=git)** | NYC Metro Area | Remote | Jun 16 |
 | **[THE·TEAM](http://the.team)** | **[Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/6a307c7eafabbe533fb8b6bf?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 15 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Skillbridge (Solutions Consulting)](https://jobright.ai/jobs/info/6a306ef3524fd5657fe10e0a?utm_campaign=1063&utm_source=git)** | Remote - USA - VA, US | Remote | Jun 15 |
 | ↳ | **[Intern - Skillbridge (Solutions Consulting)](https://jobright.ai/jobs/info/6a306eee524fd5657fe10e08?utm_campaign=1063&utm_source=git)** | Office - USA - VA - Reston, US | Hybrid | Jun 15 |
