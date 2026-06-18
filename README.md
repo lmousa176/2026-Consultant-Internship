@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a340fc0649fdf16292f3c16?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern Job Details / Giesecke+Devrient](https://jobright.ai/jobs/info/6a33798f649fdf16292f22b5?utm_campaign=1063&utm_source=git)** | San Jose, CA, US | On Site | Jun 17 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a335e31910b734910714ea8?utm_campaign=1063&utm_source=git)** | 4303 Lakeside Parkway, Grapevine, Texas, United States of America | Hybrid | Jun 17 |
 | ↳ | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a335e29910b734910714ea6?utm_campaign=1063&utm_source=git)** | Grapevine, Texas, United States of America | Hybrid | Jun 17 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
