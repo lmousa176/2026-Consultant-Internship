@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[StoneTurn](http://stoneturn.com)** | **[Associate Consultant (Intern) - Forensic, Compliance, Disputes](https://jobright.ai/jobs/info/6a33264c29c90c607e4da7ca?utm_campaign=1063&utm_source=git)** | San Francisco, CA | On Site | Jun 17 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Redstone Associate Intern, Summer 2027](https://jobright.ai/jobs/info/6a32e619ce501060b5ceaea8?utm_campaign=1063&utm_source=git)** | New York City, NY | On Site | Jun 17 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Market Access Intern (Hybrid)](https://jobright.ai/jobs/info/6a32ce5d649fdf16292eeb9a?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 17 |
 | **[THE·TEAM](http://the.team)** | **[Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/6a307c7eafabbe533fb8b6bf?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 15 |
@@ -78,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a221590ca8f0b365d7aac85?utm_campaign=1063&utm_source=git)** | Grapevine, TX | Hybrid | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a21e8d2902d19201c7bae4d?utm_campaign=1063&utm_source=git)** | Grapevine, TX | Hybrid | Jun 04 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a21aa9bca8f0b365d7a7bc5?utm_campaign=1063&utm_source=git)** | United States of America-Texas-GrapevineWork Locations | Hybrid | Jun 04 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a2982182cde2824469bc9fa?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 03 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Leasing Consultant Internship - Arizona](https://jobright.ai/jobs/info/6a1fa91edce5db1256d16d4b?utm_campaign=1063&utm_source=git)** | Phoenix, AZ | On Site | Jun 02 |
 | **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21cb6b135014dbc9acde?utm_campaign=1063&utm_source=git)** | Champaign, Illinois, United States | On Site | Jun 01 |
