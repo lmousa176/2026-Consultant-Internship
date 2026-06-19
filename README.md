@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OJC Conseil](http://www.ojc-consulting.com/)** | **[Consultant Ivalua - Implementation ERP](https://jobright.ai/jobs/info/6a3590d029c90c607e4e2c55?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a340fc0649fdf16292f3c16?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern Job Details / Giesecke+Devrient](https://jobright.ai/jobs/info/6a33798f649fdf16292f22b5?utm_campaign=1063&utm_source=git)** | San Jose, CA, US | On Site | Jun 17 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a335e31910b734910714ea8?utm_campaign=1063&utm_source=git)** | 4303 Lakeside Parkway, Grapevine, Texas, United States of America | Hybrid | Jun 17 |
