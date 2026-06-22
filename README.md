@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Management Consulting (September 2026)](https://jobright.ai/jobs/info/6a39a5e61232144fb156ca57?utm_campaign=1063&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jun 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a2982182cde2824469bc9fa?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 22 |
 | **[OJC Conseil](http://www.ojc-consulting.com/)** | **[Consultant Ivalua - Implementation ERP](https://jobright.ai/jobs/info/6a3590d029c90c607e4e2c55?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a340fc0649fdf16292f3c16?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 18 |
