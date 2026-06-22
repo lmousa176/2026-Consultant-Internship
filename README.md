@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InnovaSec.us](https://InnovaSec.net)** | **[Cybersecurity Consultant Intern](https://jobright.ai/jobs/info/6a3980db6484fb75f2b3212a?utm_campaign=1063&utm_source=git)** | Houston, TX | Remote | Jun 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a2982182cde2824469bc9fa?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 22 |
 | **[OJC Conseil](http://www.ojc-consulting.com/)** | **[Consultant Ivalua - Implementation ERP](https://jobright.ai/jobs/info/6a3590d029c90c607e4e2c55?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 19 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a340fc0649fdf16292f3c16?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 18 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[BAM Capital](https://bamcapital.com)** | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21cb6b135014dbc9acde?utm_campaign=1063&utm_source=git)** | Champaign, Illinois, United States | On Site | Jun 01 |
 | ↳ | **[Leasing Consultant Sales Intern (Nantucket Cove)](https://jobright.ai/jobs/info/6a1e21aa6b135014dbc9acca?utm_campaign=1063&utm_source=git)** | Champaign, IL | On Site | Jun 01 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Fall 2026 International Business Development, Research Analysis & Consulting Intern](https://jobright.ai/jobs/info/6a1e16563e538a28c204e227?utm_campaign=1063&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
-| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Technical Consultant Intern](https://jobright.ai/jobs/info/6a2704947d827633afff8077?utm_campaign=1063&utm_source=git)** | San Jose, CA | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern, Zero Waste Intern](https://jobright.ai/jobs/info/6a1a2fdde24ef3652582a5bb?utm_campaign=1063&utm_source=git)** | Sunnyvale, CA | On Site | May 29 |
 | **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a18571454a441713ae82bbd?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | May 28 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1682ac554b0e12c058ca29?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 26 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15719a554b0e12c058270d?utm_campaign=1063&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
