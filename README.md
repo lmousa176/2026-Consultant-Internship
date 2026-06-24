@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Skillbridge (Solutions Consulting)](https://jobright.ai/jobs/info/6a306ef3524fd5657fe10e0a?utm_campaign=1063&utm_source=git)** | Remote - USA - VA, US | Remote | Jun 15 |
 | ↳ | **[Intern - Skillbridge (Solutions Consulting)](https://jobright.ai/jobs/info/6a306eee524fd5657fe10e08?utm_campaign=1063&utm_source=git)** | Office - USA - VA - Reston, US | Hybrid | Jun 15 |
 | ↳ | **[Intern - Solutions Consultant](https://jobright.ai/jobs/info/6a306ed6eace377055eb656f?utm_campaign=1063&utm_source=git)** | Arlington, United States of America | Remote | Jun 15 |
-| **[IBM](http://www.ibm.com)** | **[Customer Experience Consulting Intern (Sept 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a2f6fd789f8f147d3731cba?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 12 |
 | **[EXL](http://www.exlservice.com)** | **[Intern - Finance & Accounting Consulting](https://jobright.ai/jobs/info/6a360e7f7f3fdd180d4cf73a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 11 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (Sept 2026 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a2e2156c260bb1b8ae19f0c?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a2a694c1de59e0682a84697?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 11 |
@@ -86,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
+| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
