@@ -81,14 +81,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Intern - Sales Consultant](https://jobright.ai/jobs/info/6a3aa624797099171917aec3?utm_campaign=1063&utm_source=git)** | Darrell Waltrip Honda, US | On Site | Jun 01 |
 | **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a18571454a441713ae82bbd?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | May 28 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a1682ac554b0e12c058ca29?utm_campaign=1063&utm_source=git)** | Westborough, MA | On Site | May 26 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571e0554b0e12c0582778?utm_campaign=1063&utm_source=git)** | Florida | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d6554b0e12c0582773?utm_campaign=1063&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571d4554b0e12c0582772?utm_campaign=1063&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582763?utm_campaign=1063&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571ca554b0e12c0582762?utm_campaign=1063&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c4554b0e12c0582754?utm_campaign=1063&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571c3554b0e12c0582751?utm_campaign=1063&utm_source=git)** | Indianapolis, Indiana, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273e?utm_campaign=1063&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571be554b0e12c058273f?utm_campaign=1063&utm_source=git)** | Panama City Beach, Florida, United States | On Site | May 26 |
-| ↳ | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a1571bc554b0e12c058273b?utm_campaign=1063&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
