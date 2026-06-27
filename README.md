@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 27 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a40113b1afc66714d3c99d9?utm_campaign=1063&utm_source=git)** | Ellington Metro West | On Site | Jun 27 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Remote Business Analyst / Consultant Intern](https://jobright.ai/jobs/info/6a3f102078237a036d5e66a1?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Jun 26 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Federal Tax Specialty R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a3daf6ad261407de9801a25?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jun 25 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern - Finance & Accounting Consulting](https://jobright.ai/jobs/info/6a360e7f7f3fdd180d4cf73a?utm_campaign=1063&utm_source=git)** | United States | Remote | Jun 11 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Consulting Intern](https://jobright.ai/jobs/info/6a2a694c1de59e0682a84697?utm_campaign=1063&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a3d90de122f340d29cf1438?utm_campaign=1063&utm_source=git)** | 300 Fieldstone Lane, Blacksburg, VA 24060, USA | On Site | Jun 08 |
-| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 05 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a221590ca8f0b365d7aac85?utm_campaign=1063&utm_source=git)** | Grapevine, TX | Hybrid | Jun 04 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a21e8d2902d19201c7bae4d?utm_campaign=1063&utm_source=git)** | Grapevine, TX | Hybrid | Jun 04 |
