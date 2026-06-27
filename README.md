@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a40113b1afc66714d3c99d9?utm_campaign=1063&utm_source=git)** | Ellington Metro West | On Site | Jun 27 |
 | **[RG&T Solutions](https://www.linkedin.com/company/112014533)** | **[Remote Business Analyst / Consultant Intern](https://jobright.ai/jobs/info/6a3f102078237a036d5e66a1?utm_campaign=1063&utm_source=git)** | San Francisco, CA | Remote | Jun 26 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Federal Tax Specialty R&D Tax Credits Summer 2027 / Multiple Locations](https://jobright.ai/jobs/info/6a3daf6ad261407de9801a25?utm_campaign=1063&utm_source=git)** | Houston, TX | On Site | Jun 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Parking Project Consultant - Paid Intern](https://jobright.ai/jobs/info/6a3f925354db074376c68626?utm_campaign=1063&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 24 |
