@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[CRM Consulting Internship (Fall 2026)](https://jobright.ai/jobs/info/6a43cacc105260150b71e2b0?utm_campaign=1063&utm_source=git)** | Lehi, Utah, United States | On Site | Jun 30 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a432e91e09ecb495964261f?utm_campaign=1063&utm_source=git)** | Cleveland, OH | On Site | Jun 29 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern, Construction Projects & Assets](https://jobright.ai/jobs/info/6a239b6a14de9460dc844e2d?utm_campaign=1063&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 27 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a40113b1afc66714d3c99d9?utm_campaign=1063&utm_source=git)** | Ellington Metro West | On Site | Jun 27 |
