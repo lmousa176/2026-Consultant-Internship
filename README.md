@@ -81,5 +81,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Solutions Consultant](https://jobright.ai/jobs/info/6a306ed6eace377055eb656f?utm_campaign=1063&utm_source=git)** | Arlington, United States of America | Remote | Jun 15 |
 | **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a447ca9b156014e414bc978?utm_campaign=1063&utm_source=git)** | 300 Fieldstone Lane, Blacksburg, VA 24060, USA | On Site | Jun 07 |
 | **[DBI Consultants](https://cc.dbinyc.com/)** | **[Construction Consultant Intern](https://jobright.ai/jobs/info/6a07e1bd939a5f01db9546c1?utm_campaign=1063&utm_source=git)** | DBI-San Antonio TX Office, US | On Site | Jun 05 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Learning & Performance Center Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a221590ca8f0b365d7aac85?utm_campaign=1063&utm_source=git)** | Grapevine, TX | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
