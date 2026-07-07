@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 01 |
-| ↳ | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 01 |
+| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 06 |
+| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 01 |
 | ↳ | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a45879c0dd56c76cc2f3b6d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 01 |
 | **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Leasing Consultant (Summer Intern)](https://jobright.ai/jobs/info/6a40113b1afc66714d3c99d9?utm_campaign=1063&utm_source=git)** | Ellington Metro West | On Site | Jul 01 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant, Client Services - Retirement](https://jobright.ai/jobs/info/6a440a97ef17a815538a2abe?utm_campaign=1063&utm_source=git)** | Remote, Pennsylvania, US | Remote | Jun 30 |
