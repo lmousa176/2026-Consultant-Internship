@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Undergraduate Intern - Strategic Consulting](https://jobright.ai/jobs/info/6a4e62121544d7246c0d285c?utm_campaign=1063&utm_source=git)** | Palo Alto, California, USA | Hybrid | Jul 08 |
 | **[ZS](https://www.zs.com/)** | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/6a4dfd54fc327f422fef186a?utm_campaign=1063&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 08 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Fall Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/6a4d405599523700cbff4f19?utm_campaign=1063&utm_source=git)** | New York City, New York | Hybrid | Jul 07 |
 | **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 06 |
