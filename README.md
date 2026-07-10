@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a5139b257513b72e0c64f6e?utm_campaign=1063&utm_source=git)** | Brookings, SD, United States | On Site | Jul 10 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6a511c0357513b72e0c63f1b?utm_campaign=1063&utm_source=git)** | Zales - Pearlridge Center - Aiea, HI, United States of America | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a511c6f57513b72e0c63f7d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ushur](https://ushur.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6a50397a4649561ec08b0b6c?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Jul 09 |
