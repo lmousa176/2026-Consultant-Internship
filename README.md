@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ushur](https://ushur.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6a50397a4649561ec08b0b6c?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Jul 09 |
+| **[Digital Impact Media Group](https://www.digitalimpact.ai/)** | **[HubSpot Consulting Internship](https://jobright.ai/jobs/info/6a503ff5f57ed168c34187fd?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Crossroads at Terrell - Terrell, TX](https://jobright.ai/jobs/info/6a4e167a15b4965afd5824a4?utm_campaign=1063&utm_source=git)** | Zales - Crossroads at Terrell - Terrell, TX, United States of America | On Site | Jul 09 |
 | **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Winter / Spring 2027), Management Consulting](https://jobright.ai/jobs/info/6a503959f57ed168c3418689?utm_campaign=1063&utm_source=git)** | New York | On Site | Jul 08 |
 | ↳ | **[Associate (Intern - Summer 2027), Management Consulting](https://jobright.ai/jobs/info/6a50395cf57ed168c341868a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
