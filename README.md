@@ -77,4 +77,5 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a2982182cde2824469bc9fa?utm_campaign=1063&utm_source=git)** | Jersey City, NJ | On Site | Jun 22 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Skillbridge (Solutions Consulting)](https://jobright.ai/jobs/info/6a306ef3524fd5657fe10e0a?utm_campaign=1063&utm_source=git)** | Remote - USA - VA, US | Remote | Jun 15 |
 | ↳ | **[Intern - Solutions Consultant](https://jobright.ai/jobs/info/6a306ed6eace377055eb656f?utm_campaign=1063&utm_source=git)** | Arlington, United States of America | Remote | Jun 15 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Consulting Intern](https://jobright.ai/jobs/info/699768f6ce78e77b4fdbc13b?utm_campaign=1063&utm_source=git)** | US-New York, NY | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
