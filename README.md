@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - The Outlet Shoppes at Oklahoma City - Oklahoma City, OK](https://jobright.ai/jobs/info/69726cb29b83b424830e602a?utm_campaign=1063&utm_source=git)** | Zale Outlet - The Outlet Shoppes O - Oklahoma City, OK | On Site | Jul 11 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51be0a78e364789ca5c042?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b17602522b5b722e9b15?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b60a57513b72e0c666b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
+| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
 | ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
-| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6a511c0357513b72e0c63f1b?utm_campaign=1063&utm_source=git)** | Zales - Pearlridge Center - Aiea, HI, United States of America | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a511c6f57513b72e0c63f7d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ushur](https://ushur.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6a50397a4649561ec08b0b6c?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Jul 09 |
