@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -70,15 +70,16 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6a511c0357513b72e0c63f1b?utm_campaign=1063&utm_source=git)** | Zales - Pearlridge Center - Aiea, HI, United States of America | On Site | Jul 12 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales Outlet - Central Texas Marketplace - Waco, TX](https://jobright.ai/jobs/info/6a5126f002522b5b722e7ff1?utm_campaign=1063&utm_source=git)** | Zale Outlet - Central Texas Market - Waco, TX, United States of America | On Site | Jul 12 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Westland Mall - Hialeah, FL](https://jobright.ai/jobs/info/6a52a7e99fbdab22fe13c735?utm_campaign=1063&utm_source=git)** | Zales - Westland Mall - Hialeah, FL, United States of America | On Site | Jul 12 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Zales - University Place - Shreveport, LA](https://jobright.ai/jobs/info/6a50f67b78e364789ca578d6?utm_campaign=1063&utm_source=git)** | Zales - Mall St. Vincent - Shreveport, LA, United States of America | On Site | Jul 12 |
+| **[STRATO](https://strato.id)** | **[Strategy Consultant](https://jobright.ai/jobs/info/6a54f093ae07d60a8d00ddcf?utm_campaign=1063&utm_source=git)** | Washington County, OR, United States | On Site | Jul 12 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - University Place - Shreveport, LA](https://jobright.ai/jobs/info/6a50f67b78e364789ca578d6?utm_campaign=1063&utm_source=git)** | Zales - Mall St. Vincent - Shreveport, LA, United States of America | On Site | Jul 12 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - The Outlet Shoppes at Oklahoma City - Oklahoma City, OK](https://jobright.ai/jobs/info/69726cb29b83b424830e602a?utm_campaign=1063&utm_source=git)** | Zale Outlet - The Outlet Shoppes O - Oklahoma City, OK | On Site | Jul 11 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51be0a78e364789ca5c042?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b17602522b5b722e9b15?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b60a57513b72e0c666b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
-| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
 | ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
+| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a511c6f57513b72e0c63f7d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ushur](https://ushur.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6a50397a4649561ec08b0b6c?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Jul 09 |
 | **[Digital Impact Media Group](https://www.digitalimpact.ai/)** | **[HubSpot Consulting Internship](https://jobright.ai/jobs/info/6a503ff5f57ed168c34187fd?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 09 |
@@ -86,10 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Mercer](https://www.mercer.us)** | **[Mercer A Marsh Business- Wealth Actuarial Diversity Career Summit- Virtual Event 2026](https://jobright.ai/jobs/info/6a4f0971fc327f422fef4c23?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Jul 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Undergraduate Intern - Strategic Consulting](https://jobright.ai/jobs/info/6a4e62121544d7246c0d285c?utm_campaign=1063&utm_source=git)** | Palo Alto, California, USA | Hybrid | Jul 08 |
 | **[ZS](https://www.zs.com/)** | **[Strategy Insights & Planning Consultant - Intern ( North America Students )](https://jobright.ai/jobs/info/6a4dfd54fc327f422fef186a?utm_campaign=1063&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 08 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459eed48d2f00f2a86e2d8?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 06 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Chicago Ridge Mall - Chicago Ridge - Oak Lawn, IL](https://jobright.ai/jobs/info/6a4fe6b0f57ed168c3417383?utm_campaign=1063&utm_source=git)** | Zales - Chicago Ridge Mall - Chicago Ridge, IL, United States of America | On Site | Jul 02 |
-| ↳ | **[Sales Associate / Jewelry Consultant - Zales Outlet - Clarksburg Premium Outlets - Clarksburg, MD](https://jobright.ai/jobs/info/6a54f9f3268af95237be86dd?utm_campaign=1063&utm_source=git)** | Clarksburg, MD, United States | On Site | Jul 02 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Woodfield Mall - Schaumburg, IL](https://jobright.ai/jobs/info/6a51cffdbf63b66c7997d279?utm_campaign=1063&utm_source=git)** | Zales - Woodfield Mall - Schaumburg, IL, United States of America | On Site | Jul 01 |
-| **[EVERSANA](https://www.eversana.com)** | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a459ee63dbab558e29a1d80?utm_campaign=1063&utm_source=git)** | Boston, MA, USA | Remote | Jul 01 |
-| ↳ | **[Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program)](https://jobright.ai/jobs/info/6a45879c0dd56c76cc2f3b6d?utm_campaign=1063&utm_source=git)** | Boston, MA | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
