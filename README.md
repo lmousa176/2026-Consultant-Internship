@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BloomHR](www.joinbloomhr.com)** | **[General Application - Human Resources Consulting & PEO Industry](https://jobright.ai/jobs/info/6a56152421f64463ad35284f?utm_campaign=1063&utm_source=git)** | Remote in Charlotte, NC | Remote | Jul 14 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales Outlet - The Outlets at Legends - Sparks, NV](https://jobright.ai/jobs/info/6a5240a0d007ee02d95f6c6a?utm_campaign=1063&utm_source=git)** | Sparks, NV, United States | On Site | Jul 14 |
+| **[Withum](http://www.withum.com)** | **[Valuation Consulting Fall Intern 2026](https://jobright.ai/jobs/info/6a560b4c21f64463ad3520b0?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Jul 14 |
 | **[Community Boost](https://www.communityboost.org)** | **[Digital Marketing Consulting Intern](https://jobright.ai/jobs/info/6a55d20c14f1040fa611c898?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Jul 13 |
 | **[Cleveland Research Company](https://www.clevelandresearch.com)** | **[Hedge Fund Sales Consultant Intern - Summer 2027](https://jobright.ai/jobs/info/6a432e91e09ecb495964261f?utm_campaign=1063&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 13 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Merritt Square Mall - Merritt Island, FL](https://jobright.ai/jobs/info/6a51ff5ebf63b66c7997f1ee?utm_campaign=1063&utm_source=git)** | Zales - Merritt Square Mall - Merritt Island, FL, United States of America | On Site | Jul 13 |
@@ -79,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[NEW HOME SALES CONSULTANT CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51db66bf63b66c7997e05e?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b17602522b5b722e9b15?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b60a57513b72e0c666b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
 | ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
-| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
+| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a511c6f57513b72e0c63f7d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ushur](https://ushur.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6a50397a4649561ec08b0b6c?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Jul 09 |
 | **[Digital Impact Media Group](https://www.digitalimpact.ai/)** | **[HubSpot Consulting Internship](https://jobright.ai/jobs/info/6a503ff5f57ed168c34187fd?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 09 |
