@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[6Buttons LLC](https://www.linkedin.com/company/105254501)** | **[E‑Commerce & Social Media Intern/Consultant (Rugby and Cricket Focus)](https://jobright.ai/jobs/info/6a59278063a8f619507c0a06?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 16 |
+| **[Park Properties Management Company](https://www.goparkproperties.com)** | **[Apartment Leasing Consultant Internship](https://jobright.ai/jobs/info/6a59245fc8e3a473cb8a53c8?utm_campaign=1063&utm_source=git)** | Harrisonburg, VA 22801, USA | On Site | Jul 16 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Chicago Ridge Mall - Chicago Ridge - Oak Lawn, IL](https://jobright.ai/jobs/info/6a4fe6b0f57ed168c3417383?utm_campaign=1063&utm_source=git)** | Zales - Chicago Ridge Mall - Chicago Ridge, IL, United States of America | On Site | Jul 16 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Valdosta Mall - Valdosta, GA](https://jobright.ai/jobs/info/6a53208ee726ec56126a5cd9?utm_campaign=1063&utm_source=git)** | Zales - Valdosta Mall - Valdosta, GA, United States of America | On Site | Jul 16 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Mall Of Georgia - Buford, GA](https://jobright.ai/jobs/info/6a55f3e9f7517b519ad52263?utm_campaign=1063&utm_source=git)** | Zales - Mall Of Georgia - Buford, GA, United States of America | On Site | Jul 16 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51be0a78e364789ca5c042?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b17602522b5b722e9b15?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Vehicle Compliance & Analysis Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6a51b60a57513b72e0c666b5?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | Hybrid | Jul 10 |
-| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
-| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
+| **[Hurley & Associates](https://www.hurleyandassociates.com/)** | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a519c1802522b5b722e9168?utm_campaign=1063&utm_source=git)** | Grundy Center, IA, US | On Site | Jul 10 |
+| ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51af3a57513b72e0c65f66?utm_campaign=1063&utm_source=git)** | Glenwood, MN, United States | On Site | Jul 10 |
 | ↳ | **[Intern Farm Marketing Consultant](https://jobright.ai/jobs/info/6a51b6b3bf63b66c7997b516?utm_campaign=1063&utm_source=git)** | Charleston, MO, United States | On Site | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6a511c6f57513b72e0c63f7d?utm_campaign=1063&utm_source=git)** | United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
