@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[VOLUNTEER / Intern MENTOR PROGRAM DEVELOPMENT CONSULTANT](https://jobright.ai/jobs/info/6a59e9a4c8e3a473cb8a8c69?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Associate / Jewelry Consultant - Zales - Dimond Center - Ancharage, AK](https://jobright.ai/jobs/info/6a50f25457513b72e0c627b3?utm_campaign=1063&utm_source=git)** | Zales - Dimond Center - Anchorage, AK, United States of America | On Site | Jul 16 |
 | ↳ | **[Sales Associate / Jewelry Consultant - Zales - Pearlridge Center - Aiea, HI](https://jobright.ai/jobs/info/6a511c0357513b72e0c63f1b?utm_campaign=1063&utm_source=git)** | Zales - Pearlridge Center - Aiea, HI, United States of America | On Site | Jul 16 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Fall Intern, Health Care Consulting (population health, value based payments, health analytics)](https://jobright.ai/jobs/info/6a550dac268af95237be8df1?utm_campaign=1063&utm_source=git)** | New York City, New York | Hybrid | Jul 16 |
