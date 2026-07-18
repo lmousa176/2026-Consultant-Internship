@@ -1,8 +1,8 @@
 import re
 
 # Customize your target locations and keywords here
-TARGET_LOCATIONS = ["New York", "Remote", "Boston", "NJ", "Canada"]
-TARGET_KEYWORDS = ["Fall", "2026", "Intern", "Consulting"] 
+TARGET_LOCATIONS = ["New York", "NYC", "Philadelphia", "Remote", "New Jersey", "NJ", "Canada"]
+TARGET_KEYWORDS = [ "Product Management", "Luxury", "Data Analysis", "Intern", "Consulting"] 
 
 def filter_markdown_table(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
